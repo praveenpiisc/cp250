@@ -1,0 +1,1146 @@
+BuildingName,BuildingAddress,BuildingType,BuildingSize,PublicSector,YearObtainedTOP_CSC,GreenMarkYearofAward,GreenMarkRating,GreenMarkStatus,GrossFloorArea_M2,PercentageOfAirconditionedFloorArea,AverageMonthlyBuildingOccupancyRate_percentage,NumberOfHotelRooms,TypeOfAirconditioningSystem,AgeOfNewestChiller_Airconditioner,CentralisedAirconditioningPlantEfficiency_kWRT,YearOfLastChillerPlantAuditHealthCheck,PercentageUsageOfLED,InstallationOfSolarPV,EUI2015_kWhM2Yr,EUI2016_kWhM2Yr,EUI2017_kWhM2Yr,EUIPerformanceComparedToPreviousYear,Benchmarking_EUI_Quartile,VoluntaryDisclosure,BuildingAge,TotalEnergy2017
+FUJI XEROX TOWERS,"80 ANSON ROAD, SINGAPORE 079907",Office Building,Large,No,1989,2014,Platinum,Yes,48688,69,96,,Water Cooled Chilled Water Plant,7,0.59,2013,50,N,186.2,181.3,169.3,Improved,2nd Quartile,Y,29,8242878.4
+CITY SQUARE MALL,"180 KITCHENER ROAD, SINGAPORE 208539",Retail Building,Large,No,2009,2015,Platinum,Yes,65640,62,93,,Water Cooled Chilled Water Plant,8,0.65,2015,75,Y,392.5,384.9,382.2,Improved,2nd Quartile,Y,9,25087608
+REPUBLIC PLAZA,"9 RAFFLES PLACE, SINGAPORE 048619",Office Building,Large,No,1998,2014,Platinum,Yes,102356,80,80,,Water Cooled Chilled Water Plant,2,0.59,2017,4,N,244.9,242.7,212.4,Improved,3rd Quartile,Y,20,21740414.400000002
+CENTRAL MALL,"1 MAGAZINE ROAD, SINGAPORE 059567",Office Building,Large,No,1999,2017,Platinum,Yes,15769,90,93,,Water Cooled Chilled Water Plant,4,0.65,2017,50,N,210.5,197.4,202.8,Worsened,3rd Quartile,Y,19,3197953.2
+ONE KM,"11 TANJONG KATONG ROAD, SINGAPORE 437157",Retail Building,Large,No,2014,2015,Gold,Yes,28938,100,90,,Water Cooled Chilled Water Plant,1,0.62,2016,31,N,466.6,462.7,430.7,Improved,3rd Quartile,Y,4,12463596.6
+,,Mixed Development,,,,,,No,,,,,,,,,,,287.3,284.5,281.2,Improved,3rd Quartile,N,,
+GREATWOOD BUILDING,"43 CARPENTER STREET, SINGAPORE 059922",Office Building,Small,No,1984,,Not Certified,No,913,100,100,,"Others (Split Units, Unitary Systems)",32,,,0,N,275.8,247.5,222.5,Improved,3rd Quartile,Y,34,203142.5
+TIALOC CENTRE,"731 NORTH BRIDGE ROAD, SINGAPORE 198699",Office Building,Small,No,2003,,Not Certified,No,385,94,100,,"Others (Split Units, Unitary Systems)",10,,,0,N,184.1,200.7,196.9,Improved,3rd Quartile,Y,15,75806.5
+HPL HOUSE,"50 CUSCADEN ROAD, SINGAPORE 249724",Office Building,Small,No,1980,,Not Certified,No,7372,97,90,,"Others (Split Units, Unitary Systems)",4,,,3,N,329.5,312.2,277.9,Improved,Bottom Quartile,Y,38,2048678.7999999998
+,"69 KEONG SAIK ROAD, SINGAPORE 089165",Hotel,Small,No,1997,,Not Certified,No,757,100,75,25,"Others (Split Units, Unitary Systems)",3,,,100,N,208.9,221.2,234.5,Worsened,2nd Quartile,Y,21,177516.5
+,"2 LENGKOK BAHRU, SINGAPORE 159047",Office Building,Small,Yes,2004,,Not Certified,No,5199,81,90,,"Others (Split Units, Unitary Systems)",4,,,20,N,218.6,218.7,215.1,Improved,3rd Quartile,Y,14,1118304.9
+,"15 LORONG 22 GEYLANG, SINGAPORE 398673",Hotel,Small,No,1993,,Not Certified,No,471,100,80,16,"Others (Split Units, Unitary Systems)",16,,,100,N,227.7,209,188.2,Improved,2nd Quartile,Y,25,88642.2
+,"1 LORONG 14 GEYLANG, SINGAPORE 398913",Hotel,Small,No,1998,,Not Certified,No,430,70,70,18,"Others (Split Units, Unitary Systems)",18,,,100,N,224,204.8,195.2,Improved,2nd Quartile,Y,20,83936
+JAYLEEN 1918 HOTEL,"42 CARPENTER STREET, SINGAPORE 059921",Hotel,Small,No,2010,,Not Certified,No,1379,97,65,41,"Others (Split Units, Unitary Systems)",1,,,13,N,253.6,255,211,Improved,2nd Quartile,Y,8,290969
+PARKWAY PARADE,"80 MARINE PARADE ROAD, SINGAPORE 449269",Office Building,Large,No,1983,2016,Platinum,Yes,99012,79,100,,Water Cooled Chilled Water Plant,2,0.7,2013,60,N,329.9,332.8,325.6,Improved,Bottom Quartile,Y,35,32238307.200000003
+WANGZ HOTEL,"231 OUTRAM ROAD, SINGAPORE 169040",Hotel,Small,No,2011,,Not Certified,No,2324,86,76,41,"Others (Split Units, Unitary Systems)",7,,,55,N,391.3,415.4,400,Improved,Bottom Quartile,Y,7,929600
+,"759 MOUNTBATTEN ROAD, SINGAPORE 437761",Hotel,Small,No,1950,,Not Certified,No,1100,82,70,41,"Others (Split Units, Unitary Systems)",6,,,20,N,176,162.4,150.9,Improved,Top Quartile,Y,68,165990
+,"33 LORONG 12 GEYLANG, SINGAPORE 399007",Retail Building,Small,No,1998,,Not Certified,No,400,100,70,33,"Others (Split Units, Unitary Systems)",5,,,0,N,370.3,372.1,343.5,Improved,2nd Quartile,Y,20,137400
+,"1 LORONG 10 GEYLANG, SINGAPORE 399035",Hotel,Small,No,1998,,Not Certified,No,555,100,70,25,"Others (Split Units, Unitary Systems)",0,,,0,N,245.3,313.6,268.7,Improved,3rd Quartile,Y,20,149128.5
+PARLIAMENT HOUSE COMPLEX,"1 PARLIAMENT PLACE, SINGAPORE 178880",Office Building,Large,Yes,1999,2015,Platinum,Yes,19765,82,60,,Water Cooled Chilled Water Plant,3,0.67,2017,21,N,130.4,134.3,127.2,Improved,Top Quartile,Y,19,2514108
+BROADWAY HOTEL,"195 SERANGOON ROAD, SINGAPORE 218067",Hotel,Small,No,1969,,Not Certified,No,2162,100,100,65,"Others (Split Units, Unitary Systems)",3,,,80,N,228.4,247.6,247.1,Improved,3rd Quartile,Y,49,534230.2
+,,Office Building,Large,,,,,No,,,,,,,,,,,182.7,178.1,164.4,Improved,2nd Quartile,N,,
+,"15 LORONG 15 GEYLANG, SINGAPORE 388607",Hotel,Small,No,1991,,Not Certified,No,1376,100,60,80,"Others (Split Units, Unitary Systems)",6,,,0,N,227.3,218.8,193.1,Improved,2nd Quartile,Y,27,265705.6
+GATEWAY EAST,"152 BEACH ROAD, SINGAPORE 189721",Office Building,Large,No,1990,,Not Certified,No,105307,67,90,,Water Cooled Chilled Water Plant,7,0.55,2016,10,N,209,212.2,200.8,Improved,3rd Quartile,Y,28,21145645.6
+,"9 JALAN BESAR, SINGAPORE 208786",Hotel,Small,No,2010,,Not Certified,No,760,79,50,22,"Others (Split Units, Unitary Systems)",1,,,0,N,317.5,208.1,179.8,Improved,Top Quartile,Y,8,136648
+CHYE SING BUILDING,"87 BEACH ROAD, SINGAPORE 189695",Office Building,Small,No,1983,,Not Certified,No,2206,79,96,,"Others (Split Units, Unitary Systems)",6,,,0,N,207.7,205.4,184.3,Improved,2nd Quartile,Y,35,406565.80000000005
+SIXTH AVENUE CENTRE,"805 BUKIT TIMAH ROAD, SINGAPORE 279883",Retail Building,Small,No,1988,,Not Certified,No,1323,99,100,,"Others (Split Units, Unitary Systems)",0,,,0,N,423.4,445.6,403.1,Improved,3rd Quartile,Y,30,533301.3
+NOSTALGIA HOTEL,"77 TIONG BAHRU ROAD, SINGAPORE 168727",Hotel,Small,No,2009,,Not Certified,No,1244,83,75,50,"Others (Split Units, Unitary Systems)",8,,,10,N,445.5,421.7,422.4,Worsened,Bottom Quartile,Y,9,525465.6
+CROWN CENTRE,"557 BUKIT TIMAH ROAD, SINGAPORE 269694",Retail Building,Small,No,1990,,Not Certified,No,2250,100,100,,"Others (Split Units, Unitary Systems)",5,,,95,N,442.3,472.2,444.7,Improved,3rd Quartile,Y,28,1000575
+,"19 LORONG 22 GEYLANG, SINGAPORE 398676",Hotel,Small,No,1999,,Not Certified,No,1736,100,50,97,"Others (Split Units, Unitary Systems)",3,,,100,N,289.3,308.4,288.1,Improved,3rd Quartile,Y,19,500141.60000000003
+GRACE GLOBAL RAFFLES,"137 MARKET STREET, SINGAPORE 048943",Office Building,Small,No,2011,2009,GoldPlus,Yes,5030,80,100,,"Others (Split Units, Unitary Systems)",6,,,5,N,164.5,169.3,171.2,Worsened,2nd Quartile,Y,7,861136
+,"36 TEMPLE STREET, SINGAPORE 058581",Hotel,Small,No,1991,,Not Certified,No,960,73,74,42,"Others (Split Units, Unitary Systems)",4,,,25,N,327.1,321.3,335.6,Worsened,3rd Quartile,Y,27,322176
+LIAN HUAT BUILDING,"163 TRAS STREET, SINGAPORE 079024",Office Building,Small,No,1974,,Not Certified,No,3225,71,100,,"Others (Split Units, Unitary Systems)",3,,,5,N,106.8,115.7,105.9,Improved,Top Quartile,Y,44,341527.5
+THE GLOBE,"100 CECIL STREET, SINGAPORE 069532",Office Building,Small,No,1993,,Not Certified,No,5824,70,77,,Air Cooled Chilled Water Plant,23,,,30,N,200.7,181.7,185.6,Worsened,2nd Quartile,Y,25,1080934.4
+,"380 RACE COURSE ROAD, SINGAPORE 218702",Hotel,Small,No,2001,,Not Certified,No,1490,100,60,55,"Others (Split Units, Unitary Systems)",4,,,100,N,118.9,107.7,102.5,Improved,Top Quartile,Y,17,152725
+,"163 KITCHENER ROAD, SINGAPORE 208538",Hotel,Small,No,2000,,Not Certified,No,1909,90,80,73,Water Cooled Packaged Unit,,,,0,N,174.6,171.4,174.6,Worsened,Top Quartile,Y,18,333311.39999999997
+YEE LAN COURT,"22 BUKIT PASOH ROAD, SINGAPORE 089836",Office Building,Small,No,1996,,Not Certified,No,4331,68,80,,"Others (Split Units, Unitary Systems)",1,,,0,N,65,71.4,78.7,Worsened,Top Quartile,Y,22,340849.7
+LEUNG KAI FOOK BUILDING,"84 SOUTH BRIDGE ROAD, SINGAPORE 058714",Office Building,Small,No,1977,,Not Certified,No,1086,69,100,,"Others (Split Units, Unitary Systems)",3,,,0,N,91.4,90.2,86,Improved,Top Quartile,Y,41,93396
+VILLAGE HOTEL BUGIS,"390 VICTORIA STREET, SINGAPORE 188061",Hotel,Large,No,1985,,Not Certified,No,30820,96,97,393,Water Cooled Chilled Water Plant,18,,,0,N,312.4,321.2,323.4,Worsened,Bottom Quartile,Y,33,9967188
+GOLDEN CASTLE BUILDING,"80 SOUTH BRIDGE ROAD, SINGAPORE 058710",Office Building,Small,No,1976,,Not Certified,No,291,89,100,,"Others (Split Units, Unitary Systems)",11,,,0,N,740.6,904.9,895.5,Improved,Bottom Quartile,Y,42,260590.5
+WONG SHEE FUN BUILDING,"74 SOUTH BRIDGE ROAD, SINGAPORE 058704",Office Building,Small,No,1997,,Not Certified,No,337,100,100,,"Others (Split Units, Unitary Systems)",5,,,0,N,154.7,206.2,169.7,Improved,2nd Quartile,Y,21,57188.899999999994
+HIGH STREET PLAZA,"77 HIGH STREET, SINGAPORE 179433",Office Building,Small,No,1975,,Not Certified,No,10418,100,90,,Water Cooled Chilled Water Plant,38,0.8,2017,90,N,152.9,147.6,158.4,Worsened,2nd Quartile,Y,43,1650211.2
+SYNAPSE,"3 BIOPOLIS DRIVE, SINGAPORE 138623",Office Building,Large,No,2011,2011,Gold,Yes,42976,83,75,,District Cooling Plant,11,,,5,N,129.2,147.9,164.3,Worsened,2nd Quartile,Y,7,7060956.800000001
+SIAKSON BUILDING,"3 MILLER STREET, SINGAPORE 188899",Office Building,Small,No,1963,,Not Certified,No,465,19,10,,"Others (Split Units, Unitary Systems)",1,,,100,N,65.5,78.8,124.7,Worsened,Top Quartile,Y,55,57985.5
+VIVO CITY,"1 HARBOURFRONT WALK, SINGAPORE 098585",Retail Building,Large,No,2006,2016,Gold,Yes,139853,95,98,,Water Cooled Chilled Water Plant,7,0.79,2016,0,N,519.5,520.8,531.4,Worsened,Bottom Quartile,Y,12,74317884.2
+CAMERON HOTEL,"393F UPPER CHANGI ROAD, SINGAPORE 486917",Hotel,Small,No,1956,,Not Certified,No,270,100,65,19,"Others (Split Units, Unitary Systems)",9,,,0,N,359.5,337.4,290.6,Improved,3rd Quartile,Y,62,78462
+POH HENG BUILDING,"28 NORTH CANAL ROAD, SINGAPORE 059284",Office Building,Small,No,2004,,Not Certified,No,1865,62,100,,"Others (Split Units, Unitary Systems)",5,,,5,N,227,228.1,220.5,Improved,3rd Quartile,Y,14,411232.5
+ASCOTT SINGAPORE RAFFLES PLACE,"2 FINLAYSON GREEN, SINGAPORE 049247",Hotel,Large,No,2008,2008,Certified,Yes,16105,93,90,146,"Others (Split Units, Unitary Systems)",8,,,15,N,178,183.1,205.7,Worsened,Top Quartile,Y,10,3312798.5
+CITY PLAZA,"810 GEYLANG ROAD, SINGAPORE 409286",Retail Building,Large,No,1981,,Not Certified,No,33782,71,93,,Water Cooled Chilled Water Plant,9,,,97,N,185.7,175.4,178.3,Worsened,Top Quartile,Y,37,6023330.600000001
+MERITON HOTEL,"43 JALAN BESAR, SINGAPORE 208804",Hotel,Small,No,1953,,Not Certified,No,817,59,65,32,"Others (Split Units, Unitary Systems)",10,,,100,N,465.2,395.1,429.3,Worsened,Bottom Quartile,Y,65,350738.10000000003
+HOTEL 165,"165 KITCHENER ROAD, SINGAPORE 208532",Hotel,Small,No,2003,,Not Certified,No,2531,36,85,68,Air Cooled Chilled Water Plant,22,,,100,N,300.1,292.8,273.2,Improved,3rd Quartile,Y,15,691469.2
+ALFA CENTRE,"99 BUKIT TIMAH ROAD, SINGAPORE 229835",Office Building,Small,No,1994,,Not Certified,No,7526,100,95,,Water Cooled Chilled Water Plant,21,1.03,2009,25,N,250.6,256,252.6,Improved,3rd Quartile,Y,24,1901067.5999999999
+BEAUTY WORLD CENTRE,"144 UPPER BUKIT TIMAH ROAD, SINGAPORE 588177",Retail Building,Large,No,1979,,Not Certified,No,42262,43,97,,Water Cooled Chilled Water Plant,13,1,2013,0,N,153.8,160.7,163,Worsened,Top Quartile,Y,39,6888706
+TUV SUD PSB BUILDING,"1 SCIENCE PARK DRIVE, SINGAPORE 118221",Office Building,Large,No,1989,,Not Certified,No,32079,63,100,,Water Cooled Chilled Water Plant,13,0.83,2014,33,N,323.5,340.4,320.2,Improved,Bottom Quartile,Y,29,10271695.799999999
+GREAT EASTERN CENTRE,"1 PICKERING STREET, SINGAPORE 048659",Retail Building,Large,No,2000,2010,Certified,Yes,43006,82,94,,Water Cooled Chilled Water Plant,14,,,0,N,198,201.8,197.9,Improved,Top Quartile,Y,18,8510887.4
+,"180 ORCHARD ROAD, SINGAPORE 238846",Retail Building,Small,No,1994,,Not Certified,No,1715,80,100,,"Others (Split Units, Unitary Systems)",20,,,25,N,536.5,560.6,405.8,Improved,3rd Quartile,Y,24,695947
+OLD HILL STREET POLICE STATION,"140 HILL STREET, SINGAPORE 179369",Office Building,Large,Yes,1999,2017,Platinum,Yes,26137,93,95,,Air Cooled Chilled Water Plant,16,,,40,N,230.4,234.9,209,Improved,3rd Quartile,Y,19,5462633
+MINISTRY OF MANPOWER SERVICES CENTRE,"1500 BENDEMEER ROAD, SINGAPORE 339946",Office Building,Large,Yes,2012,2016,Platinum,Yes,27069,60,100,,Water Cooled Chilled Water Plant,3,0.54,2015,95,Y,137.2,135,132.7,Improved,Top Quartile,Y,6,3592056.3
+MINISTRY OF MANPOWER BUILDING,"18 HAVELOCK ROAD, SINGAPORE 059764",Office Building,Large,Yes,1990,2014,Platinum,Yes,32034,82,80,,Water Cooled Chilled Water Plant,7,0.65,2014,90,N,139.6,132.9,134.4,Worsened,Top Quartile,Y,28,4305369.600000001
+SINGAPORE MARRIOTT TANG PLAZA HOTEL,"320 ORCHARD ROAD, SINGAPORE 238865",Hotel,Large,No,1982,2014,Gold,Yes,76504,92,84,392,Water Cooled Chilled Water Plant,5,0.54,2015,80,N,248.5,261.2,251.9,Improved,2nd Quartile,Y,36,19271357.6
+HOTEL ROYAL @ QUEENS,"12 QUEEN STREET, SINGAPORE 188553",Hotel,Large,No,1986,2016,Gold,Yes,12565,92,80,231,Water Cooled Chilled Water Plant,8,1.24,2013,0,N,258.8,248.8,233.4,Improved,2nd Quartile,Y,32,2932671
+,"301 SERANGOON ROAD, SINGAPORE 218224",Hotel,Small,No,1995,,Not Certified,No,2842,92,70,90,Air Cooled Chilled Water Plant,22,,,2,N,352.4,362,353.4,Improved,Bottom Quartile,Y,23,1004362.7999999999
+PERAK COURT,"25A PERAK ROAD, SINGAPORE 208136",Hotel,Small,No,2008,,Not Certified,No,834,96,65,22,"Others (Split Units, Unitary Systems)",3,,,38,N,187.2,187.5,181.4,Improved,2nd Quartile,Y,10,151287.6
+,"50 TIONG BAHRU ROAD, SINGAPORE 168733",Hotel,Large,No,2007,,Not Certified,No,10194,100,70,274,"Others (Split Units, Unitary Systems)",9,,,90,N,219.5,265.7,246,Improved,2nd Quartile,Y,11,2507724
+PINNACLE HOTEL,"270 JALAN BESAR, SINGAPORE 209019",Hotel,Small,No,2010,,Not Certified,No,3835,95,70,127,"Others (Split Units, Unitary Systems)",24,,,0,N,214.4,208.1,211,Worsened,2nd Quartile,Y,8,809185
+KECK SENG TOWER,"133 CECIL STREET, SINGAPORE 069535",Office Building,Large,No,1985,,Not Certified,No,16122,71,91,,Water Cooled Chilled Water Plant,7,0.88,2017,15,N,161.7,162.6,147,Improved,Top Quartile,Y,33,2369934
+STRAND HOTEL,"25 BENCOOLEN STREET, SINGAPORE 189619",Hotel,Small,No,1985,,Not Certified,No,4268,97,75,130,Water Cooled Chilled Water Plant,13,,,5,N,366.5,367.9,366.3,Improved,Bottom Quartile,Y,33,1563368.4000000001
+,"240 JALAN BESAR, SINGAPORE 208913",Hotel,Small,No,1997,,Not Certified,No,1504,26,60,42,"Others (Split Units, Unitary Systems)",6,,,5,N,249.6,248.9,243.3,Improved,2nd Quartile,Y,21,365923.2
+ONE RAFFLES LINK,"1 RAFFLES LINK, SINGAPORE 039393",Office Building,Large,No,1999,2014,GoldPlus,Yes,30461,83,97,,Water Cooled Chilled Water Plant,16,0.68,2016,80,N,527.2,517.9,494.3,Improved,Bottom Quartile,Y,19,15056872.3
+SCOTTSWALK,"25 SCOTTS ROAD, SINGAPORE 228220",Mixed Development,,No,1972,2013,Gold,Yes,47107,100,100,511,Water Cooled Chilled Water Plant,6,0.77,2010,20,N,280.9,282,279.5,Improved,3rd Quartile,Y,46,13166406.5
+JIT POH BUILDING,"19 KEPPEL ROAD, SINGAPORE 089058",Office Building,Small,No,1975,,Not Certified,No,7200,100,90,,Water Cooled Chilled Water Plant,10,,,41,N,196.9,140.6,133,Improved,Top Quartile,Y,43,957600
+,"37 LORONG 8 GEYLANG, SINGAPORE 399099",Hotel,Small,No,1994,,Not Certified,No,604,69,65,27,"Others (Split Units, Unitary Systems)",6,,,0,N,133,69.4,96.1,Worsened,Top Quartile,Y,24,58044.399999999994
+HOME SUITE VIEW HOTEL,"12 LORONG 12 GEYLANG, SINGAPORE 398993",Hotel,Small,No,2005,,Not Certified,No,4000,90,65,184,Air Cooled Chilled Water Plant,17,,,0,N,210.2,123.5,110.5,Improved,Top Quartile,Y,13,442e3
+THE CONCOURSE,"300 BEACH ROAD, SINGAPORE 199555",Office Building,Large,No,1992,2013,Platinum,Yes,62392,93,90,,Water Cooled Chilled Water Plant,3,0.65,2011,40,N,125.4,126.3,133.5,Worsened,Top Quartile,Y,26,8329332
+,"60 LORONG 8 GEYLANG, SINGAPORE 399120",Hotel,Small,No,1991,,Not Certified,No,702,85,60,38,"Others (Split Units, Unitary Systems)",3,,,0,N,186.7,168.2,142.3,Improved,Top Quartile,Y,27,99894.6
+,"21 LORONG 22 GEYLANG, SINGAPORE 398678",Hotel,Small,No,1996,,Not Certified,No,1400,60,60,47,"Others (Split Units, Unitary Systems)",11,,,0,N,159.6,156.3,152.2,Improved,Top Quartile,Y,22,213079.99999999997
+KIM TIAN (STAR) HOTEL,"4 LORONG 6 GEYLANG, SINGAPORE 399166",Hotel,Small,No,1999,,Not Certified,No,860,70,60,43,"Others (Split Units, Unitary Systems)",7,,,0,N,244.9,212.1,191.2,Improved,2nd Quartile,Y,19,164432
+KIM TIAN HOTEL (HAN),"29 LORONG 4 GEYLANG, SINGAPORE 399281",Hotel,Small,No,1998,,Not Certified,No,880,68,60,48,"Others (Split Units, Unitary Systems)",4,,,0,N,263,260.7,234.7,Improved,2nd Quartile,Y,20,206536
+,"25 LORONG 18 GEYLANG, SINGAPORE 398806",Hotel,Small,No,1997,,Not Certified,No,1000,65,40,42,"Others (Split Units, Unitary Systems)",10,,,5,N,101.8,99.9,92.1,Improved,Top Quartile,Y,21,92100
+GSM BUILDING,"141 MIDDLE ROAD, SINGAPORE 188976",Office Building,Small,No,1984,,Not Certified,No,4192,100,100,,Water Cooled Chilled Water Plant,10,,,0,N,235.9,207.6,195.2,Improved,3rd Quartile,Y,34,818278.3999999999
+,,Mixed Development,,,,,,No,,,,,,,,,,,304,340.9,321.9,Improved,3rd Quartile,N,,
+MAXWELL CHAMBERS,"32 MAXWELL ROAD, SINGAPORE 069115",Office Building,Small,No,2009,,Not Certified,No,7040,51,75,1,"Others (Split Units, Unitary Systems)",7,,,52,N,203.4,235.6,247.8,Worsened,3rd Quartile,Y,9,1744512
+KIM HOE CENTRE,"23 KELANTAN LANE, SINGAPORE 208642",Mixed Development,,No,2002,,Not Certified,No,634,97,100,,"Others (Split Units, Unitary Systems)",4,,,0,N,339.7,359.1,357.4,Improved,Bottom Quartile,Y,16,226591.59999999998
+KIM HOE POINT,"35 KELANTAN LANE, SINGAPORE 208652",Office Building,Small,No,1998,,Not Certified,No,475,76,95,,"Others (Split Units, Unitary Systems)",9,,,0,N,399.3,413.3,397.7,Improved,Bottom Quartile,Y,20,188907.5
+EFG BANK BUILDING,"25 NORTH BRIDGE ROAD, SINGAPORE 179104",Office Building,Small,No,2009,,Not Certified,No,6521,89,100,,"Others (Split Units, Unitary Systems)",8,,,70,N,228.2,250.2,272.1,Worsened,Bottom Quartile,Y,9,1774364.1
+HOUGANG GREEN SHOPPING MALL,"21 HOUGANG STREET 51, SINGAPORE 538719",Retail Building,Small,No,1996,,Not Certified,No,9899,24,100,,"Others (Split Units, Unitary Systems)",5,,,0,N,452.9,446.8,442.1,Improved,3rd Quartile,Y,22,4376347.9
+,,Office Building,Small,,,,,No,,,,,,,,,,,124.9,110.1,79.3,Improved,Top Quartile,N,,
+,,Office Building,Small,,,,,No,,,,,,,,,,,97.2,106.8,107.3,Worsened,Top Quartile,N,,
+YUE HWA (NAM TIN) BUILDING,"70 EU TONG SEN STREET, SINGAPORE 059805",Retail Building,Small,No,1996,,Not Certified,No,4993,86,100,,Air Cooled Chilled Water Plant,3,,,20,N,388.8,371.6,375,Worsened,3rd Quartile,Y,22,1872375
+AIA ALEXANDRA,"371 ALEXANDRA ROAD, SINGAPORE 159963",Office Building,Large,No,1994,2017,Certified,Yes,17828,82,100,,Air Cooled Chilled Water Plant,3,0.94,2017,15,N,293.4,286.6,266,Improved,Bottom Quartile,Y,24,4742248
+,"1 KEONG SAIK ROAD, SINGAPORE 089109",Office Building,Small,No,1992,,Not Certified,No,3181,77,100,,"Others (Split Units, Unitary Systems)",3,,,35,N,180,253.6,295.8,Worsened,Bottom Quartile,Y,26,940939.8
+,,Office Building,Large,,,,,Yes,,,,,,,,,,,225.5,219,222.1,Worsened,3rd Quartile,N,,
+IMM BUILDING,"2 JURONG EAST STREET 21, SINGAPORE 609601",Mixed Development,,No,1990,2017,GoldPlus,Yes,132527,67,94,,Water Cooled Chilled Water Plant,6,0.65,,30,N,228.3,241.3,240.8,Improved,2nd Quartile,Y,28,31912501.6
+,,Healthcare Facility,,,,,,No,,,,,,,,,,,169.1,189.5,181,Improved,,,,
+ST. ANDREWS CENTRE,"250 TANJONG PAGAR ROAD, SINGAPORE 088541",Office Building,Small,No,2000,,Not Certified,No,3722,67,100,,"Others (Split Units, Unitary Systems)",4,,,0,N,177.3,163.6,147.2,Improved,2nd Quartile,Y,18,547878.3999999999
+HQ SINGAPORE CIVIL DEFENCE FORCE,"91 UBI AVENUE 4, SINGAPORE 408827",Office Building,Large,Yes,2002,,Not Certified,No,49327,60,90,,Water Cooled Chilled Water Plant,15,,,0,N,167.6,171.4,187.4,Worsened,2nd Quartile,Y,16,9243879.8
+,"101 JALAN BAHAR, SINGAPORE 649734",Office Building,Large,Yes,1999,,Not Certified,No,40312,34,78,,Water Cooled Chilled Water Plant,18,,,0,N,125.6,127.8,121.9,Improved,Top Quartile,Y,19,4914032.8
+,,Retail Building,Small,,,,,No,,,,,,,,,,,712,702.4,697.4,Improved,Bottom Quartile,N,,
+600 @ TOA PAYOH,"600 LORONG 4 TOA PAYOH, SINGAPORE 319515",Retail Building,Small,No,2003,,Not Certified,No,3661,75,95,,"Others (Split Units, Unitary Systems)",7,,,0,N,444.6,474.3,444.2,Improved,3rd Quartile,Y,15,1626216.2
+PRAWN WORLD BUILDING,"473 BALESTIER ROAD, SINGAPORE 329843",Hotel,Small,No,1980,,Not Certified,No,963,79,67,42,Air Cooled Chilled Water Plant,3,,,0,N,190.1,193.4,158,Improved,Top Quartile,Y,38,152154
+,,Office Building,Small,,,,,No,,,,,,,,,,,925.8,1020.9,1004.6,Improved,Bottom Quartile,N,,
+BUKIT TIMAH PLAZA,"1 JALAN ANAK BUKIT, SINGAPORE 588996",Retail Building,Large,No,1982,2012,Gold,Yes,25772,93,100,,Water Cooled Chilled Water Plant,4,0.68,2016,80,N,401.2,406.6,380,Improved,2nd Quartile,Y,36,9793360
+FAR EAST PLAZA,"14 SCOTTS ROAD, SINGAPORE 228213",Retail Building,Large,No,1983,2014,GoldPlus,Yes,40749,95,89,,Water Cooled Chilled Water Plant,2,0.63,2017,100,N,365.5,346.1,328.9,Improved,2nd Quartile,Y,35,13402346.1
+MMI BUILDING,"72 SOUTH BRIDGE ROAD, SINGAPORE 058702",Office Building,Small,No,2007,,Not Certified,No,578,62,85,,"Others (Split Units, Unitary Systems)",0,,,0,N,176.6,167.1,154.9,Improved,2nd Quartile,Y,11,89532.2
+,,Hotel,Small,,,,,No,,,,,,,,,,,172.2,162.6,140.1,Improved,Top Quartile,N,,
+MINISTRY OF FOREIGN AFFAIRS BUILDING,"1 SHERWOOD ROAD, SINGAPORE 248163",Office Building,Large,Yes,2003,2014,Gold,Yes,35533,75,90,,Water Cooled Chilled Water Plant,1,0.59,2016,85,N,260.3,248.8,219.8,Improved,3rd Quartile,Y,15,7810153.4
+THE GRANDPLUS,"163 GEYLANG ROAD, SINGAPORE 389240",Office Building,Small,No,2005,,Not Certified,No,1174,76,100,,"Others (Split Units, Unitary Systems)",1,,,20,N,330.7,342.6,316.4,Improved,Bottom Quartile,Y,13,371453.6
+TAN CHONG TOWER,"15 QUEEN STREET, SINGAPORE 188537",Office Building,Small,No,1980,,Not Certified,No,10471,69,85,,"Others (Split Units, Unitary Systems)",6,,,50,N,231.4,225.7,249.8,Worsened,3rd Quartile,Y,38,2615655.8000000003
+,,Mixed Development,,,,,,No,,,,,,,,,,,237.5,236.8,224.2,Improved,2nd Quartile,N,,
+PUBLIC MANSION,"432 BALESTIER ROAD, SINGAPORE 329813",Mixed Development,,No,1974,,Not Certified,No,11880,64,100,,"Others (Split Units, Unitary Systems)",6,,,0,N,70.8,71.9,69.7,Improved,Top Quartile,Y,44,828036
+SWISSOTEL MERCHANT COURT SINGAPORE,"20 MERCHANT ROAD, SINGAPORE 058281",Hotel,Large,No,1997,2013,Platinum,Yes,38054,100,90,476,Water Cooled Chilled Water Plant,2,0.62,2012,70,N,207.1,188.5,208.3,Worsened,Top Quartile,Y,21,7926648.2
+TEAMBUILD CENTRE,"701 GEYLANG ROAD, SINGAPORE 389687",Office Building,Small,No,2003,,Not Certified,No,1943,95,100,,"Others (Split Units, Unitary Systems)",1,,,0,N,258.5,246.4,238.5,Improved,3rd Quartile,Y,15,463405.5
+SIMS AVENUE CENTRE,"540 SIMS AVENUE, SINGAPORE 387603",Office Building,Small,No,1997,,Not Certified,No,1943,95,100,,"Others (Split Units, Unitary Systems)",6,,,0,N,210.4,202.2,180.5,Improved,2nd Quartile,Y,21,350711.5
+NEX,"23 SERANGOON CENTRAL, SINGAPORE 556083",Retail Building,Large,No,2010,2014,Gold,Yes,87527,85,99,,Water Cooled Chilled Water Plant,6,0.7,2014,10,N,505,505.7,498.9,Improved,3rd Quartile,Y,8,43667220.3
+RESORTS WORLD SENTOSA,"8 SENTOSA GATEWAY, SINGAPORE 098269",Retail Building,Large,No,2010,2017,Platinum,Yes,343000,67,90,1614,District Cooling Plant,8,1.2,,80,Y,525.2,506.2,493.3,Improved,3rd Quartile,Y,8,169201900
+GENTING CENTRE,"3 LIM TECK KIM ROAD, SINGAPORE 088934",Office Building,Small,No,1985,,Not Certified,No,11908,77,100,,Water Cooled Chilled Water Plant,30,,,10,N,259.2,261.2,249.8,Improved,3rd Quartile,Y,33,2974618.4
+GENTING HOTEL JURONG,"2 TOWN HALL LINK, SINGAPORE 608516",Hotel,Large,No,2015,2015,Platinum,Yes,19147,82,90,557,Water Cooled Chilled Water Plant,1,0.65,2016,90,N,183.3,260.9,254,Improved,2nd Quartile,Y,3,4863338
+,,Hotel,Large,,,,,No,,,,,,,,,,,313.9,316.7,207.9,Improved,Top Quartile,N,,
+SANDPIPER HOTEL,"63 DUNLOP STREET, SINGAPORE 209391",Hotel,Small,No,2011,,Not Certified,No,793,41,80,31,"Others (Split Units, Unitary Systems)",10,,,70,N,215.1,222.9,189.7,Improved,2nd Quartile,Y,7,150432.09999999998
+,"991G ALEXANDRA ROAD, SINGAPORE 119975",Office Building,Small,No,2009,,Not Certified,No,5274,89,100,,"Others (Split Units, Unitary Systems)",9,,,0,N,229.6,214.6,174.2,Improved,2nd Quartile,Y,9,918730.7999999999
+ICON@IBP,"3A INTERNATIONAL BUSINESS PARK, SINGAPORE 609935",Office Building,Large,No,2009,2009,GoldPlus,Yes,41135,85,70,,Water Cooled Chilled Water Plant,7,,,10,Y,129.2,120,106.9,Improved,Top Quartile,Y,9,4397331.5
+PIL BUILDING,"140 CECIL STREET, SINGAPORE 069540",Office Building,Small,No,1981,,Not Certified,No,12656,79,92,,Water Cooled Packaged Unit,,,,1,N,287.7,303.8,285.8,Improved,Bottom Quartile,Y,37,3617084.8000000003
+,,Retail Building,Large,,,,,No,,,,,,,,,,,154.1,161.5,164.5,Worsened,Top Quartile,N,,
+,,Office Building,Large,,,,,No,,,,,,,,,,,189.1,191,176.5,Improved,2nd Quartile,N,,
+VIP HOTEL,"5 BALMORAL CRESCENT, SINGAPORE 259895",Hotel,Small,No,1973,,Not Certified,No,3196,72,70,57,"Others (Split Units, Unitary Systems)",6,,,90,N,108.4,115.8,115.7,Improved,Top Quartile,Y,45,369777.2
+KH KEA BUILDING,"333 NORTH BRIDGE ROAD, SINGAPORE 188721",Office Building,Small,No,1976,,Not Certified,No,2699,76,100,,"Others (Split Units, Unitary Systems)",7,,,0,N,452.6,498.3,473.8,Improved,Bottom Quartile,Y,42,1278786.2
+,,Office Building,Small,,,,,Yes,,,,,,,,,,,140.9,142.4,137.2,Improved,2nd Quartile,N,,
+,"79 ALIWAL STREET, SINGAPORE 199949",Hotel,Small,No,1997,,Not Certified,No,1130,100,40,54,"Others (Split Units, Unitary Systems)",7,,,100,N,103.9,113.9,140,Worsened,Top Quartile,Y,21,158200
+NORDIC EUROPEAN CENTRE,"3 INTERNATIONAL BUSINESS PARK, SINGAPORE 609927",Office Building,Large,No,2000,,Not Certified,No,28378,98,84,,Water Cooled Chilled Water Plant,2,0.6,,75,N,163.4,142.4,118.1,Improved,Top Quartile,Y,18,3351441.8
+ORIENTAL VENTURE BUILDING,"711 GEYLANG ROAD, SINGAPORE 389626",Office Building,Small,No,1995,,Not Certified,No,1939,100,100,,"Others (Split Units, Unitary Systems)",2,,,0,N,126.6,128.1,120.7,Improved,Top Quartile,Y,23,234037.30000000002
+CHINATOWN POINT,"133 NEW BRIDGE ROAD, SINGAPORE 059413",Mixed Development,,No,1990,,Not Certified,No,51611,75,93,,Water Cooled Chilled Water Plant,1,0.63,2015,10,N,382.1,384.7,344.7,Improved,3rd Quartile,Y,28,17790311.7
+,"80 ROBINSON ROAD, SINGAPORE 068898",Office Building,Large,No,1997,,Not Certified,No,31031,83,80,,Water Cooled Chilled Water Plant,19,,,0,N,227.5,200.9,169.9,Improved,2nd Quartile,Y,21,5272166.9
+THE HEEREN,"260 ORCHARD ROAD, SINGAPORE 238855",Mixed Development,,No,1996,2015,Platinum,Yes,37226,90,99,,Water Cooled Chilled Water Plant,8,0.61,2015,65,N,333.1,318.4,305.7,Improved,3rd Quartile,Y,22,11379988.2
+,"586 GEYLANG ROAD, SINGAPORE 389525",Hotel,Small,No,1998,,Not Certified,No,340,50,50,10,"Others (Split Units, Unitary Systems)",4,,,0,N,507.6,527.7,469.4,Improved,Bottom Quartile,Y,20,159596
+BUDGET INN,"41 LORONG 16 GEYLANG, SINGAPORE 398877",Hotel,Small,No,1974,,Not Certified,No,592,81,70,22,Water Cooled Packaged Unit,5,,,0,N,77.6,72.8,59.3,Improved,Top Quartile,Y,44,35105.6
+,,Office Building,Large,,,,,Yes,,,,,,,,,,,113.6,114.8,158.9,Worsened,2nd Quartile,N,,
+NEW WORLD CENTRE,"1 JALAN BERSEH, SINGAPORE 209037",Office Building,Small,No,2000,,Not Certified,No,8625,1,95,,"Others (Split Units, Unitary Systems)",0,,,0,N,321.2,324.5,322.1,Improved,Bottom Quartile,Y,18,2778112.5
+,,Hotel,Small,,,,,No,,,,,,,,,,,204.8,186.7,163.7,Improved,Top Quartile,N,,
+,"81 BEACH ROAD, SINGAPORE 189692",Hotel,Small,No,1997,,Not Certified,No,2839,23,100,88,"Others (Split Units, Unitary Systems)",4,,,100,N,262,216.6,209.7,Improved,2nd Quartile,Y,21,595338.2999999999
+,,Office Building,Small,,,,,No,,,,,,,,,,,167.8,160.9,164.1,Worsened,2nd Quartile,N,,
+,,Mixed Development,,,,,,No,,,,,,,,,,,564.8,534.3,522.2,Improved,Bottom Quartile,N,,
+PEOPLES PARK COMPLEX,"1 PARK ROAD, SINGAPORE 059108",Retail Building,Large,No,1968,,Not Certified,No,44900,45,100,,Water Cooled Chilled Water Plant,1,,,0,N,292.2,267.2,273,Worsened,2nd Quartile,Y,50,12257700
+ORCHARD PLAZA,"150 ORCHARD ROAD, SINGAPORE 238841",Retail Building,Large,No,1982,2014,GoldPlus,Yes,22331,87,90,,Water Cooled Chilled Water Plant,2,0.54,2016,95,N,229.9,244.9,213.1,Improved,Top Quartile,Y,36,4758736.1
+YTC BUILDING,"33 MAUDE ROAD, SINGAPORE 208344",Office Building,Small,No,1919,,Not Certified,No,1459,72,100,,"Others (Split Units, Unitary Systems)",0,,,80,N,116.1,117.5,109.6,Improved,Top Quartile,Y,99,159906.4
+THE OXLEY,"9 OXLEY RISE, SINGAPORE 238697",Office Building,Small,No,1996,,Not Certified,No,7387,50,100,,"Others (Split Units, Unitary Systems)",3,,,70,N,136.7,132.9,114.1,Improved,Top Quartile,Y,22,842856.7
+SUNSHINE PLAZA,"10 PRINSEP LINK, SINGAPORE 187948",Office Building,Small,No,2001,,Not Certified,No,10555,100,80,,"Others (Split Units, Unitary Systems)",15,,,0,N,811.5,783.4,790.5,Worsened,Bottom Quartile,Y,17,8343727.5
+MITRAA INN,"531 SERANGOON ROAD, SINGAPORE 218163",Hotel,Small,No,2001,,Not Certified,No,975,100,70,26,"Others (Split Units, Unitary Systems)",4,,,0,N,167.9,188.3,205.1,Worsened,2nd Quartile,Y,17,199972.5
+,,Office Building,Large,,,,,No,,,,,,,,,,,123.4,112.1,118.5,Worsened,Top Quartile,N,,
+KAM LENG HOTEL,"383 JALAN BESAR, SINGAPORE 209001",Hotel,Small,No,2012,,Not Certified,No,1898,74,90,70,"Others (Split Units, Unitary Systems)",7,,,93,N,261.8,271.9,261.8,Improved,3rd Quartile,Y,6,496896.4
+SINGAPORE FLYER,"30 RAFFLES AVENUE, SINGAPORE 039803",Retail Building,Small,No,2009,2007,Certified,Yes,13590,55,70,,Water Cooled Chilled Water Plant,9,0.95,,35,N,504.7,472,442.1,Improved,3rd Quartile,Y,9,6008139
+,"9 TAMPINES GRANDE, SINGAPORE 528735",Office Building,Large,No,2009,2015,Platinum,Yes,33599,80,98,,Water Cooled Chilled Water Plant,8,0.61,2015,0,Y,182.5,181,170.4,Improved,2nd Quartile,Y,9,5725269.600000001
+,"11 TAMPINES CONCOURSE, SINGAPORE 528729",Office Building,Small,No,2009,2015,GoldPlus,Yes,11520,89,95,,"Others (Split Units, Unitary Systems)",8,,,0,N,203.5,215.6,205.2,Improved,3rd Quartile,Y,9,2363904
+,,Healthcare Facility,,,,,,No,,,,,,,,,,,145.6,151.7,156.1,Worsened,,,,
+,,Healthcare Facility,,,,,,No,,,,,,,,,,,122.7,128.7,145.1,Worsened,,,,
+,,Educational Institution,,,,,,Yes,,,,,,,,,,,94.5,93.8,85.9,Improved,,,,
+,,Educational Institution,,,,,,No,,,,,,,,,,,87,91.6,76.9,Improved,,,,
+,,Educational Institution,,,,,,Yes,,,,,,,,,,,174.5,178.5,171.3,Improved,,,,
+,,Healthcare Facility,,,,,,No,,,,,,,,,,,334.7,343.5,344.5,Worsened,,,,
+,,Healthcare Facility,,,,,,Yes,,,,,,,,,,,82.4,88.1,81.5,Improved,,,,
+,,Educational Institution,,,,,,Yes,,,,,,,,,,,83.7,89.3,75.3,Improved,,,,
+,,Educational Institution,,,,,,No,,,,,,,,,,,164.8,173.7,207.5,Worsened,,,,
+THE SELETAR MALL,"33 SENGKANG WEST AVENUE, SINGAPORE 797653",Retail Building,Large,No,2014,2015,Gold,Yes,25380,100,100,,Water Cooled Chilled Water Plant,2,0.59,2015,85,N,617.3,634.3,603.4,Improved,Bottom Quartile,Y,4,15314292
+,,Educational Institution,,,,,,No,,,,,,,,,,,105.4,103.8,90.3,Improved,,,,
+,,Educational Institution,,,,,,Yes,,,,,,,,,,,83.2,84.4,80.3,Improved,,,,
+,,Educational Institution,,,,,,Yes,,,,,,,,,,,147.1,152.2,138.2,Improved,,,,
+,,Educational Institution,,,,,,No,,,,,,,,,,,34,36.3,31.3,Improved,,,,
+,,Healthcare Facility,,,,,,No,,,,,,,,,,,143.4,145.3,144.4,Improved,,,,
+,,Healthcare Facility,,,,,,No,,,,,,,,,,,301.6,291,279.2,Improved,,,,
+,,Healthcare Facility,,,,,,No,,,,,,,,,,,241.4,254.3,232.5,Improved,,,,
+,,Healthcare Facility,,,,,,Yes,,,,,,,,,,,154.3,157.3,153.6,Improved,,,,
+,,Healthcare Facility,,,,,,No,,,,,,,,,,,126.2,134,127.9,Improved,,,,
+,,Healthcare Facility,,,,,,No,,,,,,,,,,,211.3,220.4,215.9,Improved,,,,
+,,Healthcare Facility,,,,,,No,,,,,,,,,,,190.8,200.7,202.1,Worsened,,,,
+,,Healthcare Facility,,,,,,No,,,,,,,,,,,169.7,174.1,170.1,Improved,,,,
+PAYA LEBAR SQUARE,"60 PAYA LEBAR ROAD, SINGAPORE 409051",Office Building,Large,No,2014,2013,GoldPlus,Yes,61153,100,93,,Water Cooled Chilled Water Plant,2,0.58,2016,19,N,180.9,230.6,243,Worsened,3rd Quartile,Y,4,14860179
+SOFITEL SO SINGAPORE,"35 ROBINSON ROAD, SINGAPORE 068876",Hotel,Large,No,2014,2016,Platinum,Yes,7450,66,85,134,Water Cooled Chilled Water Plant,3,,,80,N,339.5,325.4,334.8,Worsened,Bottom Quartile,Y,4,2494260
+,,Educational Institution,,,,,,Yes,,,,,,,,,,,138.7,141.4,136.5,Improved,,,,
+,,Educational Institution,,,,,,Yes,,,,,,,,,,,139.3,149.7,144.5,Improved,,,,
+,,Educational Institution,,,,,,Yes,,,,,,,,,,,145.4,145.4,144.4,Improved,,,,
+,,Healthcare Facility,,,,,,Yes,,,,,,,,,,,282.6,294,299.9,Worsened,,,,
+,,Educational Institution,,,,,,No,,,,,,,,,,,155,154.9,124,Improved,,,,
+,,Healthcare Facility,,,,,,No,,,,,,,,,,,357.1,363.6,365.2,Worsened,,,,
+,,Healthcare Facility,,,,,,No,,,,,,,,,,,568.1,586.6,580.2,Improved,,,,
+THE TREASURY,"100 HIGH STREET, SINGAPORE 179434",Office Building,Large,Yes,2000,2017,Platinum,Yes,41499,66,100,,Water Cooled Chilled Water Plant,0,0.63,2015,4,N,154.6,152.5,141.7,Improved,Top Quartile,Y,18,5880408.3
+,,Retail Building,Small,,,,,No,,,,,,,,,,,376,409.7,369.9,Improved,2nd Quartile,N,,
+,,Retail Building,Large,,,,,No,,,,,,,,,,,508.4,493.3,451,Improved,3rd Quartile,N,,
+NORTHPOINT SHOPPING CENTRE,"930 YISHUN AVENUE 2, SINGAPORE 769098",Retail Building,Large,No,1992,2017,Gold,Yes,34970,60,99,,Water Cooled Chilled Water Plant,9,0.71,2015,30,N,582.9,498.6,468.1,Improved,3rd Quartile,Y,26,16369457
+,,Educational Institution,,,,,,Yes,,,,,,,,,,,269.7,271.3,288.3,Worsened,,,,
+HOTEL MIRAMAR,"401 HAVELOCK ROAD, SINGAPORE 169631",Hotel,Large,No,1971,,Not Certified,No,23554,90,64,342,Water Cooled Chilled Water Plant,12,,,0,N,205.7,207.1,208.4,Worsened,Top Quartile,Y,47,4908653.600000001
+,,Office Building,Large,,,,,No,,,,,,,,,,,148,160.5,156,Improved,2nd Quartile,N,,
+,,Healthcare Facility,,,,,,No,,,,,,,,,,,36,38.8,37.2,Improved,,,,
+,,Healthcare Facility,,,,,,No,,,,,,,,,,,354.9,377.4,365,Improved,,,,
+,,Educational Institution,,,,,,Yes,,,,,,,,,,,134.4,127.8,110,Improved,,,,
+GB BUILDING,"143 CECIL STREET, SINGAPORE 069542",Office Building,Large,No,1989,,Not Certified,No,17306,87,95,,Water Cooled Chilled Water Plant,15,1.05,2011,0,N,188.9,186.5,173.7,Improved,2nd Quartile,Y,29,3006052.1999999997
+,,Educational Institution,,,,,,No,,,,,,,,,,,120.5,118.2,121.9,Worsened,,,,
+,,Healthcare Facility,,,,,,No,,,,,,,,,,,264.1,254.5,226.9,Improved,,,,
+,,Healthcare Facility,,,,,,Yes,,,,,,,,,,,290,298.5,311.2,Worsened,,,,
+,,Educational Institution,,,,,,No,,,,,,,,,,,58.8,59.5,56.1,Improved,,,,
+,,Healthcare Facility,,,,,,No,,,,,,,,,,,581.3,597.8,594.7,Improved,,,,
+,,Healthcare Facility,,,,,,No,,,,,,,,,,,537.4,551.5,490.9,Improved,,,,
+,,Healthcare Facility,,,,,,No,,,,,,,,,,,261.6,278.6,282.1,Worsened,,,,
+,,Healthcare Facility,,,,,,No,,,,,,,,,,,148.9,155.2,151.5,Improved,,,,
+,,Healthcare Facility,,,,,,No,,,,,,,,,,,178.9,176.7,171.4,Improved,,,,
+,,Healthcare Facility,,,,,,No,,,,,,,,,,,92.4,141.9,142.9,Worsened,,,,
+,,Office Building,Large,,,,,No,,,,,,,,,,,252.1,253.1,249.6,Improved,3rd Quartile,N,,
+CONNEXION,"1 FARRER PARK STATION ROAD, SINGAPORE 217562",Retail Building,Large,No,2014,2011,Platinum,Yes,58369,85,75,245,Water Cooled Chilled Water Plant,3,0.65,,80,N,279.9,302.5,298.5,Improved,2nd Quartile,Y,4,17423146.5
+HOUGANG 1,"1 HOUGANG STREET 91, SINGAPORE 538692",Retail Building,Small,No,2012,,Not Certified,No,9821,87,100,,Air Cooled Chilled Water Plant,5,,,50,N,1047.4,1075.3,1004.8,Improved,Bottom Quartile,Y,6,9868140.799999999
+VILLAGE HOTEL CHANGI,"1 NETHERAVON ROAD, SINGAPORE 508502",Hotel,Large,No,2004,,Not Certified,No,22826,100,82,380,Water Cooled Chilled Water Plant,12,,,35,N,241.9,239.9,226,Improved,Top Quartile,Y,14,5158676
+THE GREENWICH,"1 SELETAR ROAD, SINGAPORE 807011",Retail Building,Small,No,2011,2011,Certified,Yes,4500,97,97,,"Others (Split Units, Unitary Systems)",4,,,15,N,527.6,406.3,348.2,Improved,2nd Quartile,Y,7,1566900
+ASSOCIATION BUILDING,"68 LORONG 16 GEYLANG, SINGAPORE 398889",Office Building,Small,No,1983,,Not Certified,No,396,100,60,,"Others (Split Units, Unitary Systems)",0,,,0,N,541.9,600.4,540.9,Improved,Bottom Quartile,Y,35,214196.4
+OCBC TAMPINES CENTRE TWO,"31 TAMPINES AVENUE 4, SINGAPORE 529680",Office Building,Small,No,1997,2014,Gold,Yes,8946,89,100,,Water Cooled Chilled Water Plant,4,0.8,2017,5,N,268.4,274.8,281.9,Worsened,Bottom Quartile,Y,21,2521877.4
+OCBC TAMPINES CENTRE ONE,"11 TAMPINES CENTRAL 1, SINGAPORE 529542",Office Building,Small,No,1999,2014,Gold,Yes,10777,83,100,,Water Cooled Chilled Water Plant,4,0.63,2017,0,N,1060.5,1067.9,834.1,Improved,Bottom Quartile,Y,19,8989095.700000001
+,"30 MOSQUE STREET, SINGAPORE 059508",Hotel,Small,No,1996,,Not Certified,No,140,100,65,6,"Others (Split Units, Unitary Systems)",8,,,100,N,693.6,617,674,Worsened,Bottom Quartile,Y,22,94360
+,,Hotel,Small,,,,,No,,,,,,,,,,,201.4,186.2,170.6,Improved,Top Quartile,N,,
+AN CHUAN BUILDING,"27 PURVIS STREET, SINGAPORE 188604",Office Building,Small,No,1986,,Not Certified,No,1078,58,100,,"Others (Split Units, Unitary Systems)",12,,,21,N,137.4,147.1,138.4,Improved,2nd Quartile,Y,32,149195.2
+,,Office Building,Large,,,,,No,,,,,,,,,,,194.1,193,184.5,Improved,2nd Quartile,N,,
+,,Office Building,Small,,,,,No,,,,,,,,,,,457.6,394.3,378.4,Improved,Bottom Quartile,N,,
+,,Office Building,Small,,,,,Yes,,,,,,,,,,,95.9,101.3,103.4,Worsened,Top Quartile,N,,
+ASO BUILDING,"8 ROBINSON ROAD, SINGAPORE 048544",Office Building,Small,No,1991,,Not Certified,No,4550,90,90,,Air Cooled Chilled Water Plant,12,1.1,2002,0,N,176.2,176.1,165.3,Improved,2nd Quartile,Y,27,752115
+,,Educational Institution,,,,,,No,,,,,,,,,,,136.5,80.9,89.2,Worsened,,,,
+,,Educational Institution,,,,,,Yes,,,,,,,,,,,617.3,648,602.4,Improved,,,,
+,,Office Building,Large,,,,,No,,,,,,,,,,,121,133.3,119.5,Improved,Top Quartile,N,,
+,,Mixed Development,,,,,,Yes,,,,,,,,,,,284.2,284,269.4,Improved,3rd Quartile,N,,
+YEW TEE SQUARE,"623 CHOA CHU KANG STREET 62, SINGAPORE 680623",Retail Building,Small,Yes,1996,,Not Certified,No,5659,37,100,,"Others (Split Units, Unitary Systems)",11,,,5,N,168.1,162.7,146.8,Improved,Top Quartile,Y,22,830741.2000000001
+,"405 HAVELOCK ROAD, SINGAPORE 169633",Hotel,Large,No,1973,2017,Platinum,Yes,37570,72,83,615,Water Cooled Chilled Water Plant,3,0.6,2017,39,N,216,239.4,228.3,Improved,2nd Quartile,Y,45,8577231
+,,Hotel,Large,,,,,No,,,,,,,,,,,255.4,295.4,288.4,Improved,3rd Quartile,N,,
+TELOK AYER FESTIVAL MARKET,"18 RAFFLES QUAY, SINGAPORE 048582",Retail Building,Small,No,1973,,Not Certified,No,4833,4,98,,"Others (Split Units, Unitary Systems)",3,,,0,N,657.9,623.6,610.8,Improved,Bottom Quartile,Y,45,2951996.4
+,,Office Building,Large,,,,,No,,,,,,,,,,,264.5,266.5,261.3,Improved,Bottom Quartile,N,,
+313 @ SOMERSET,"313 ORCHARD ROAD, SINGAPORE 238895",Retail Building,Large,No,2009,2016,Platinum,Yes,39913,90,96,,Water Cooled Chilled Water Plant,7,0.63,2016,75,Y,549,535,515.5,Improved,Bottom Quartile,Y,9,20575151.5
+SINGAPORE LAND TOWER,"50 RAFFLES PLACE, SINGAPORE 048623",Office Building,Large,No,1982,,Not Certified,No,64277,96,95,,Water Cooled Chilled Water Plant,2,,,2,N,321.3,279.3,269.3,Improved,Bottom Quartile,Y,36,17309796.1
+CPF JURONG BUILDING,"21 JURONG GATEWAY ROAD, SINGAPORE 608546",Office Building,Small,Yes,1994,,Not Certified,No,4745,72,100,,Air Cooled Chilled Water Plant,9,,,10,N,245.6,234.8,229.5,Improved,3rd Quartile,Y,24,1088977.5
+CPF BISHAN BUILDING,"3 BISHAN PLACE, SINGAPORE 579838",Office Building,Small,Yes,1997,,Not Certified,No,8060,79,100,,Air Cooled Chilled Water Plant,6,,,10,N,757.8,783.3,807.5,Worsened,Bottom Quartile,Y,21,6508450
+CPF TAMPINES BUILDING,"1 TAMPINES CENTRAL 5, SINGAPORE 529508",Office Building,Large,Yes,1997,,Not Certified,No,15551,89,89,,Water Cooled Chilled Water Plant,6,,,10,N,346.7,396.7,401,Worsened,Bottom Quartile,Y,21,6235951
+OG ORCHARD POINT,"160 ORCHARD ROAD, SINGAPORE 238842",Retail Building,Large,No,1990,,Not Certified,No,26671,90,100,88,Water Cooled Chilled Water Plant,14,,,40,N,216.4,212.6,179.2,Improved,Top Quartile,Y,28,4779443.199999999
+OG BUILDING,"100 UPPER CROSS STREET, SINGAPORE 058360",Retail Building,Small,No,2003,,Not Certified,No,12439,92,100,,Water Cooled Chilled Water Plant,9,,,36,N,297,291.6,273.5,Improved,2nd Quartile,Y,15,3402066.5
+OG ALBERT COMPLEX,"60 ALBERT STREET, SINGAPORE 189969",Mixed Development,,No,1984,2015,Gold,Yes,25724,90,100,,Water Cooled Chilled Water Plant,1,0.86,2013,42,N,207.5,204.2,188.3,Improved,Top Quartile,Y,34,4843829.2
+OG ORCHARD,"228 ORCHARD ROAD, SINGAPORE 238853",Retail Building,Small,No,1982,,Not Certified,No,4117,100,100,,Water Cooled Packaged Unit,18,,,0,N,370.5,355,299.7,Improved,2nd Quartile,Y,36,1233864.9
+TOKIO MARINE CENTRE,"20 MCCALLUM STREET, SINGAPORE 069046",Office Building,Small,No,2010,2008,GoldPlus,Yes,14671,90,100,,Water Cooled Chilled Water Plant,3,0.55,2013,0,N,180.6,183.7,157.2,Improved,2nd Quartile,Y,8,2306281.1999999997
+FRAGRANCE BUILDING,"168 CHANGI ROAD, SINGAPORE 419730",Office Building,Small,No,2007,,Not Certified,No,1671,71,77,,"Others (Split Units, Unitary Systems)",10,,,0,N,159.2,162.9,114,Improved,Top Quartile,Y,11,190494
+THE PUNGGOL SETTLEMENT,"3 PUNGGOL POINT ROAD, SINGAPORE 828694",Retail Building,Small,No,2014,,Not Certified,No,3000,57,78,,"Others (Split Units, Unitary Systems)",3,,,76,N,616.8,586.2,493,Improved,Bottom Quartile,Y,4,1479e3
+,"1 RAFFLES QUAY, SINGAPORE 048583",Office Building,Large,No,2006,2016,Platinum,Yes,144109,97,100,,District Cooling Plant,7,,,26,N,275.5,282.1,274.3,Improved,Bottom Quartile,Y,12,39529098.7
+,,Office Building,Large,,,,,Yes,,,,,,,,,,,130.3,128.8,123.7,Improved,Top Quartile,N,,
+TAN KONG TIEN BUILDING,"87 BUKIT TIMAH ROAD, SINGAPORE 229834",Office Building,Small,No,2016,,Not Certified,No,1700,82,70,,"Others (Split Units, Unitary Systems)",4,,,0,N,48.8,49.9,46.7,Improved,Top Quartile,Y,2,79390
+HIGH STREET CENTRE,"1 NORTH BRIDGE ROAD, SINGAPORE 179094",Office Building,Large,No,1976,,Not Certified,No,43000,95,90,,Water Cooled Packaged Unit,4,,,0,N,178.5,175.9,174.1,Improved,2nd Quartile,Y,42,7486300
+MUSTAFA CENTRE,"145 SYED ALWI ROAD, SINGAPORE 207704",Retail Building,Large,No,1995,,Not Certified,No,23000,99,100,,Water Cooled Chilled Water Plant,5,,,50,N,873.5,849.7,784.8,Improved,Bottom Quartile,Y,23,18050400
+WEST MALL,"1 BUKIT BATOK CENTRAL LINK, SINGAPORE 658713",Retail Building,Large,No,1998,2013,Gold,Yes,24182,87,100,,Water Cooled Chilled Water Plant,0,0.65,2013,75,N,489.9,478.5,471.9,Improved,3rd Quartile,Y,20,11411485.799999999
+,"22 JALAN MOLEK, SINGAPORE 399541",Hotel,Small,No,1997,,Not Certified,No,702,42,48,31,"Others (Split Units, Unitary Systems)",20,0.85,,0,N,143.7,128.8,113.2,Improved,Top Quartile,Y,21,79466.40000000001
+BOON SIEW BUILDING,"75 BUKIT TIMAH ROAD, SINGAPORE 229833",Office Building,Small,No,1984,,Not Certified,No,11950,75,95,,Water Cooled Chilled Water Plant,32,,,0,N,136.6,143.7,130.5,Improved,Top Quartile,Y,34,1559475
+GERMAN CENTRE,"25 INTERNATIONAL BUSINESS PARK, SINGAPORE 609916",Office Building,Large,No,1994,2015,Platinum,Yes,28421,83,97,,Water Cooled Chilled Water Plant,3,0.6,2014,100,N,111.7,116.6,112.9,Improved,Top Quartile,Y,24,3208730.9000000004
+ROBINSON 77,"77 ROBINSON ROAD, SINGAPORE 068896",Office Building,Large,No,1997,,Not Certified,No,35395,82,88,,Water Cooled Chilled Water Plant,20,1.08,2017,20,N,199.8,194.8,186.3,Improved,2nd Quartile,Y,21,6594088.5
+ANSON HOUSE,"72 ANSON ROAD, SINGAPORE 079911",Office Building,Small,No,1998,,Not Certified,No,9673,75,90,,Air Cooled Chilled Water Plant,2,1.1,,20,N,157.7,191.8,199.5,Worsened,3rd Quartile,Y,20,1929763.5
+MITSUBISHI ELECTRIC BUILDING,"307 ALEXANDRA ROAD, SINGAPORE 159943",Office Building,Large,No,1991,2014,Platinum,Yes,16654,40,100,,"Others (Split Units, Unitary Systems)",5,,,0,Y,100.1,97,94,Improved,Top Quartile,Y,27,1565476
+COLD STORAGE JELITA,"293 HOLLAND ROAD, SINGAPORE 278628",Retail Building,Small,No,1980,,Not Certified,No,3508,100,100,,Water Cooled Chilled Water Plant,14,,,60,N,783.9,742.6,755.8,Worsened,Bottom Quartile,Y,38,2651346.4
+,,Office Building,Small,,,,,No,,,,,,,,,,,304.1,297.8,285.6,Improved,Bottom Quartile,N,,
+,"61 WESTERHOUT ROAD, SINGAPORE 397662",Hotel,Small,No,1997,,Not Certified,No,816,100,70,33,"Others (Split Units, Unitary Systems)",15,,,0,N,208.7,203.7,194.7,Improved,2nd Quartile,Y,21,158875.19999999998
+,,Office Building,Large,,,,,No,,,,,,,,,,,173.2,200.7,208.9,Worsened,3rd Quartile,N,,
+,"96 SOMERSET ROAD, SINGAPORE 238163",Hotel,Large,No,2008,,Not Certified,No,12401,84,90,126,Water Cooled Chilled Water Plant,9,,,90,N,265,266.1,261,Improved,2nd Quartile,Y,10,3236661
+MACDONALD HOUSE,"40A ORCHARD ROAD, SINGAPORE 238838",Office Building,Small,No,1999,,Not Certified,No,9000,91,100,,"Others (Split Units, Unitary Systems)",10,,,10,N,289.7,296.1,208.5,Improved,3rd Quartile,Y,19,1876500
+GOLDBELL TOWERS,"47 SCOTTS ROAD, SINGAPORE 228233",Office Building,Large,No,1999,2017,Gold,Yes,17815,90,95,,"Others (Split Units, Unitary Systems)",17,0.72,2017,0,N,245.1,234.5,201.8,Improved,3rd Quartile,Y,19,3595067
+ARIANNA HOTEL,"83 SYED ALWI ROAD, SINGAPORE 207662",Hotel,Small,No,2003,,Not Certified,No,1440,100,80,51,"Others (Split Units, Unitary Systems)",5,,,100,N,283.9,318.8,267.7,Improved,3rd Quartile,Y,15,385488
+,"15 MERBAU ROAD, SINGAPORE 239032",Hotel,Small,No,1998,,Not Certified,No,3836,94,70,148,Water Cooled Chilled Water Plant,10,,,100,N,337.5,310.3,318.6,Worsened,3rd Quartile,Y,20,1222149.6
+ENVIRONMENT BUILDING,"40 SCOTTS ROAD, SINGAPORE 228231",Office Building,Large,Yes,1985,2014,Platinum,Yes,49021,62,100,,Water Cooled Chilled Water Plant,5,0.58,2016,61,N,135.8,142.2,134.3,Improved,Top Quartile,Y,33,6583520.300000001
+LLOYDS INN,"2 LLOYD ROAD, SINGAPORE 239091",Hotel,Small,No,2014,,Not Certified,No,1126,45,87,34,"Others (Split Units, Unitary Systems)",3,,,27,N,273.5,328.2,312.1,Improved,3rd Quartile,Y,4,351424.60000000003
+,"488 GEYLANG ROAD, SINGAPORE 389447",Hotel,Small,No,2005,,Not Certified,No,507,71,50,16,"Others (Split Units, Unitary Systems)",7,,,0,N,85.4,84.9,98.4,Worsened,Top Quartile,Y,13,49888.8
+,,Office Building,Large,,,,,No,,,,,,,,,,,174,176,173,Improved,2nd Quartile,N,,
+MANDARIN ORCHARD SINGAPORE,"333 ORCHARD ROAD, SINGAPORE 238867",Hotel,Large,No,1970,2016,Certified,Yes,127860,97,86,1077,Water Cooled Chilled Water Plant,8,0.8,2016,80,N,233.4,217.9,220.2,Worsened,Top Quartile,Y,48,28154772
+,,Office Building,Small,,,,,No,,,,,,,,,,,292.9,298.4,251.6,Improved,3rd Quartile,N,,
+ORCHARD TOWERS,"400 ORCHARD ROAD, SINGAPORE 238875",Mixed Development,,No,1975,2016,Certified,Yes,42809,88,85,,Water Cooled Chilled Water Plant,3,0.62,2017,35,N,188.7,182.4,173.8,Improved,Top Quartile,Y,43,7440204.2
+BCH@301,"301 GEYLANG ROAD, SINGAPORE 389344",Office Building,Small,No,2012,,Not Certified,No,2785,37,45,,"Others (Split Units, Unitary Systems)",3,,,50,N,352.6,366.9,350,Improved,Bottom Quartile,Y,6,974750
+PARKVIEW SQUARE,"600 NORTH BRIDGE ROAD, SINGAPORE 188778",Office Building,Large,No,2002,,Not Certified,No,39149,90,90,,Water Cooled Chilled Water Plant,16,,,48,N,229.7,208.7,229,Worsened,3rd Quartile,Y,16,8965121
+STUDIO M HOTEL,"3 NANSON ROAD, SINGAPORE 238910",Hotel,Large,No,2010,2015,Gold,Yes,8210,85,75,360,"Others (Split Units, Unitary Systems)",7,1,2015,100,N,478.8,462.8,433.8,Improved,Bottom Quartile,Y,8,3561498
+,"757 GEYLANG ROAD, SINGAPORE 389659",Hotel,Small,No,1996,,Not Certified,No,1661,100,60,51,"Others (Split Units, Unitary Systems)",6,,,100,N,272,275.3,264.6,Improved,3rd Quartile,Y,22,439500.60000000003
+THE PARAGON,"290 ORCHARD ROAD, SINGAPORE 238859",Retail Building,Large,No,2005,,Not Certified,No,94403,84,100,,Water Cooled Chilled Water Plant,2,0.7,,100,N,441.5,423,401.7,Improved,2nd Quartile,Y,13,37921685.1
+THE CLEMENTI MALL,"3155 COMMONWEALTH AVENUE WEST, SINGAPORE 129588",Retail Building,Large,No,2012,,Not Certified,No,26794,62,100,,Water Cooled Chilled Water Plant,6,1.09,2015,90,N,692.5,691,663.9,Improved,Bottom Quartile,Y,6,17788536.599999998
+,,Office Building,Small,,,,,No,,,,,,,,,,,147,135.2,126.8,Improved,Top Quartile,N,,
+,,Hotel,Small,,,,,No,,,,,,,,,,,298.4,319.7,308.8,Improved,3rd Quartile,N,,
+BCA ACADEMY OF THE BUILT ENVIRONMENT,"200 BRADDELL ROAD, SINGAPORE 579700",Office Building,Large,Yes,1994,2014,Platinum,Yes,53422,39,85,1,Water Cooled Chilled Water Plant,1,,,23,Y,44,43.4,42.5,Improved,Top Quartile,Y,24,2270435
+MARINA BAY SANDS,"1 BAYFRONT AVENUE, SINGAPORE 018971",Mixed Development,,No,2010,2015,Platinum,Yes,581511,100,98,2561,District Cooling Plant,8,,,86,N,313.9,305.8,301.1,Improved,3rd Quartile,Y,8,175092962.10000002
+KATONG PLAZA,"1 BROOKE ROAD, SINGAPORE 429979",Retail Building,Small,No,1980,,Not Certified,No,5411,66,90,,Water Cooled Chilled Water Plant,33,,,100,N,241.2,242,241.1,Improved,2nd Quartile,Y,38,1304592.0999999999
+THE BENCOOLEN,"180 BENCOOLEN STREET, SINGAPORE 189646",Retail Building,Large,No,1999,,Not Certified,No,29796,26,90,1,Air Cooled Chilled Water Plant,0,,,0,N,138.7,136,139.4,Worsened,Top Quartile,Y,19,4153562.4000000004
+SGX CENTRE I,"2 SHENTON WAY, SINGAPORE 068804",Office Building,Large,No,2003,,Not Certified,No,29964,95,95,,Water Cooled Chilled Water Plant,13,,,15,N,290.5,312.3,314.5,Worsened,Bottom Quartile,Y,15,9423678
+,,Office Building,Large,,,,,No,,,,,,,,,,,330.5,335.5,329.1,Improved,Bottom Quartile,N,,
+SINGAPORE SHOPPING CENTRE,"190 CLEMENCEAU AVENUE, SINGAPORE 239924",Retail Building,Small,No,1982,2016,Gold,Yes,11256,98,98,,Water Cooled Chilled Water Plant,1,0.65,2015,100,N,206.5,160.2,171,Worsened,2nd Quartile,Y,36,1924776
+PALAIS RENAISSANCE,"390 ORCHARD ROAD, SINGAPORE 238871",Mixed Development,,No,1991,2017,Platinum,Yes,16491,89,90,,Water Cooled Chilled Water Plant,1,0.59,2017,50,N,220.2,219.7,200.6,Improved,Top Quartile,Y,27,3308094.6
+TONG BUILDING,"302 ORCHARD ROAD, SINGAPORE 238862",Office Building,Large,No,1982,,Not Certified,No,15153,82,70,,Water Cooled Chilled Water Plant,15,,,0,N,184.9,186.9,174.3,Improved,2nd Quartile,Y,36,2641167.9000000004
+CHAN BROTHERS BUILDING,"452 NORTH BRIDGE ROAD, SINGAPORE 188733",Office Building,Small,No,1979,,Not Certified,No,955,91,95,,"Others (Split Units, Unitary Systems)",10,,,0,N,314.1,287.5,258.7,Improved,3rd Quartile,Y,39,247058.5
+,"6 RAFFLES QUAY, SINGAPORE 048580",Office Building,Large,No,1992,,Not Certified,No,16105,100,90,,"Others (Split Units, Unitary Systems)",9,,,20,N,268.6,260.1,268.3,Worsened,Bottom Quartile,Y,26,4320971.5
+,"501 OLD CHOA CHU KANG ROAD, SINGAPORE 698928",Office Building,Large,Yes,2005,,Not Certified,No,137488,45,100,,Water Cooled Chilled Water Plant,10,0.9,2008,2,N,137.5,136.2,132.5,Improved,Top Quartile,Y,13,18217160
+,"47 PAGODA STREET, SINGAPORE 059206",Retail Building,Small,No,1993,,Not Certified,No,591,100,100,,"Others (Split Units, Unitary Systems)",2,,,50,N,502.1,525,477.9,Improved,3rd Quartile,Y,25,282438.89999999997
+,,Office Building,Small,,,,,No,,,,,,,,,,,284.8,249.8,215,Improved,3rd Quartile,N,,
+IBIS SINGAPORE NOVENA,"6 IRRAWADDY ROAD, SINGAPORE 329543",Hotel,Small,No,2011,2015,Platinum,Yes,6407,89,90,241,"Others (Split Units, Unitary Systems)",5,,,10,N,415.8,349.5,335.3,Improved,3rd Quartile,Y,7,2148267.1
+THE ARDENNES,"11 JALAN KLAPA, SINGAPORE 199323",Hotel,Small,No,2011,,Not Certified,No,739,95,64,15,"Others (Split Units, Unitary Systems)",6,,,80,N,394.3,370.5,168.1,Improved,Top Quartile,Y,7,124225.9
+,"2 JALAN PINANG, SINGAPORE 199150",Hotel,Small,No,1996,,Not Certified,No,314,100,30,26,"Others (Split Units, Unitary Systems)",4,,,100,N,102.1,102.6,99.5,Improved,Top Quartile,Y,22,31243
+MAPLETREE BUSINESS CITY,"10 PASIR PANJANG ROAD, SINGAPORE 117438",Office Building,Large,No,2010,2016,Platinum,Yes,309099,91,62,,Water Cooled Chilled Water Plant,7,0.6,2017,20,Y,178.9,210.4,138,Improved,Top Quartile,Y,8,42655662
+,,Retail Building,Large,,,,,No,,,,,,,,,,,258.5,260.9,236,Improved,Top Quartile,N,,
+THE HOUSE OF EDEN,"4 ROBINSON ROAD, SINGAPORE 048543",Office Building,Small,No,1997,,Not Certified,No,4482,75,100,,Air Cooled Chilled Water Plant,21,,,15,N,157.8,204.8,204.9,Worsened,3rd Quartile,Y,21,918361.8
+,,Hotel,Small,,,,,No,,,,,,,,,,,157.5,196,206.5,Worsened,2nd Quartile,N,,
+,,Hotel,Small,,,,,No,,,,,,,,,,,235.6,268.5,248.8,Improved,3rd Quartile,N,,
+PKMS BUILDING,"218 CHANGI ROAD, SINGAPORE 419737",Office Building,Small,No,1962,,Not Certified,No,2807,53,75,,"Others (Split Units, Unitary Systems)",5,,,0,N,85.1,87.8,91.6,Worsened,Top Quartile,Y,56,257121.19999999998
+BAY HOTEL SINGAPORE,"50 TELOK BLANGAH ROAD, SINGAPORE 098828",Hotel,Large,No,2012,,Not Certified,No,7262,93,83,319,"Others (Split Units, Unitary Systems)",6,,,75,N,397.4,421.6,395.7,Improved,Bottom Quartile,Y,6,2873573.4
+,"36 PRINSEP STREET, SINGAPORE 188648",Office Building,Small,No,1995,,Not Certified,No,2647,100,80,,"Others (Split Units, Unitary Systems)",20,,,0,N,161.3,137.6,152.3,Worsened,2nd Quartile,Y,23,403138.10000000003
+PARK REGIS SINGAPORE,"23 MERCHANT ROAD, SINGAPORE 058268",Hotel,Large,No,2010,,Not Certified,No,12306,80,87,202,"Others (Split Units, Unitary Systems)",7,,,55,N,427.4,406.2,386.7,Improved,Bottom Quartile,Y,8,4758730.2
+,,Hotel,Large,,,,,Yes,,,,,,,,,,,345.7,365.6,389.7,Worsened,Bottom Quartile,N,,
+BEA BUILDING,"60 ROBINSON ROAD, SINGAPORE 068892",Office Building,Small,No,2009,,Not Certified,No,7783,75,97,,Air Cooled Chilled Water Plant,8,,,25,N,322.4,322.4,304.7,Improved,Bottom Quartile,Y,9,2371480.1
+WISMA ATRIA,"435 ORCHARD ROAD, SINGAPORE 238877",Retail Building,Large,No,1986,,Not Certified,No,40064,95,99,,Water Cooled Chilled Water Plant,15,0.81,2012,90,N,340.6,354.7,377.6,Worsened,2nd Quartile,Y,32,15128166.4
+ICA BUILDING,"10 KALLANG ROAD, SINGAPORE 208718",Office Building,Large,Yes,1997,,Not Certified,No,37819,100,100,,Water Cooled Chilled Water Plant,2,,,17,N,347.8,344.7,329.6,Improved,Bottom Quartile,Y,21,12465142.4
+,"347 BALESTIER ROAD, SINGAPORE 329777",Hotel,Small,No,1997,,Not Certified,No,1846,70,50,68,"Others (Split Units, Unitary Systems)",18,,,0,N,239.5,234.3,223.9,Improved,2nd Quartile,Y,21,413319.4
+SP CORNER,"202 SERANGOON ROAD, SINGAPORE 218069",Retail Building,Small,No,2002,,Not Certified,No,939,69,70,,"Others (Split Units, Unitary Systems)",6,1.75,2017,90,N,288.3,317.8,312.1,Improved,2nd Quartile,Y,16,293061.9
+,,Office Building,Large,,,,,Yes,,,,,,,,,,,163.8,163.8,158.3,Improved,2nd Quartile,N,,
+,,Office Building,Large,,,,,Yes,,,,,,,,,,,247.2,244.9,235.9,Improved,3rd Quartile,N,,
+SUMMER VIEW HOTEL,"173 BENCOOLEN STREET, SINGAPORE 189642",Hotel,Small,No,1997,,Not Certified,No,2631,70,85,86,"Others (Split Units, Unitary Systems)",3,,,90,N,263.4,258.3,224.6,Improved,2nd Quartile,Y,21,590922.6
+,,Hotel,Small,,,,,No,,,,,,,,,,,260.3,259.6,251.1,Improved,3rd Quartile,N,,
+FORUM,"583 ORCHARD ROAD, SINGAPORE 238884",Mixed Development,,No,1985,,Not Certified,No,24639,94,90,,Water Cooled Chilled Water Plant,8,0.62,2017,50,N,396,408.6,393.9,Improved,Bottom Quartile,Y,33,9705302.1
+SENG KEE BUILDING,"20 MARTIN ROAD, SINGAPORE 239070",Office Building,Small,No,1998,,Not Certified,No,4129,100,100,,"Others (Split Units, Unitary Systems)",4,,,0,N,328.9,325,299.1,Improved,Bottom Quartile,Y,20,1234983.9000000001
+SHERATON TOWERS HOTEL,"39 SCOTTS ROAD, SINGAPORE 228230",Hotel,Large,No,1985,2015,Platinum,Yes,31224,80,75,420,Water Cooled Chilled Water Plant,1,0.6,2016,85,N,330.4,284.6,250.2,Improved,2nd Quartile,Y,33,7812244.8
+HOTEL COMPASS,"36 LORONG 22 GEYLANG, SINGAPORE 398693",Hotel,Small,No,1998,,Not Certified,No,1430,100,70,49,"Others (Split Units, Unitary Systems)",18,,,0,N,284.3,270.3,272,Worsened,3rd Quartile,Y,20,388960
+,,Hotel,Large,,,,,Yes,,,,,,,,,,,236.9,216.8,217,Worsened,Top Quartile,N,,
+,,Retail Building,Large,,,,,No,,,,,,,,,,,506.6,522.8,578.3,Worsened,Bottom Quartile,N,,
+LAGUN SARI BUILDING,"381 JOO CHIAT ROAD, SINGAPORE 427621",Office Building,Small,No,1999,,Not Certified,No,1965,100,100,,"Others (Split Units, Unitary Systems)",2,,,7,N,193.7,210,192.4,Improved,3rd Quartile,Y,19,378066
+,,Retail Building,Small,,,,,No,,,,,,,,,,,369.2,362.9,337.9,Improved,2nd Quartile,N,,
+PHILIPPINES EMBASSY,"20 NASSIM ROAD, SINGAPORE 258395",Office Building,Small,No,1986,,Not Certified,No,650,85,100,,"Others (Split Units, Unitary Systems)",4,,,100,N,173.6,185.6,180.5,Improved,2nd Quartile,Y,32,117325
+,,Office Building,Small,,,,,No,,,,,,,,,,,193.3,193,180.2,Improved,2nd Quartile,N,,
+,,Retail Building,Large,,,,,No,,,,,,,,,,,255.2,259.2,239,Improved,2nd Quartile,N,,
+PEOPLES ASSOCIATION,"9 KING GEORGES AVENUE, SINGAPORE 208581",Office Building,Small,Yes,2009,2009,GoldPlus,Yes,14647,87,100,,Water Cooled Chilled Water Plant,8,0.76,,0,Y,149.9,145.9,146.6,Worsened,2nd Quartile,Y,9,2147250.1999999997
+PEACE CENTRE,"1 SOPHIA ROAD, SINGAPORE 228149",Office Building,Large,No,1979,,Not Certified,No,36800,92,90,,Water Cooled Chilled Water Plant,10,,,0,N,275.4,288.1,255.3,Improved,Bottom Quartile,Y,39,9395040
+,"18 SCIENCE PARK DRIVE, SINGAPORE 118229",Office Building,Large,No,1992,,Not Certified,No,16155,79,80,,Water Cooled Chilled Water Plant,5,0.69,2014,0,N,1098.3,1095.3,1077.7,Improved,Bottom Quartile,Y,26,17410243.5
+LUBRITRADE BUILDING,"408 NORTH BRIDGE ROAD, SINGAPORE 188725",Office Building,Small,No,2003,,Not Certified,No,1827,63,100,,"Others (Split Units, Unitary Systems)",4,,,0,N,292.5,259.7,236.3,Improved,3rd Quartile,Y,15,431720.10000000003
+SEACARE BUILDING,"52 CHIN SWEE ROAD, SINGAPORE 169875",Mixed Development,,No,1968,,Not Certified,No,6508,90,78,103,"Others (Split Units, Unitary Systems)",4,,,84,N,218.7,222.1,205.7,Improved,2nd Quartile,Y,50,1338695.5999999999
+AXA TOWER,"8 SHENTON WAY, SINGAPORE 068811",Office Building,Large,No,1987,2012,Platinum,Yes,95625,97,92,,Water Cooled Chilled Water Plant,11,0.7,,57,N,157.7,164.4,156.1,Improved,2nd Quartile,Y,31,14927062.5
+,"8 INTERNATIONAL BUSINESS PARK, SINGAPORE 609925",Office Building,Small,No,1995,,Not Certified,No,8288,72,100,,Air Cooled Chilled Water Plant,4,,,40,N,903.1,1005.6,1007.6,Worsened,Bottom Quartile,Y,23,8350988.8
+MARINA BAY FINANCIAL CENTRE,"8 MARINA BOULEVARD, SINGAPORE 018981",Mixed Development,,No,2009,2017,Platinum,Yes,338032,94,100,,District Cooling Plant,7,,,5,N,228.3,224.1,215.7,Improved,2nd Quartile,Y,9,72913502.39999999
+,,Hotel,Small,,,,,No,,,,,,,,,,,281.9,288.9,300.3,Worsened,3rd Quartile,N,,
+,,Hotel,Small,,,,,No,,,,,,,,,,,354.7,389.3,364.7,Improved,Bottom Quartile,N,,
+,,Hotel,Small,,,,,No,,,,,,,,,,,217.6,216.4,205.2,Improved,2nd Quartile,N,,
+,,Hotel,Small,,,,,No,,,,,,,,,,,448.6,403.7,371.4,Improved,Bottom Quartile,N,,
+,,Hotel,Small,,,,,No,,,,,,,,,,,401.3,381.5,369.4,Improved,Bottom Quartile,N,,
+,,Office Building,Large,,,,,Yes,,,,,,,,,,,443.7,424.8,453.2,Worsened,Bottom Quartile,N,,
+SOUTH EAST ASIA HOTEL,"190 WATERLOO STREET, SINGAPORE 187965",Hotel,Small,No,1953,,Not Certified,No,1755,57,39,51,"Others (Split Units, Unitary Systems)",16,,,21,N,247.1,235.3,202.3,Improved,2nd Quartile,Y,65,355036.5
+GOLDEN ROYAL HOTEL,"51 DESKER ROAD, SINGAPORE 209645",Hotel,Small,No,2000,,Not Certified,No,1796,50,50,54,"Others (Split Units, Unitary Systems)",1,,,0,N,125.8,146.6,179.2,Worsened,Top Quartile,Y,18,321843.19999999995
+MOON 23 HOTEL,"23 DICKSON ROAD, SINGAPORE 209507",Hotel,Small,No,2010,,Not Certified,No,1697,100,65,80,"Others (Split Units, Unitary Systems)",6,,,100,N,280.4,306.9,322.7,Worsened,3rd Quartile,Y,8,547621.9
+,"88 SYED ALWI ROAD, SINGAPORE 207667",Hotel,Small,No,1998,,Not Certified,No,1088,64,55,44,"Others (Split Units, Unitary Systems)",20,,,0,N,475.5,470.8,471.9,Worsened,Bottom Quartile,Y,20,513427.19999999995
+BALMORAL PLAZA,"271 BUKIT TIMAH ROAD, SINGAPORE 259708",Retail Building,Small,No,1990,,Not Certified,No,12349,63,90,,Water Cooled Packaged Unit,,,,60,N,278.2,253.2,224.9,Improved,2nd Quartile,Y,28,2777290.1
+"LE MERIDIEN SINGAPORE, SENTOSA","23 BEACH VIEW, SINGAPORE 098679",Hotel,Large,No,2011,,Not Certified,No,10453,67,84,191,"Others (Split Units, Unitary Systems)",7,,,70,N,553,553.4,545.7,Improved,Bottom Quartile,Y,7,5704202.100000001
+CRESCENT BUILDING,"320 BALESTIER ROAD, SINGAPORE 329924",Retail Building,Small,No,1995,,Not Certified,No,1588,76,90,,"Others (Split Units, Unitary Systems)",9,,,0,N,190.5,170.6,158.5,Improved,2nd Quartile,Y,23,251698
+321 CLEMENTI,"321 CLEMENTI AVENUE 3, SINGAPORE 129905",Retail Building,Small,No,2016,2015,Platinum,Yes,7564,75,80,,Water Cooled Chilled Water Plant,1,,,60,Y,210.3,356.5,328.3,Improved,2nd Quartile,Y,2,2483261.2
+,"61 ANG MO KIO AVENUE 8, SINGAPORE 569814",Retail Building,Small,No,2011,,Not Certified,No,5096,98,100,,Water Cooled Packaged Unit,,,,100,N,406.4,413.4,436.4,Worsened,3rd Quartile,Y,7,2223894.4
+,,Hotel,Large,,,,,No,,,,,,,,,,,290.6,297.6,282.2,Improved,3rd Quartile,N,,
+,,Hotel,Large,,,,,Yes,,,,,,,,,,,113.4,100.3,94.1,Improved,Top Quartile,N,,
+SULTAN PLAZA,"100 JALAN SULTAN, SINGAPORE 199001",Office Building,Large,No,1985,,Not Certified,No,17034,94,95,,Water Cooled Chilled Water Plant,18,,,0,N,298.6,287.5,267.2,Improved,Bottom Quartile,Y,33,4551484.8
+NEHSONS BUILDING,"24 PECK SEAH STREET, SINGAPORE 079314",Office Building,Small,No,1970,,Not Certified,No,6689,63,90,,Water Cooled Packaged Unit,,,,0,N,195.9,194.7,177.8,Improved,2nd Quartile,Y,48,1189304.2000000002
+,"441 BALESTIER ROAD, SINGAPORE 329820",Mixed Development,,No,1997,,Not Certified,No,910,83,100,,"Others (Split Units, Unitary Systems)",1,,,65,N,225.6,245.6,255.8,Worsened,2nd Quartile,Y,21,232778
+,,Office Building,Small,,,,,No,,,,,,,,,,,124.6,120.4,116.2,Improved,Top Quartile,N,,
+WINSLAND HOUSE II,"163 PENANG ROAD, SINGAPORE 238463",Office Building,Large,No,1997,2014,GoldPlus,Yes,18451,73,95,,Water Cooled Chilled Water Plant,3,0.64,2013,30,N,201,200.1,168.3,Improved,2nd Quartile,Y,21,3105303.3000000003
+WINSLAND HOUSE I,"3 KILLINEY ROAD, SINGAPORE 239519",Office Building,Large,No,1991,2017,GoldPlus,Yes,21055,76,95,,Water Cooled Chilled Water Plant,1,0.6,2015,10,N,191.2,179.3,151.7,Improved,Top Quartile,Y,27,3194043.4999999995
+THE CENTREPOINT,"176 ORCHARD ROAD, SINGAPORE 238843",Retail Building,Large,No,1983,,Not Certified,No,53196,81,75,,Water Cooled Chilled Water Plant,9,,,16,N,283.7,264.5,356.5,Worsened,2nd Quartile,Y,35,18964374
+,,Hotel,Small,,,,,No,,,,,,,,,,,347.6,333.5,296.5,Improved,3rd Quartile,N,,
+,"40 AMBER ROAD, SINGAPORE 439878",Hotel,Small,No,1947,,Not Certified,No,638,94,70,25,"Others (Split Units, Unitary Systems)",4,,,0,N,211.3,205.1,206.8,Worsened,2nd Quartile,Y,71,131938.4
+CHIAT HONG BUILDING,"110 MIDDLE ROAD, SINGAPORE 188968",Office Building,Small,No,1975,,Not Certified,No,2997,100,95,,Water Cooled Packaged Unit,,,,0,N,222.7,209.1,200.5,Improved,3rd Quartile,Y,43,600898.5
+,"246 BALESTIER ROAD, SINGAPORE 329706",Hotel,Small,No,1955,,Not Certified,No,993,90,80,9999,"Others (Split Units, Unitary Systems)",3,,,0,N,181,180.4,160.2,Improved,Top Quartile,Y,63,159078.59999999998
+,"8 LOWER DELTA ROAD, SINGAPORE 169198",Office Building,Small,Yes,2003,,Not Certified,No,9507,84,55,,"Others (Split Units, Unitary Systems)",10,,,0,N,327.8,441.3,597,Worsened,Bottom Quartile,Y,15,5675679
+,"298 JALAN BUKIT HO SWEE, SINGAPORE 169565",Office Building,Small,Yes,2003,,Not Certified,No,7860,75,100,,"Others (Split Units, Unitary Systems)",9,,,0,N,74.2,77.9,62.9,Improved,Top Quartile,Y,15,494394
+,,Office Building,Small,,,,,No,,,,,,,,,,,226.8,230.8,225,Improved,3rd Quartile,N,,
+,,Hotel,Large,,,,,No,,,,,,,,,,,330.9,246.6,186.6,Improved,Top Quartile,N,,
+,,Hotel,Large,,,,,No,,,,,,,,,,,303.6,305.5,310.2,Worsened,3rd Quartile,N,,
+,"1 THE KNOLLS, SINGAPORE 098297",Hotel,Large,No,2008,,Not Certified,No,42461,79,73,193,Water Cooled Chilled Water Plant,7,,,5,N,347.9,360.5,360.5,Worsened,Bottom Quartile,Y,10,15307190.5
+ROBINSON 112,"112 ROBINSON ROAD, SINGAPORE 068902",Office Building,Small,No,2004,,Not Certified,No,10720,84,95,,Water Cooled Packaged Unit,2,,,5,N,231.2,210.8,200.4,Improved,3rd Quartile,Y,14,2148288
+ANSON CENTRE,"51 ANSON ROAD, SINGAPORE 079904",Office Building,Small,No,1974,,Not Certified,No,8675,80,65,,Water Cooled Chilled Water Plant,19,,,0,N,181.4,169.9,160.8,Improved,2nd Quartile,Y,44,1394940
+MAXWELL HOUSE,"20 MAXWELL ROAD, SINGAPORE 069113",Office Building,Large,No,1975,,Not Certified,No,16608,100,98,,Water Cooled Chilled Water Plant,17,,,0,N,163.2,158,153,Improved,2nd Quartile,Y,43,2541024
+PACIFIC PLAZA,"9 SCOTTS ROAD, SINGAPORE 228210",Mixed Development,,No,1997,,Not Certified,No,10938,75,80,,Air Cooled Chilled Water Plant,4,,,61,N,309.4,347.1,426.9,Worsened,Bottom Quartile,Y,21,4669432.2
+ORCHARD PARADE HOTEL,"1 TANGLIN ROAD, SINGAPORE 247905",Hotel,Large,No,1977,2014,Gold,Yes,26657,99,85,388,Water Cooled Chilled Water Plant,2,0.68,2015,25,N,278.4,265.8,247,Improved,2nd Quartile,Y,41,6584279
+THE ELIZABETH,"24 MOUNT ELIZABETH, SINGAPORE 228518",Hotel,Large,No,1993,,Not Certified,No,16872,100,85,364,Water Cooled Chilled Water Plant,9,,,60,N,288.1,284.3,270.3,Improved,3rd Quartile,Y,25,4560501.600000001
+SUPREME COURT BUILDING,"1 SUPREME COURT LANE, SINGAPORE 178879",Office Building,Large,Yes,2005,,Not Certified,No,58824,74,100,,Water Cooled Chilled Water Plant,12,0.86,2013,2,N,154.7,159.5,153.5,Improved,2nd Quartile,Y,13,9029484
+WEST COAST PLAZA,"154 WEST COAST ROAD, SINGAPORE 127371",Retail Building,Large,No,2008,,Not Certified,No,20713,85,83,,Water Cooled Chilled Water Plant,9,,,50,N,491.1,464,422.5,Improved,3rd Quartile,Y,10,8751242.5
+,"443 GEYLANG ROAD, SINGAPORE 389403",Hotel,Small,No,1982,,Not Certified,No,1414,80,80,55,"Others (Split Units, Unitary Systems)",17,,,0,N,158.2,148.9,142.2,Improved,Top Quartile,Y,36,201070.8
+RIVERSIDE POINT,"30 MERCHANT ROAD, SINGAPORE 058282",Office Building,Small,No,1996,,Not Certified,No,13128,68,75,,Water Cooled Chilled Water Plant,18,0.82,,0,N,419.4,427.5,409.6,Improved,Bottom Quartile,Y,22,5377228.800000001
+COLLEGE OF MEDICINE BUILDING,"16 COLLEGE ROAD, SINGAPORE 169854",Office Building,Large,Yes,1926,,Not Certified,No,17137,98,100,,Air Cooled Chilled Water Plant,30,0.94,2015,0,N,118.4,119.2,121.4,Worsened,Top Quartile,Y,92,2080431.8
+ISCA HOUSE,"60 CECIL STREET, SINGAPORE 049709",Office Building,Small,No,1979,,Not Certified,No,2644,100,100,,"Others (Split Units, Unitary Systems)",4,,,5,N,294.7,297.3,278,Improved,Bottom Quartile,Y,39,735032
+BOC PLAZA,"133 MIDDLE ROAD, SINGAPORE 188974",Office Building,Small,No,1983,,Not Certified,No,4736,100,60,,"Others (Split Units, Unitary Systems)",18,,,5,N,271.9,268.4,188.2,Improved,3rd Quartile,Y,35,891315.2
+BANK OF CHINA BUILDING,"4 BATTERY ROAD, SINGAPORE 049908",Office Building,Large,No,1953,,Not Certified,No,15480,100,95,,"Others (Split Units, Unitary Systems)",17,,,10,N,382.6,373.3,366.5,Improved,Bottom Quartile,Y,65,5673420
+,"32 LORONG 8 GEYLANG, SINGAPORE 399096",Hotel,Small,No,1998,,Not Certified,No,1944,67,80,63,"Others (Split Units, Unitary Systems)",,,,78,N,187.7,202,208.8,Worsened,2nd Quartile,Y,20,405907.2
+,,Office Building,Small,,,,,No,,,,,,,,,,,240.7,249.7,261,Worsened,Bottom Quartile,N,,
+FORTUNA HOTEL,"2 OWEN ROAD, SINGAPORE 218842",Hotel,Small,No,1995,,Not Certified,No,4458,97,85,105,"Others (Split Units, Unitary Systems)",3,,,10,N,252,217.9,207.1,Improved,2nd Quartile,Y,23,923251.7999999999
+KINGLY BUILDING,"46 SOUTH BRIDGE ROAD, SINGAPORE 058679",Office Building,Small,No,1998,,Not Certified,No,1058,76,90,,"Others (Split Units, Unitary Systems)",0,,,0,N,122.3,125.2,211,Worsened,3rd Quartile,Y,20,223238
+HONG LEONG BUILDING,"16 RAFFLES QUAY, SINGAPORE 048581",Office Building,Large,No,1980,,Not Certified,No,47744,92,96,,Water Cooled Chilled Water Plant,8,0.7,2010,25,N,286.4,268.4,266.5,Improved,Bottom Quartile,Y,38,12723776
+OXFORD HOTEL,"218 QUEEN STREET, SINGAPORE 188549",Hotel,Small,No,1997,,Not Certified,No,4914,94,70,134,"Others (Split Units, Unitary Systems)",4,,,0,N,253.7,261.2,283.8,Worsened,3rd Quartile,Y,21,1394593.2
+WISMA ALSAGOFF,"520 NORTH BRIDGE ROAD, SINGAPORE 188742",Office Building,Small,No,2002,,Not Certified,No,2013,62,100,,"Others (Split Units, Unitary Systems)",10,,,10,N,150.2,134.4,187.6,Worsened,2nd Quartile,Y,16,377638.8
+THE OCTAGON,"105 CECIL STREET, SINGAPORE 069534",Office Building,Large,No,1982,2016,Certified,Yes,16222,82,85,,Water Cooled Chilled Water Plant,2,0.68,2017,10,N,186.1,131.1,126.7,Improved,Top Quartile,Y,36,2055327.4000000001
+,"31 LORONG 8 GEYLANG, SINGAPORE 399095",Hotel,Small,No,1998,,Not Certified,No,1520,55,75,43,"Others (Split Units, Unitary Systems)",1,,,100,N,136.1,124.2,131.7,Worsened,Top Quartile,Y,20,200183.99999999997
+THE URA CENTRE,"45 MAXWELL ROAD, SINGAPORE 069118",Office Building,Large,Yes,2005,2011,GoldPlus,Yes,38240,97,96,,Water Cooled Chilled Water Plant,5,0.63,2017,2,Y,215.2,207.7,215.3,Worsened,3rd Quartile,Y,13,8233072
+TWIN HEIGHTS,"350 BALESTIER ROAD, SINGAPORE 329779",Retail Building,Large,No,1999,,Not Certified,No,16678,96,90,,Water Cooled Chilled Water Plant,17,,,0,N,384,398.3,368,Improved,2nd Quartile,Y,19,6137504
+20 COLLYER QUAY,"20 COLLYER QUAY, SINGAPORE 049319",Office Building,Large,No,1985,2013,Certified,Yes,34736,80,96,,Water Cooled Chilled Water Plant,3,0.9,2013,30,N,212.9,217,193.2,Improved,3rd Quartile,Y,33,6710995.199999999
+HOLIDAY INN SINGAPORE ORCHARD CITY CENTRE,"11 CAVENAGH ROAD, SINGAPORE 229616",Hotel,Large,No,1985,,Not Certified,No,31251,100,96,324,Water Cooled Chilled Water Plant,15,0.75,,60,N,249.6,252,258.8,Worsened,2nd Quartile,Y,33,8087758.800000001
+CHENN LEONN BUILDING,"5 ALIWAL STREET, SINGAPORE 199898",Office Building,Small,No,1995,,Not Certified,No,430,100,80,,"Others (Split Units, Unitary Systems)",5,,,10,N,124.9,99.7,101.7,Worsened,Top Quartile,Y,23,43731
+CHENN LEONN BUILDING,"7 ALIWAL STREET, SINGAPORE 199900",Office Building,Small,No,1995,,Not Certified,No,409,100,80,,"Others (Split Units, Unitary Systems)",5,,,10,N,120.4,113.2,107.7,Improved,Top Quartile,Y,23,44049.3
+CHENN LEONN BUILDING,"1 ALIWAL STREET, SINGAPORE 199894",Office Building,Small,No,1995,,Not Certified,No,414,100,80,,"Others (Split Units, Unitary Systems)",18,,,10,N,154.1,97.4,228.8,Worsened,3rd Quartile,Y,23,94723.20000000001
+CHENN LEONN BUILDING,"3 ALIWAL STREET, SINGAPORE 199896",Office Building,Small,No,1995,,Not Certified,No,440,100,80,,"Others (Split Units, Unitary Systems)",5,,,10,N,191.9,149.5,120,Improved,Top Quartile,Y,23,52800
+ODEON TOWERS,"331 NORTH BRIDGE ROAD, SINGAPORE 188720",Office Building,Large,No,1992,,Not Certified,No,23236,79,97,,Water Cooled Chilled Water Plant,11,,,0,N,283.6,270.9,251.4,Improved,Bottom Quartile,Y,26,5841530.4
+FABER HOUSE,"230 ORCHARD ROAD, SINGAPORE 238854",Office Building,Small,No,1978,,Not Certified,No,6521,80,95,,Water Cooled Chilled Water Plant,14,,,0,N,237.1,233.9,224.8,Improved,3rd Quartile,Y,40,1465920.8
+KINGS CENTRE,"390 HAVELOCK ROAD, SINGAPORE 169662",Office Building,Small,No,1998,2017,Platinum,Yes,10852,77,90,,Water Cooled Chilled Water Plant,4,0.62,2013,28,Y,231.7,230.1,218.6,Improved,3rd Quartile,Y,20,2372247.1999999997
+CUPPAGE PLAZA,"5 KOEK ROAD, SINGAPORE 228796",Retail Building,Small,No,1983,,Not Certified,No,14571,55,90,,Water Cooled Chilled Water Plant,10,0.65,2013,0,N,304.8,302.1,308,Worsened,2nd Quartile,Y,35,4487868
+NEWTON 200,"200 NEWTON ROAD, SINGAPORE 307983",Office Building,Small,No,2008,,Not Certified,No,4027,98,100,,"Others (Split Units, Unitary Systems)",7,,,28,N,242.9,214.2,207,Improved,3rd Quartile,Y,10,833589
+NOVOTEL SINGAPORE CLARKE QUAY,"177A RIVER VALLEY ROAD, SINGAPORE 179031",Hotel,Large,No,1983,2013,GoldPlus,Yes,28548,85,91,403,Water Cooled Chilled Water Plant,3,0.54,2016,90,N,270.1,256.9,244.6,Improved,2nd Quartile,Y,35,6982840.8
+,,Office Building,Small,,,,,No,,,,,,,,,,,251,263.8,182.4,Improved,2nd Quartile,N,,
+SOUTH EASTERN ENVIRONMENT HEALTH OFFICE,"70 TANNERY LANE, SINGAPORE 347810",Office Building,Small,Yes,1974,,Not Certified,No,2720,72,100,,"Others (Split Units, Unitary Systems)",2,,,0,N,102.7,103.5,101.1,Improved,Top Quartile,Y,44,274992
+FAMILY LINK @ LENGKOK BAHRU,"8 LENGKOK BAHRU, SINGAPORE 159052",Office Building,Small,Yes,2009,2009,Certified,Yes,6898,18,85,,"Others (Split Units, Unitary Systems)",8,,,0,N,102.1,108.6,111.7,Worsened,Top Quartile,Y,9,770506.6
+,"1001 UPPER SERANGOON ROAD, SINGAPORE 534739",Mixed Development,,No,1995,,Not Certified,No,966,37,100,,Water Cooled Packaged Unit,20,,,0,N,154.7,166.5,154,Improved,Top Quartile,Y,23,148764
+,"175A CHIN SWEE ROAD, SINGAPORE 169879",Hotel,Small,No,2008,,Not Certified,No,6086,89,70,140,Water Cooled Packaged Unit,,,,70,N,332.8,345.2,378,Worsened,Bottom Quartile,Y,10,2300508
+FORTUNE CENTRE,"190 MIDDLE ROAD, SINGAPORE 188979",Office Building,Large,No,1985,2015,Gold,Yes,25021,83,98,,Water Cooled Chilled Water Plant,20,0.59,2015,80,N,232,188.8,189,Worsened,2nd Quartile,Y,33,4728969
+,,Office Building,Large,,,,,Yes,,,,,,,,,,,121.5,117.3,123.6,Worsened,Top Quartile,N,,
+,,Hotel,Large,,,,,Yes,,,,,,,,,,,268.2,265.3,275.6,Worsened,3rd Quartile,N,,
+,,Educational Institution,,,,,,No,,,,,,,,,,,69.5,138.6,127.6,Improved,,,,
+BUKIT PANJANG PLAZA,"1 JELEBU ROAD, SINGAPORE 677743",Retail Building,Large,No,1997,2017,GoldPlus,Yes,22998,99,100,,Water Cooled Chilled Water Plant,2,0.7,2017,94,N,617.8,621.9,591.6,Improved,Bottom Quartile,Y,21,13605616.8
+HOTEL SUPREME,"15 KRAMAT ROAD, SINGAPORE 228750",Hotel,Small,No,1972,,Not Certified,No,3499,70,90,86,Water Cooled Packaged Unit,8,,,0,N,226.7,229.1,217.9,Improved,2nd Quartile,Y,46,762432.1
+,"16 INTERNATIONAL BUSINESS PARK, SINGAPORE 609929",Office Building,Small,No,2002,,Not Certified,No,6359,87,100,,Air Cooled Chilled Water Plant,1,,,1,N,173.6,152.1,151.3,Improved,2nd Quartile,Y,16,962116.7000000001
+PSA BUILDING,"460 ALEXANDRA ROAD, SINGAPORE 119963",Office Building,Large,No,1986,2015,GoldPlus,Yes,79650,94,100,,Water Cooled Chilled Water Plant,6,0.71,2016,36,N,249.9,246.9,234.9,Improved,3rd Quartile,Y,32,18709785
+MAPLETREE ANSON,"60 ANSON ROAD, SINGAPORE 079914",Office Building,Large,No,2009,2016,Platinum,Yes,35657,92,100,,Water Cooled Chilled Water Plant,8,0.64,2016,0,N,207.4,223.1,215.2,Improved,3rd Quartile,Y,9,7673386.399999999
+ROYAL ONE PHILLIP,"1 PHILLIP STREET, SINGAPORE 048692",Office Building,Small,No,1992,,Not Certified,No,5000,70,98,,Water Cooled Chilled Water Plant,4,,,10,N,144.3,136.1,118.3,Improved,Top Quartile,Y,26,591500
+ROYAL GROUP BUILDING,"3 PHILLIP STREET, SINGAPORE 048693",Office Building,Small,No,1996,,Not Certified,No,10580,95,98,,"Others (Split Units, Unitary Systems)",4,,,20,N,216.1,210,205.1,Improved,3rd Quartile,Y,22,2169958
+SANTA GRAND HOTEL LAI CHUN YUEN,"25 TRENGGANU STREET, SINGAPORE 058476",Hotel,Small,No,2011,,Not Certified,No,3000,68,100,80,"Others (Split Units, Unitary Systems)",7,,,40,N,222.4,220.8,228.9,Worsened,2nd Quartile,Y,7,686700
+,"158 CECIL STREET, SINGAPORE 069545",Office Building,Small,No,2009,2015,Gold,Yes,11977,83,90,,"Others (Split Units, Unitary Systems)",5,,,0,N,225.8,252.6,224.9,Improved,3rd Quartile,Y,9,2693627.3000000003
+WILMER PLACE,"50 ARMENIAN STREET, SINGAPORE 179938",Office Building,Small,No,1998,,Not Certified,No,1757,58,85,,"Others (Split Units, Unitary Systems)",0,,,0,N,189.9,150.3,149,Improved,2nd Quartile,Y,20,261793
+CECIL COURT,"138 CECIL STREET, SINGAPORE 069538",Office Building,Small,No,1986,,Not Certified,No,10917,73,96,,Water Cooled Chilled Water Plant,30,,,0,N,169.1,170.7,197.5,Worsened,3rd Quartile,Y,32,2156107.5
+,,Office Building,Small,,,,,No,,,,,,,,,,,256.1,258.6,256,Improved,3rd Quartile,N,,
+,,Office Building,Small,,,,,No,,,,,,,,,,,107.2,134.2,148.8,Worsened,2nd Quartile,N,,
+VILLAGE HOTEL KATONG,"25 MARINE PARADE, SINGAPORE 449536",Hotel,Large,No,2013,2013,Certified,Yes,22540,95,83,229,Water Cooled Chilled Water Plant,3,0.73,2016,90,N,213.3,210.6,207.4,Improved,Top Quartile,Y,5,4674796
+MEWAH BUILDING,"5 INTERNATIONAL BUSINESS PARK, SINGAPORE 609914",Office Building,Small,No,1995,,Not Certified,No,7433,64,100,,Water Cooled Packaged Unit,,1.41,2012,80,N,137.6,139.2,130.7,Improved,Top Quartile,Y,23,971493.0999999999
+THE ARCADE,"11 COLLYER QUAY, SINGAPORE 049317",Office Building,Large,No,1983,,Not Certified,No,19928,73,98,,Water Cooled Packaged Unit,0,0.83,2017,0,N,263.4,272.3,252.8,Improved,Bottom Quartile,Y,35,5037798.4
+THE CO BUILDING,"75 HIGH STREET, SINGAPORE 179435",Office Building,Small,No,2009,,Not Certified,No,2372,68,65,,"Others (Split Units, Unitary Systems)",8,,,20,N,148.1,148,135.6,Improved,2nd Quartile,Y,9,321643.2
+,,Hotel,Large,,,,,No,,,,,,,,,,,584.2,586.7,571.2,Improved,Bottom Quartile,N,,
+LIANG SEAH PLACE,"1 LIANG SEAH STREET, SINGAPORE 189022",Mixed Development,,No,1997,,Not Certified,No,2539,91,98,,"Others (Split Units, Unitary Systems)",10,,,0,N,517.7,499.2,515.1,Worsened,Bottom Quartile,Y,21,1307838.9000000001
+CONCORDE SHOPPING CENTRE,"317 OUTRAM ROAD, SINGAPORE 169075",Hotel,Large,No,1986,,Not Certified,No,54042,78,94,515,Water Cooled Chilled Water Plant,6,,,0,N,287.6,288.7,267.1,Improved,2nd Quartile,Y,32,14434618.200000001
+SINGAPORE POST CENTRE,"10 EUNOS ROAD 8, SINGAPORE 408600",Office Building,Large,No,1999,,Not Certified,No,137134,97,99,,Water Cooled Chilled Water Plant,10,0.63,,0,N,176.5,145.9,164.4,Worsened,2nd Quartile,Y,19,22544829.6
+TANGLIN PLACE,"91 TANGLIN ROAD, SINGAPORE 247918",Office Building,Small,No,1991,,Not Certified,No,4225,77,97,,Water Cooled Chilled Water Plant,1,0.64,2016,0,N,306.8,244.6,223,Improved,3rd Quartile,Y,27,942175
+TANGLIN MALL,"163 TANGLIN ROAD, SINGAPORE 247933",Retail Building,Large,No,1994,,Not Certified,No,21267,94,100,,Water Cooled Chilled Water Plant,6,0.65,2012,30,N,553.5,542.9,522.8,Improved,Bottom Quartile,Y,24,11118387.6
+,,Office Building,Large,,,,,Yes,,,,,,,,,,,154.1,159.6,156.6,Improved,2nd Quartile,N,,
+,,Office Building,Small,,,,,No,,,,,,,,,,,212.7,193.2,188.8,Improved,3rd Quartile,N,,
+SINGAPORE POOLS BUILDING,"210 MIDDLE ROAD, SINGAPORE 188994",Office Building,Small,No,2013,2013,GoldPlus,Yes,13121,96,100,,Water Cooled Chilled Water Plant,4,0.67,2016,2,N,256.2,276.2,264.4,Improved,Bottom Quartile,Y,5,3469192.4
+THE DAULAT,"16 MADRAS STREET, SINGAPORE 208413",Hotel,Small,No,2013,,Not Certified,No,519,100,52,16,"Others (Split Units, Unitary Systems)",2,,,20,N,259.3,280.6,323.3,Worsened,3rd Quartile,Y,5,167792.7
+THE SIGNATURE,"51 CHANGI BUSINESS PARK CENTRAL 2, SINGAPORE 486066",Office Building,Large,No,2002,2016,Gold,Yes,47410,69,90,,District Cooling Plant,5.35,,,10,N,115.5,128.1,131.9,Worsened,Top Quartile,Y,16,6253379
+,,Office Building,Small,,,,,No,,,,,,,,,,,140.4,140.9,139.6,Improved,2nd Quartile,N,,
+DYNASTY TRAVEL HUB,"35 NEW BRIDGE ROAD, SINGAPORE 059395",Office Building,Small,No,1998,,Not Certified,No,1016,98,100,,"Others (Split Units, Unitary Systems)",8,,,0,N,349.8,364.5,340.7,Improved,Bottom Quartile,Y,20,346151.2
+SOLARIS,"1 FUSIONOPOLIS WALK, SINGAPORE 138628",Office Building,Large,No,2010,2015,Platinum,Yes,51282,80,93,1,District Cooling Plant,0,,,0,N,136,126.6,126.6,Improved,Top Quartile,Y,8,6492301.199999999
+ONE GEORGE STREET,"1 GEORGE STREET, SINGAPORE 049145",Office Building,Large,No,2004,2014,GoldPlus,Yes,51661,81,89,,Water Cooled Chilled Water Plant,10,0.71,,17,N,236.9,215.4,210.2,Improved,3rd Quartile,Y,14,10859142.2
+,"67 QUEEN STREET, SINGAPORE 188546",Office Building,Small,No,1991,,Not Certified,No,11254,100,99,,"Others (Split Units, Unitary Systems)",2,,,100,N,323.5,330.4,376.6,Worsened,Bottom Quartile,Y,27,4238256.4
+,,Office Building,Large,,,,,Yes,,,,,,,,,,,105,171.4,173.7,Worsened,2nd Quartile,N,,
+,,Office Building,Large,,,,,Yes,,,,,,,,,,,192.2,191.5,193.7,Worsened,3rd Quartile,N,,
+TWENTY ANSON,"20 ANSON ROAD, SINGAPORE 079912",Office Building,Large,No,2009,2015,Platinum,Yes,23418,92,98,,Water Cooled Chilled Water Plant,7,0.65,2016,0,N,232.2,235,205.3,Improved,3rd Quartile,Y,9,4807715.4
+RAFFLES CITY SHOPPING CENTRE,"252 NORTH BRIDGE ROAD, SINGAPORE 179103",Mixed Development,,No,1986,2017,GoldPlus,Yes,240130,90,99,2031,Water Cooled Chilled Water Plant,14,0.75,2016,15,N,513.2,500.4,466.3,Improved,Bottom Quartile,Y,32,111972619
+HSBC BUILDING,"21 COLLYER QUAY, SINGAPORE 049320",Office Building,Large,No,1982,2013,Certified,Yes,25879,77,100,,Water Cooled Chilled Water Plant,12,0.72,2016,10,N,279.3,244.9,226.4,Improved,3rd Quartile,Y,36,5859005.600000001
+CAPITAL TOWER,"168 ROBINSON ROAD, SINGAPORE 068912",Office Building,Large,No,2000,2013,Platinum,Yes,95555,78,99,,Water Cooled Chilled Water Plant,0,0.64,2015,25,N,280.6,273.3,268.5,Improved,Bottom Quartile,Y,18,25656517.5
+,"30 HILL STREET, SINGAPORE 179360",Office Building,Small,No,2000,2016,Gold,Yes,11427,86,96,,Air Cooled Chilled Water Plant,1,0.63,,0,N,341.5,266.3,219.4,Improved,3rd Quartile,Y,18,2507083.8000000003
+CHAMPION HOTEL,"60 JOO CHIAT ROAD, SINGAPORE 427726",Hotel,Small,No,1988,,Not Certified,No,2185,90,65,81,"Others (Split Units, Unitary Systems)",5,,,100,N,355.6,309.1,349,Worsened,Bottom Quartile,Y,30,762565
+,,Office Building,Large,,,,,Yes,,,,,,,,,,,219.9,193.1,174.7,Improved,2nd Quartile,N,,
+CHIN KANG BUILDING,"29 BUKIT PASOH ROAD, SINGAPORE 089843",Office Building,Small,No,1928,,Not Certified,No,1175,85,100,,"Others (Split Units, Unitary Systems)",6,,,0,N,119,96.1,86.6,Improved,Top Quartile,Y,90,101755
+,,Hotel,Small,,,,,No,,,,,,,,,,,124.2,124.7,120.5,Improved,Top Quartile,N,,
+,,Hotel,Small,,,,,No,,,,,,,,,,,254.8,262.8,272.1,Worsened,3rd Quartile,N,,
+,"112 SIMS AVENUE, SINGAPORE 387436",Hotel,Small,No,1998,,Not Certified,No,1094,68,50,58,"Others (Split Units, Unitary Systems)",5,,,0,N,350.2,312.1,283.1,Improved,3rd Quartile,Y,20,309711.4
+KHENG CHIU BUILDING,"47 BEACH ROAD, SINGAPORE 189683",Office Building,Small,No,1962,,Not Certified,No,2602,70,75,,"Others (Split Units, Unitary Systems)",9,,,0,N,85,71.7,60.7,Improved,Top Quartile,Y,56,157941.4
+MALACCA CENTRE,"20 MALACCA STREET, SINGAPORE 048979",Office Building,Small,No,1984,,Not Certified,No,4359,76,93,,"Others (Split Units, Unitary Systems)",1,,,5,N,200.4,197.7,151.7,Improved,2nd Quartile,Y,34,661260.2999999999
+BUGIS POINT,"530 NORTH BRIDGE ROAD, SINGAPORE 188747",Retail Building,Small,No,2005,,Not Certified,No,1576,92,100,,"Others (Split Units, Unitary Systems)",6,,,5,N,273.4,373.7,323.8,Improved,2nd Quartile,Y,13,510308.80000000005
+,,Office Building,Small,,,,,No,,,,,,,,,,,153.4,159.9,152.1,Improved,2nd Quartile,N,,
+,,Office Building,Small,,,,,No,,,,,,,,,,,314.5,331.9,293.3,Improved,Bottom Quartile,N,,
+,,Retail Building,Small,,,,,No,,,,,,,,,,,213.1,265.7,232.7,Improved,2nd Quartile,N,,
+BUGIS JUNCTION,"230 VICTORIA STREET, SINGAPORE 188024",Mixed Development,,No,1994,2014,Platinum,Yes,119035,0,100,406,Water Cooled Chilled Water Plant,3,0.63,,18,N,401.4,393.1,381.8,Improved,Bottom Quartile,Y,24,45447563
+AMARIS BY SANTIKA,"21 MIDDLE ROAD, SINGAPORE 188931",Hotel,Small,No,2012,,Not Certified,No,937,76,70,38,"Others (Split Units, Unitary Systems)",3,,,100,N,224,220.6,192.7,Improved,2nd Quartile,Y,6,180559.9
+TANGLIN SHOPPING CENTRE,"19 TANGLIN ROAD, SINGAPORE 247909",Mixed Development,,No,1970,,Not Certified,No,24377,92,80,,Water Cooled Chilled Water Plant,13,,,10,N,258,251.2,218.8,Improved,2nd Quartile,Y,48,5333687.600000001
+,,Hotel,Small,,,,,No,,,,,,,,,,,248.7,259,292.6,Worsened,3rd Quartile,N,,
+,,Office Building,Small,,,,,No,,,,,,,,,,,222.4,223,249.2,Worsened,3rd Quartile,N,,
+,"20 LORONG 17 GEYLANG, SINGAPORE 388575",Hotel,Small,No,2000,,Not Certified,No,2654,77,75,86,"Others (Split Units, Unitary Systems)",12,,,0,N,280.9,267.3,265.7,Improved,3rd Quartile,Y,18,705167.7999999999
+TUNG ANN ASSOCIATION BUILDING,"141 CECIL STREET, SINGAPORE 069541",Office Building,Small,No,1988,,Not Certified,No,5934,13,90,,Water Cooled Chilled Water Plant,8,1.33,,20,N,195.4,183.8,157.8,Improved,2nd Quartile,Y,30,936385.2000000001
+BUGIS+,"201 VICTORIA STREET, SINGAPORE 188067",Retail Building,Large,No,2009,2017,Platinum,Yes,27629,99,100,,Water Cooled Chilled Water Plant,5,,,10,N,531.8,538.7,501.5,Improved,3rd Quartile,Y,9,13855943.5
+,"44 LORONG 6 GEYLANG, SINGAPORE 399199",Hotel,Small,No,1996,,Not Certified,No,1031,97,70,56,"Others (Split Units, Unitary Systems)",0,,,0,N,214.1,234.9,265.8,Worsened,3rd Quartile,Y,22,274039.8
+,"12 LORONG 10 GEYLANG, SINGAPORE 399045",Hotel,Small,No,1995,,Not Certified,No,820,100,70,28,"Others (Split Units, Unitary Systems)",5,,,0,N,139.4,157.4,162.5,Worsened,Top Quartile,Y,23,133250
+,"14 LORONG 10 GEYLANG, SINGAPORE 399047",Hotel,Small,No,1998,,Not Certified,No,874,100,70,43,"Others (Split Units, Unitary Systems)",5,,,0,N,194,208.3,224,Worsened,2nd Quartile,Y,20,195776
+,"18 JALAN MOLEK, SINGAPORE 399535",Hotel,Small,No,1999,,Not Certified,No,1000,85,60,36,"Others (Split Units, Unitary Systems)",3,,,0,N,125.6,120.9,124,Worsened,Top Quartile,Y,19,124e3
+GREEN WORLD,"3 SENG POH ROAD, SINGAPORE 168891",Hotel,Small,No,2000,,Not Certified,No,2954,100,65,76,"Others (Split Units, Unitary Systems)",4,,,95,N,335.1,349.5,361.4,Worsened,Bottom Quartile,Y,18,1067575.5999999999
+MALACCA HOTEL,"97 STILL ROAD, SINGAPORE 423988",Hotel,Small,No,1960,,Not Certified,No,690,81,80,29,"Others (Split Units, Unitary Systems)",5,,,90,N,328.9,325.9,316.2,Improved,3rd Quartile,Y,58,218178
+,"12 TECK LIM ROAD, SINGAPORE 088387",Hotel,Small,No,1995,,Not Certified,No,1040,77,50,42,"Others (Split Units, Unitary Systems)",4,,,0,N,163.1,180.7,144.2,Improved,Top Quartile,Y,23,149968
+,,Hotel,Small,,,,,No,,,,,,,,,,,117.2,114.9,97.1,Improved,Top Quartile,N,,
+,,Hotel,Small,,,,,No,,,,,,,,,,,323.1,326.6,316.5,Improved,3rd Quartile,N,,
+,,Educational Institution,,,,,,Yes,,,,,,,,,,,103.7,106.4,103.7,Improved,,,,
+,,Educational Institution,,,,,,Yes,,,,,,,,,,,123.2,126.7,103.2,Improved,,,,
+,,Educational Institution,,,,,,No,,,,,,,,,,,312.1,306.1,286.5,Improved,,,,
+SENTOSA DEVELOPMENT CORPORATION OFFICE,"39 ARTILLERY AVENUE, SINGAPORE 099958",Office Building,Small,No,2017,,Not Certified,No,5345,71,100,,"Others (Split Units, Unitary Systems)",0,,,90,N,216.1,207.3,206.8,Improved,3rd Quartile,Y,1,1105346
+,"33 ALLANBROOKE ROAD, SINGAPORE 099981",Office Building,Small,No,1977,,Not Certified,No,2121,87,100,,"Others (Split Units, Unitary Systems)",5,,,0,N,69,90.8,136.1,Worsened,2nd Quartile,Y,41,288668.1
+,"35 ALLANBROOKE ROAD, SINGAPORE 099982",Office Building,Small,No,2007,,Not Certified,No,1234,100,100,,"Others (Split Units, Unitary Systems)",5,,,0,N,15.5,81,96,Worsened,Top Quartile,Y,11,118464
+,"1 COVE AVENUE, SINGAPORE 098537",Office Building,Small,No,2006,2012,Gold,Yes,3055,63,40,,"Others (Split Units, Unitary Systems)",11,,,60,N,546.4,572.9,561.5,Improved,Bottom Quartile,Y,12,1715382.5
+,"410 NORTH BRIDGE ROAD, SINGAPORE 188726",Office Building,Small,No,1991,,Not Certified,No,3038,77,100,,Air Cooled Chilled Water Plant,1,,,100,N,184.7,40.4,149.4,Worsened,2nd Quartile,Y,27,453877.2
+,"2 TAN QUEE LAN STREET, SINGAPORE 188091",Retail Building,Small,No,1997,,Not Certified,No,1000,40,60,5,Water Cooled Packaged Unit,10,,,0,N,137.3,167.1,201.1,Worsened,2nd Quartile,Y,21,201100
+,,Healthcare Facility,,,,,,Yes,,,,,,,,,,,349.8,367,360,Improved,,,,
+,,Healthcare Facility,,,,,,No,,,,,,,,,,,376.5,363.2,373,Worsened,,,,
+HOTEL CLOVER 7 HONGKONG STREET,"7 HONGKONG STREET, SINGAPORE 059650",Hotel,Small,No,2016,,Not Certified,No,663,100,78,27,"Others (Split Units, Unitary Systems)",1,,,50,N,27,214.5,278.2,Worsened,3rd Quartile,Y,2,184446.6
+HOTEL CLOVER 769 NORTH BRIDGE ROAD,"769 NORTH BRIDGE ROAD, SINGAPORE 198737",Hotel,Small,No,2017,,Not Certified,No,996,100,1,35,Air Cooled Chilled Water Plant,0,,,0,N,215.6,78.9,271.7,Worsened,3rd Quartile,Y,1,270613.2
+BENCOOLEN RESIDENCES,"51 BENCOOLEN STREET, SINGAPORE 189630",Hotel,Large,No,2004,,Not Certified,No,9336,23,70,107,"Others (Split Units, Unitary Systems)",12,,,30,N,202.5,206.4,207.1,Worsened,Top Quartile,Y,14,1933485.5999999999
+DORSETT SINGAPORE,"333 NEW BRIDGE ROAD, SINGAPORE 088765",Hotel,Large,No,2013,,Not Certified,No,11584,88,80,285,Water Cooled Chilled Water Plant,5,0.8,,92,N,264.3,269.5,268.1,Improved,3rd Quartile,Y,5,3105670.4000000004
+AVARI CENTRE,"683 GEYLANG ROAD, SINGAPORE 389685",Office Building,Small,No,2000,,Not Certified,No,726,82,100,,"Others (Split Units, Unitary Systems)",4,,,0,N,81.6,77.1,70.6,Improved,Top Quartile,Y,18,51255.6
+,,Educational Institution,,,,,,No,,,,,,,,,,,45.6,52.6,62.1,Worsened,,,,
+,,Office Building,Large,,,,,Yes,,,,,,,,,,,635.1,655.1,657.1,Worsened,Bottom Quartile,N,,
+GREAT EASTERN @ CHANGI,"200 CHANGI ROAD, SINGAPORE 419734",Office Building,Large,No,2005,,Not Certified,No,24707,71,100,,Air Cooled Chilled Water Plant,12,1.58,2015,0,N,115.9,113.9,109.1,Improved,Top Quartile,Y,13,2695533.6999999997
+GREAT EASTERN HOUSE,"49 BEACH ROAD, SINGAPORE 189685",Office Building,Small,No,1999,,Not Certified,No,2295,81,100,,"Others (Split Units, Unitary Systems)",7,,,0,N,322.6,317.9,313.6,Improved,Bottom Quartile,Y,19,719712
+JALAN BESAR PLAZA,"101 KITCHENER ROAD, SINGAPORE 208511",Office Building,Large,No,1985,,Not Certified,No,16815,59,97,,Water Cooled Chilled Water Plant,2,,,0,N,124.2,121.8,120.4,Improved,Top Quartile,Y,33,2024526
+HOTEL CONFORTO,"16 CARPENTER STREET, SINGAPORE 059905",Hotel,Small,No,2009,,Not Certified,No,650,46,80,24,"Others (Split Units, Unitary Systems)",0,,,100,N,206.9,141.5,144.7,Worsened,Top Quartile,Y,9,94054.99999999999
+ICB SHOPPING CENTRE,"6 YIO CHU KANG ROAD, SINGAPORE 545521",Mixed Development,,No,1977,,Not Certified,No,1945,40,90,6,"Others (Split Units, Unitary Systems)",1,,,0,N,15.7,18.2,18.4,Worsened,Top Quartile,Y,41,35788
+,"50 KEONG SAIK ROAD, SINGAPORE 089154",Hotel,Small,No,1929,,Not Certified,No,1278,82,80,32,"Others (Split Units, Unitary Systems)",5,,,50,N,264.6,278,267.5,Improved,3rd Quartile,Y,89,341865
+WANDERLUST HOTEL,"2 DICKSON ROAD, SINGAPORE 209494",Hotel,Small,No,1938,,Not Certified,No,867,81,75,29,"Others (Split Units, Unitary Systems)",0,,,20,N,730.2,741.7,727,Improved,Bottom Quartile,Y,80,630309
+,,Educational Institution,,,,,,Yes,,,,,,,,,,,139.2,138.3,133.8,Improved,,,,
+SELEGIE CENTRE,"189 SELEGIE ROAD, SINGAPORE 188332",Retail Building,Small,No,1986,,Not Certified,No,2019,100,90,,Water Cooled Chilled Water Plant,20,1,,0,N,384.1,449.9,474.6,Worsened,3rd Quartile,Y,32,958217.4
+,,Retail Building,Large,,,,,Yes,,,,,,,,,,,398.3,409.3,411.8,Worsened,2nd Quartile,N,,
+,"31 INTERNATIONAL BUSINESS PARK, SINGAPORE 609921",Office Building,Large,No,1997,,Not Certified,No,61720,96,80,,Water Cooled Chilled Water Plant,19,,,0,N,260.8,179,142.8,Improved,Top Quartile,Y,21,8813616
+THE DOMAIN,"914 EAST COAST ROAD, SINGAPORE 459108",Retail Building,Small,No,1994,,Not Certified,No,2639,24,100,,"Others (Split Units, Unitary Systems)",10,,,0,N,146.1,161.4,139.5,Improved,Top Quartile,Y,24,368140.5
+BEAUTY WORLD PLAZA,"140 UPPER BUKIT TIMAH ROAD, SINGAPORE 588176",Office Building,Small,No,1983,,Not Certified,No,4859,43,90,,Water Cooled Chilled Water Plant,8,0.99,2016,100,N,292.2,293.8,297.9,Worsened,Bottom Quartile,Y,35,1447496.0999999999
+PRISON HEADQUARTERS,"407 UPPER CHANGI ROAD NORTH, SINGAPORE 507658",Office Building,Small,Yes,1966,,Not Certified,No,5147,91,100,,"Others (Split Units, Unitary Systems)",20,,,0,N,182.2,196.6,220.7,Worsened,3rd Quartile,Y,52,1135942.9
+PENTA HOTEL,"33 BIRCH ROAD, SINGAPORE 219894",Hotel,Small,No,1992,,Not Certified,No,1126,75,80,48,"Others (Split Units, Unitary Systems)",2,,,1,N,286.8,283.2,303.7,Worsened,3rd Quartile,Y,26,341966.2
+,,Office Building,Small,,,,,No,,,,,,,,,,,122.2,134.6,130.2,Improved,Top Quartile,N,,
+ROBINSON CENTRE,"61 ROBINSON ROAD, SINGAPORE 068893",Office Building,Large,No,2000,,Not Certified,No,15740,81,81,,Water Cooled Chilled Water Plant,15,,,0,N,254.5,248.8,220.3,Improved,3rd Quartile,Y,18,3467522
+,,Educational Institution,,,,,,No,,,,,,,,,,,207.6,237.7,224.6,Improved,,,,
+,,Educational Institution,,,,,,No,,,,,,,,,,,175.3,174.9,160.1,Improved,,,,
+,,Office Building,Small,,,,,No,,,,,,,,,,,54,10.8,92.8,Worsened,Top Quartile,N,,
+,"73 DUNLOP STREET, SINGAPORE 209401",Hotel,Small,No,1995,,Not Certified,No,500,40,30,9,"Others (Split Units, Unitary Systems)",15,,,0,N,171,202,201.8,Improved,2nd Quartile,Y,23,100900
+MIDPOINT ORCHARD,"220 ORCHARD ROAD, SINGAPORE 238852",Retail Building,Small,No,1984,,Not Certified,No,5369,99,90,,"Others (Split Units, Unitary Systems)",4,,,0,N,370.7,373.7,368.7,Improved,2nd Quartile,Y,34,1979550.3
+,"450 ALEXANDRA ROAD, SINGAPORE 119960",Office Building,Small,No,1976,,Not Certified,No,14486,75,70,,Water Cooled Chilled Water Plant,18,,,0,N,1689.3,1635.4,1339,Improved,Bottom Quartile,Y,42,19396754
+,"83 CLEMENCEAU AVENUE, SINGAPORE 239920",Office Building,Large,No,1995,,Not Certified,No,30809,95,90,180,Water Cooled Chilled Water Plant,15,,,0,N,508,521.6,494.9,Improved,Bottom Quartile,Y,23,15247374.1
+THE ROCHESTER,"35 ROCHESTER DRIVE, SINGAPORE 138639",Retail Building,Small,No,2011,2009,Gold,Yes,8599,76,90,,District Cooling Plant,,,,0,N,162.2,132.1,133.8,Worsened,Top Quartile,Y,7,1150546.2000000002
+SINGAPORE RACECOURSE,"1 TURF CLUB AVENUE, SINGAPORE 738078",Retail Building,Large,No,1999,,Not Certified,No,210427,27,9,,Water Cooled Chilled Water Plant,2,0.75,2015,12,N,169.8,174.8,167.4,Improved,Top Quartile,Y,19,35225479.800000004
+THE MAJESTIC,"80 EU TONG SEN STREET, SINGAPORE 059810",Retail Building,Small,No,2010,,Not Certified,No,4059,89,100,,"Others (Split Units, Unitary Systems)",7,,,2,N,240.1,248.1,264.4,Worsened,2nd Quartile,Y,8,1073199.5999999999
+,"51 GRANGE ROAD, SINGAPORE 249564",Office Building,Large,Yes,1978,,Not Certified,No,20866,66,100,,"Others (Split Units, Unitary Systems)",1,,,10,N,51,58.8,72.2,Worsened,Top Quartile,Y,40,1506525.2
+,"402 COMMONWEALTH DRIVE, SINGAPORE 149599",Office Building,Small,Yes,1960,,Not Certified,No,6120,25,100,,"Others (Split Units, Unitary Systems)",2,,,0,N,41.2,47.1,46.4,Improved,Top Quartile,Y,58,283968
+,"5 HOY FATT ROAD, SINGAPORE 159505",Office Building,Small,Yes,1960,,Not Certified,No,3289,66,100,,"Others (Split Units, Unitary Systems)",6,,,0,N,90.8,88.7,91.7,Worsened,Top Quartile,Y,58,301601.3
+MOE BUILDING,"1 NORTH BUONA VISTA DRIVE, SINGAPORE 138675",Office Building,Large,Yes,2000,,Not Certified,No,51479,59,100,,Water Cooled Chilled Water Plant,3,0.61,2016,1,N,214.1,202.4,207.7,Worsened,3rd Quartile,Y,18,10692188.299999999
+,"1 LARKHILL ROAD, SINGAPORE 099394",Hotel,Large,No,2007,,Not Certified,No,14840,91,55,140,Air Cooled Chilled Water Plant,10,,,0,N,400.5,417.4,423.7,Worsened,Bottom Quartile,Y,11,6287708
+HOTEL FORT CANING,"11 CANNING WALK, SINGAPORE 178881",Hotel,Large,No,2012,2015,GoldPlus,Yes,8922,100,65,86,Water Cooled Chilled Water Plant,2,0.65,,70,N,332,350,340.6,Improved,Bottom Quartile,Y,6,3038833.2
+UOB CENTRE,"148 UPPER BUKIT TIMAH ROAD, SINGAPORE 588178",Office Building,Small,No,1999,,Not Certified,No,2340,76,90,10,"Others (Split Units, Unitary Systems)",0,,,10,N,129.6,158.8,149.4,Improved,2nd Quartile,Y,19,349596
+COYUCO BUILDING,"152 JALAN BESAR, SINGAPORE 208870",Office Building,Small,No,1976,,Not Certified,No,1148,76,70,,"Others (Split Units, Unitary Systems)",8,,,0,N,134.8,134.5,121.5,Improved,Top Quartile,Y,42,139482
+ORCHARD SHOPPING CENTRE,"321 ORCHARD ROAD, SINGAPORE 238866",Retail Building,Small,No,1976,,Not Certified,No,5943,89,95,,Water Cooled Chilled Water Plant,8,,,0,N,360.6,360.3,344.1,Improved,2nd Quartile,Y,42,2044986.3
+INTERNATIONAL BUILDING,"360 ORCHARD ROAD, SINGAPORE 238869",Office Building,Large,No,1990,2015,GoldPlus,Yes,15267,95,90,,Water Cooled Chilled Water Plant,1,0.65,,40,N,209.3,204.7,348.9,Worsened,Bottom Quartile,Y,28,5326656.3
+SECOND AVENUE JUNCTION,"733 BUKIT TIMAH ROAD, SINGAPORE 269748",Mixed Development,,No,1996,,Not Certified,No,965,100,95,,"Others (Split Units, Unitary Systems)",19,,,0,N,327.3,318.1,292.8,Improved,3rd Quartile,Y,22,282552
+HEAP SENG HOUSE,"36 LIANG SEAH STREET, SINGAPORE 189057",Mixed Development,,No,1997,,Not Certified,No,523,100,100,,"Others (Split Units, Unitary Systems)",5,,,20,N,183.7,194.8,180.7,Improved,Top Quartile,Y,21,94506.09999999999
+YEWTEE POINT,"21 CHOA CHU KANG NORTH 6, SINGAPORE 689578",Retail Building,Small,No,2008,,Not Certified,No,10880,69,90,,Water Cooled Chilled Water Plant,5,,,0,N,620.9,616.8,637.4,Worsened,Bottom Quartile,Y,10,6934912
+HARBOUR VILLE,"512 KAMPONG BAHRU ROAD, SINGAPORE 099448",Hotel,Small,No,2001,,Not Certified,No,975,91,65,100,"Others (Split Units, Unitary Systems)",0,,,80,N,544.9,551.1,519.9,Improved,Bottom Quartile,Y,17,506902.5
+KINGS ARCADE,"559 BUKIT TIMAH ROAD, SINGAPORE 269695",Office Building,Small,No,2002,,Not Certified,No,2013,86,100,,"Others (Split Units, Unitary Systems)",0,,,0,N,235.2,242.4,241.2,Improved,3rd Quartile,Y,16,485535.6
+,,Retail Building,Large,,,,,No,,,,,,,,,,,175,170.8,161.7,Improved,Top Quartile,N,,
+HOTEL MONO,"18 MOSQUE STREET, SINGAPORE 059498",Hotel,Small,No,1996,,Not Certified,No,1250,80,80,46,"Others (Split Units, Unitary Systems)",1,,,100,N,357.8,266.1,426.2,Worsened,Bottom Quartile,Y,22,532750
+TAI WAH BUILDING,"110 KILLINEY ROAD, SINGAPORE 239549",Retail Building,Small,No,1982,,Not Certified,No,2453,31,100,,"Others (Split Units, Unitary Systems)",0,,,0,N,73.6,56.5,56.7,Worsened,Top Quartile,Y,36,139085.1
+SPA BUILDING,"5 VERDUN ROAD, SINGAPORE 207274",Office Building,Small,No,1994,,Not Certified,No,4259,0,95,,"Others (Split Units, Unitary Systems)",0,,,0,N,146.8,143.6,142.8,Improved,2nd Quartile,Y,24,608185.2000000001
+AIR VIEW BUILDING,"38 MAXWELL ROAD, SINGAPORE 069116",Office Building,Small,No,1900,,Not Certified,No,2477,66,62,,"Others (Split Units, Unitary Systems)",16,,,0,N,325.6,304.8,224.8,Improved,3rd Quartile,Y,118,556829.6
+BUKIT TIMAH SHOPPING CENTRE,"170 UPPER BUKIT TIMAH ROAD, SINGAPORE 588179",Retail Building,Large,No,1978,2014,Gold,Yes,29985,87,90,,Water Cooled Chilled Water Plant,3,0.65,2013,0,N,134.7,137.7,148.2,Worsened,Top Quartile,Y,40,4443777
+QINAN BUILDING,"153 TYRWHITT ROAD, SINGAPORE 207566",Office Building,Small,No,1989,,Not Certified,No,830,100,100,,"Others (Split Units, Unitary Systems)",10,,,0,N,149.1,126.3,358,Worsened,Bottom Quartile,Y,29,297140
+,,Hotel,Small,,,,,No,,,,,,,,,,,248.6,258.6,254.5,Improved,3rd Quartile,N,,
+,,Hotel,Small,,,,,No,,,,,,,,,,,264.1,258,218.9,Improved,2nd Quartile,N,,
+JINSHAN HOTEL,"20 TRENGGANU STREET, SINGAPORE 058479",Hotel,Small,No,2010,,Not Certified,No,2633,31,100,40,"Others (Split Units, Unitary Systems)",1,,,0,N,430.5,412.5,441,Worsened,Bottom Quartile,Y,8,1161153
+,"8 MOSQUE STREET, SINGAPORE 059488",Retail Building,Small,No,1996,,Not Certified,No,259,100,100,10,"Others (Split Units, Unitary Systems)",3,,,0,N,1076.1,626,860.4,Worsened,Bottom Quartile,Y,22,222843.6
+ONE FINLAYSON GREEN,"1 FINLAYSON GREEN, SINGAPORE 049246",Office Building,Small,No,1995,,Not Certified,No,10403,80,95,,Air Cooled Chilled Water Plant,4,,,0,N,213,214.1,190.5,Improved,3rd Quartile,Y,23,1981771.5
+HOLY BUILDING,"36 HONGKONG STREET, SINGAPORE 059675",Office Building,Small,No,1956,,Not Certified,No,500,80,70,,"Others (Split Units, Unitary Systems)",10,,,0,N,101.1,101.4,66.7,Improved,Top Quartile,Y,62,33350
+,"30 PENHAS ROAD, SINGAPORE 208188",Mixed Development,,No,1966,,Not Certified,No,950,68,56,11,"Others (Split Units, Unitary Systems)",5,,,0,N,628.6,674.8,615.1,Improved,Bottom Quartile,Y,52,584345
+,,Hotel,Large,,,,,Yes,,,,,,,,,,,243.7,249,235.4,Improved,2nd Quartile,N,,
+OUE BAYFRONT,"50 COLLYER QUAY, SINGAPORE 049321",Retail Building,Large,No,2011,2015,Gold,Yes,40450,83,98,,Water Cooled Chilled Water Plant,5,0.83,2015,25,N,301.9,298.6,297.9,Improved,2nd Quartile,Y,7,12050055
+,"134 JALAN BESAR, SINGAPORE 208852",Hotel,Small,No,2013,,Not Certified,No,698,43,60,15,"Others (Split Units, Unitary Systems)",1,,,25,N,201.9,197.9,212.6,Worsened,2nd Quartile,Y,5,148394.8
+HIGHLAND CENTRE,"22 YIO CHU KANG ROAD, SINGAPORE 545535",Retail Building,Small,No,1995,,Not Certified,No,3370,1,90,,Water Cooled Chilled Water Plant,10,,,0,N,583.6,573.9,555,Improved,Bottom Quartile,Y,23,1870350
+LEE KAI HOUSE,"114 MIDDLE ROAD, SINGAPORE 188971",Office Building,Small,No,1982,,Not Certified,No,3876,68,100,,"Others (Split Units, Unitary Systems)",16,,,0,N,242.1,185.7,245.2,Worsened,3rd Quartile,Y,36,950395.2
+SEMBAWANG SHOPPING CENTRE,"604 SEMBAWANG ROAD, SINGAPORE 758459",Retail Building,Large,No,2008,2016,Gold,Yes,19146,62,99,,Water Cooled Chilled Water Plant,8,,,0,Y,553.9,559.1,503.7,Improved,3rd Quartile,Y,10,9643840.2
+,,Retail Building,Large,,,,,Yes,,,,,,,,,,,416.7,414.6,389.3,Improved,2nd Quartile,N,,
+,,Retail Building,Large,,,,,Yes,,,,,,,,,,,516.3,520.5,501.4,Improved,3rd Quartile,N,,
+,,Mixed Development,,,,,,Yes,,,,,,,,,,,243.4,233.7,239,Worsened,2nd Quartile,N,,
+DIMENSIONS BUILDING,"23 KAMPONG BAHRU ROAD, SINGAPORE 169349",Office Building,Small,No,1900,,Not Certified,No,316,70,80,,"Others (Split Units, Unitary Systems)",5,,,0,N,401.8,368.4,436.9,Worsened,Bottom Quartile,Y,118,138060.4
+HOLIDAY INN EXPRESS SINGAPORE ORCHARD ROAD,"20 BIDEFORD ROAD, SINGAPORE 229921",Hotel,Large,No,2013,2013,Platinum,Yes,7221,66,70,221,Water Cooled Chilled Water Plant,4,,,100,N,191.1,194.6,195.7,Worsened,Top Quartile,Y,5,1413149.7
+,,Mixed Development,,,,,,Yes,,,,,,,,,,,144.4,140.7,135.2,Improved,Top Quartile,N,,
+HILTON INTERNATIONAL SINGAPORE,"581 ORCHARD ROAD, SINGAPORE 238883",Mixed Development,,No,1969,,Not Certified,No,38986,78,85,421,Water Cooled Chilled Water Plant,4,0.69,2012,75,N,321.1,312.1,291.9,Improved,3rd Quartile,Y,49,11380013.399999999
+GRAND HYATT SINGAPORE,"10 SCOTTS ROAD, SINGAPORE 228211",Hotel,Large,No,1970,,Not Certified,No,84230,74,85,677,Water Cooled Chilled Water Plant,14,0.57,2016,45,N,249.8,246.5,226,Improved,Top Quartile,Y,48,19035980
+TIDES,"217 EAST COAST ROAD, SINGAPORE 428915",Retail Building,Small,No,2012,,Not Certified,No,2377,32,60,,"Others (Split Units, Unitary Systems)",31,,,35,N,150.2,135.4,144.4,Worsened,Top Quartile,Y,6,343238.8
+,,Hotel,Small,,,,,No,,,,,,,,,,,241.5,253.8,211.5,Improved,2nd Quartile,N,,
+THE STRATEGY,"2 INTERNATIONAL BUSINESS PARK, SINGAPORE 609930",Office Building,Large,No,2002,,Not Certified,No,67370,77,97,,Water Cooled Chilled Water Plant,14,1.1,2012,0,N,255.9,240.1,183.7,Improved,2nd Quartile,Y,16,12375869
+THE SYNERGY,"1 INTERNATIONAL BUSINESS PARK, SINGAPORE 609917",Office Building,Large,No,1998,,Not Certified,No,41363,68,84,,Water Cooled Chilled Water Plant,18,1.27,2013,0,N,370.9,311.7,246.2,Improved,3rd Quartile,Y,20,10183570.6
+SAMSUNG HUB,"3 CHURCH STREET, SINGAPORE 049483",Office Building,Large,No,2005,2014,GoldPlus,Yes,27562,98,94,,Water Cooled Chilled Water Plant,2,0.62,2014,90,N,277,222,178.2,Improved,2nd Quartile,Y,13,4911548.399999999
+CHEVRON HOUSE,"30 RAFFLES PLACE, SINGAPORE 048622",Office Building,Large,No,1993,,Not Certified,No,37129,69,98,,Water Cooled Chilled Water Plant,6,,,25,N,246,258.2,242.5,Improved,3rd Quartile,Y,25,9003782.5
+,,Healthcare Facility,,,,,,No,,,,,,,,,,,36.6,30.3,273.4,Worsened,,,,
+GOLDHILL PLAZA,"1 GOLDHILL PLAZA, SINGAPORE 308899",Mixed Development,,No,1970,,Not Certified,No,7900,86,98,,"Others (Split Units, Unitary Systems)",6,,,0,N,501.8,503.9,433.9,Improved,Bottom Quartile,Y,48,3427810
+,,Educational Institution,,,,,,No,,,,,,,,,,,278.5,276.4,264.3,Improved,,,,
+ION ORCHARD,"2 ORCHARD TURN, SINGAPORE 238801",Retail Building,Large,No,2011,2007,Gold,Yes,87486,94,98,,Water Cooled Chilled Water Plant,8,0.73,2017,100,N,531.3,520.3,484.9,Improved,3rd Quartile,Y,7,42421961.4
+GREAT WORLD CITY,"1 KIM SENG PROMENADE, SINGAPORE 237994",Retail Building,Large,No,1997,,Not Certified,No,135183,86,95,,Water Cooled Chilled Water Plant,7,0.68,2010,79,N,256.3,247.2,235.4,Improved,Top Quartile,Y,21,31822078.2
+,,Hotel,Large,,,,,Yes,,,,,,,,,,,458,465.6,415.1,Improved,Bottom Quartile,N,,
+NGEE ANN CITY TOWER A,"391A ORCHARD ROAD, SINGAPORE 238873",Mixed Development,,No,1993,2015,Platinum,Yes,175179,100,90,,Water Cooled Chilled Water Plant,1,0.62,2017,0,N,344.9,315,318.9,Worsened,3rd Quartile,Y,25,55864583.099999994
+HOLLAND ROAD SHOPPING CENTRE,"211 HOLLAND AVENUE, SINGAPORE 278967",Retail Building,Small,No,1972,,Not Certified,No,7403,97,90,,Water Cooled Packaged Unit,,,,100,N,441.1,419,426.4,Worsened,3rd Quartile,Y,46,3156639.1999999997
+STAMFORD COURT,"61 STAMFORD ROAD, SINGAPORE 178892",Office Building,Small,No,1996,,Not Certified,No,6832,93,90,,Air Cooled Chilled Water Plant,6,1.05,,0,N,249.6,286.1,270.2,Improved,Bottom Quartile,Y,22,1846006.4
+HUB SYNERGY POINT,"70 ANSON ROAD, SINGAPORE 079905",Office Building,Small,No,1973,,Not Certified,No,10000,80,100,,Water Cooled Chilled Water Plant,9,,,85,N,174.2,198.2,182.6,Improved,2nd Quartile,Y,45,1826e3
+,,Educational Institution,,,,,,No,,,,,,,,,,,80.2,83,75.4,Improved,,,,
+,,Educational Institution,,,,,,No,,,,,,,,,,,97.7,96.8,93.5,Improved,,,,
+,,Educational Institution,,,,,,No,,,,,,,,,,,36.5,46.3,41.5,Improved,,,,
+,,Educational Institution,,,,,,No,,,,,,,,,,,167.7,184.5,184.6,Worsened,,,,
+HOLIDAY INN EXPRESS SINGAPORE CLARKE QUAY,"2 MAGAZINE ROAD, SINGAPORE 059573",Hotel,Large,No,2014,2013,Platinum,Yes,11783,74,87,442,Water Cooled Chilled Water Plant,3,0.5,2016,66,N,258.3,266.1,263.8,Improved,2nd Quartile,Y,4,3108355.4
+THE CRIMSON,"31 SCIENCE PARK ROAD, SINGAPORE 117611",Office Building,Small,No,1997,,Not Certified,No,11291,94,7,,Water Cooled Chilled Water Plant,1,0.7,2017,5,N,451.4,387.6,315.6,Improved,Bottom Quartile,Y,21,3563439.6
+SCOTTS SQUARE,"6 SCOTTS ROAD, SINGAPORE 228209",Retail Building,Small,No,2011,,Not Certified,No,12161,92,95,,Water Cooled Chilled Water Plant,6,0.95,2013,20,N,450.7,467.6,471.3,Worsened,3rd Quartile,Y,7,5731479.3
+CITY HOUSE,"36 ROBINSON ROAD, SINGAPORE 068877",Office Building,Large,No,1984,2013,Platinum,Yes,20180,64,100,,Water Cooled Chilled Water Plant,8,1.05,2013,10,N,136.7,147.2,134.4,Improved,Top Quartile,Y,34,2712192
+SHANGRI-LA HOTEL,"22 ORANGE GROVE ROAD, SINGAPORE 258350",Hotel,Large,No,1972,,Not Certified,No,79709,84,97,747,Water Cooled Chilled Water Plant,18,0.72,2009,5,N,380.7,377.5,333,Improved,Bottom Quartile,Y,46,26543097
+,,Educational Institution,,,,,,Yes,,,,,,,,,,,112.3,110.8,104,Improved,,,,
+OCBC CENTRE SOUTH,"18 CHURCH STREET, SINGAPORE 049479",Office Building,Small,No,1986,2016,Gold,Yes,11047,80,100,,Water Cooled Chilled Water Plant,6,0.7,2016,30,N,362.3,375.8,383.8,Worsened,Bottom Quartile,Y,32,4239838.600000001
+,"63 CHULIA STREET, SINGAPORE 049514",Office Building,Large,No,1996,2016,Gold,Yes,22518,80,100,,Water Cooled Chilled Water Plant,6,0.73,2016,40,N,195,199.6,196,Improved,3rd Quartile,Y,22,4413528
+OCBC CENTRE,"65 CHULIA STREET, SINGAPORE 049513",Office Building,Large,No,1979,2016,Gold,Yes,75079,67,90,,Water Cooled Chilled Water Plant,6,0.79,2014,2,N,202.8,204.8,200.1,Improved,3rd Quartile,Y,39,15023307.9
+,,Educational Institution,,,,,,No,,,,,,,,,,,48.2,61.9,62,Worsened,,,,
+,,Healthcare Facility,,,,,,Yes,,,,,,,,,,,118.6,115.4,109,Improved,,,,
+,,Healthcare Facility,,,,,,Yes,,,,,,,,,,,124.5,130.2,130.7,Worsened,,,,
+,,Healthcare Facility,,,,,,No,,,,,,,,,,,175.5,178.3,168.7,Improved,,,,
+,,Educational Institution,,,,,,No,,,,,,,,,,,71.2,96.8,97,Worsened,,,,
+YISHUN 10 CINEMA COMPLEX,"51 YISHUN CENTRAL 1, SINGAPORE 768794",Retail Building,Small,No,1992,,Not Certified,No,5574,90,100,,"Others (Split Units, Unitary Systems)",20,,,100,N,580.4,566.7,538.1,Improved,Bottom Quartile,Y,26,2999369.4
+,,Educational Institution,,,,,,No,,,,,,,,,,,215,213.5,224.2,Worsened,,,,
+CENTROPOD @ CHANGI,"80 CHANGI ROAD, SINGAPORE 419715",Office Building,Small,No,2015,,Not Certified,No,5874,34,20,,"Others (Split Units, Unitary Systems)",2,,,0,Y,56.1,127.4,145.6,Worsened,2nd Quartile,Y,3,855254.4
+YELEY BUILDING,"730 UPPER SERANGOON ROAD, SINGAPORE 534613",Office Building,Small,No,1990,,Not Certified,No,282,100,100,,"Others (Split Units, Unitary Systems)",10,,,0,N,593.9,577.6,581.7,Worsened,Bottom Quartile,Y,28,164039.40000000002
+THE SINGAPORE RESORT & SPA,"2 BUKIT MANIS ROAD, SINGAPORE 099891",Hotel,Large,No,1990,,Not Certified,No,13752,93,65,215,Water Cooled Chilled Water Plant,9,,,70,N,418.3,523.8,546.4,Worsened,Bottom Quartile,Y,28,7514092.8
+,"41 SUNSET WAY, SINGAPORE 597071",Mixed Development,,No,1993,,Not Certified,No,3608,78,100,,"Others (Split Units, Unitary Systems)",20,,,87,N,329.2,359.8,343.5,Improved,3rd Quartile,Y,25,1239348
+DAS SPEKTRUM@CBP,"9 CHANGI BUSINESS PARK VISTA, SINGAPORE 486041",Office Building,Small,No,2014,2017,Platinum,Yes,12767,81,95,,District Cooling Plant,5.35,,,44,N,146.1,149.2,158.1,Worsened,2nd Quartile,Y,4,2018462.7
+SUN PLAZA,"30 SEMBAWANG DRIVE, SINGAPORE 757713",Retail Building,Large,No,1998,,Not Certified,No,21654,83,68,,Water Cooled Chilled Water Plant,3,0.67,2015,10,N,446.9,573.4,583,Worsened,Bottom Quartile,Y,20,12624282
+TOWER FIFTEEN,"15 HOE CHIANG ROAD, SINGAPORE 089316",Office Building,Large,No,2011,,Not Certified,No,23546,93,95,17,Water Cooled Chilled Water Plant,1,,,60,N,196.4,174.1,164.6,Improved,2nd Quartile,Y,7,3875671.6
+,,Office Building,Large,,,,,No,,,,,,,,,,,20.4,75.1,104.1,Worsened,Top Quartile,N,,
+HOTEL CHANCELLOR @ ORCHARD,"28 CAVENAGH ROAD, SINGAPORE 229635",Hotel,Large,No,2015,2015,Certified,Yes,13742,92,75,488,"Others (Split Units, Unitary Systems)",1,,,20,N,185.6,321.4,279,Improved,3rd Quartile,Y,3,3834018
+,"5 TAMPINES STREET 32, SINGAPORE 529284",Retail Building,Small,No,1996,,Not Certified,No,9900,68,95,,"Others (Split Units, Unitary Systems)",1,,,0,N,142.6,143.6,136.1,Improved,Top Quartile,Y,22,1347390
+INFINITE STUDIOS,"21 MEDIA CIRCLE, SINGAPORE 138562",Office Building,Large,No,2014,2014,GoldPlus,Yes,20484,88,90,,Water Cooled Chilled Water Plant,3,0.64,,10,N,294.3,316.7,334.3,Worsened,Bottom Quartile,Y,4,6847801.2
+THE SULTAN,"101 JALAN SULTAN, SINGAPORE 199002",Hotel,Small,No,2011,,Not Certified,No,2691,85,52,64,"Others (Split Units, Unitary Systems)",5,,,40,N,131.1,152.7,139.8,Improved,Top Quartile,Y,7,376201.80000000005
+JK CENTRE,"291 JOO CHIAT ROAD, SINGAPORE 427543",Retail Building,Small,No,2011,,Not Certified,No,1253,100,52,,"Others (Split Units, Unitary Systems)",4,,,0,N,568.5,518.9,502.4,Improved,Bottom Quartile,Y,7,629507.2
+BUNC HOSTEL,"15 UPPER WELD ROAD, SINGAPORE 207372",Hotel,Small,No,1926,,Not Certified,No,450,100,40,27,"Others (Split Units, Unitary Systems)",4,,,100,N,587.7,664.1,748.1,Worsened,Bottom Quartile,Y,92,336645
+ORCHARD GATEWAY @ EMERALD,"218 ORCHARD ROAD, SINGAPORE 238851",Retail Building,Small,No,2014,2017,Gold,Yes,9700,86,88,,Air Cooled Chilled Water Plant,3,1.03,,63,N,298.7,277.8,302.6,Worsened,2nd Quartile,Y,4,2935220
+,,Educational Institution,,,,,,Yes,,,,,,,,,,,267.8,270.9,258.3,Improved,,,,
+SANDCRAWLER,"1 FUSIONOPOLIS VIEW, SINGAPORE 138577",Office Building,Large,No,2013,2013,Not Certified,No,22495,74,80,,District Cooling Plant,8,,,10,N,272.1,288.7,291.6,Worsened,Bottom Quartile,Y,5,6559542.000000001
+MACPHERSON MALL,"401 MACPHERSON ROAD, SINGAPORE 368125",Mixed Development,,No,2016,2016,Certified,Yes,13284,75,80,298,Water Cooled Chilled Water Plant,2,0.8,2017,99,N,13,173.9,193.1,Worsened,Top Quartile,Y,2,2565140.4
+WAH-CHANG HOUSE,"211 UPPER BUKIT TIMAH ROAD, SINGAPORE 588182",Office Building,Small,No,1990,,Not Certified,No,1968,96,69,,"Others (Split Units, Unitary Systems)",20,,,8,N,179.7,164.6,156.7,Improved,2nd Quartile,Y,28,308385.6
+BEDS AND DREAMS INN @ CLARKE QUAY,"38 HONGKONG STREET, SINGAPORE 059677",Hotel,Small,No,1942,,Not Certified,No,538,100,100,13,"Others (Split Units, Unitary Systems)",0,,,0,N,202,196.1,211.5,Worsened,2nd Quartile,Y,76,113787
+,,Healthcare Facility,,,,,,Yes,,,,,,,,,,,214.3,276,269.9,Improved,,,,
+,,Office Building,Large,,,,,No,,,,,,,,,,,203.8,180.4,180,Improved,2nd Quartile,N,,
+,,Educational Institution,,,,,,Yes,,,,,,,,,,,161,162,157.9,Improved,,,,
+CIVIL SERVICE COLLEGE,"31 NORTH BUONA VISTA ROAD, SINGAPORE 275983",Office Building,Small,Yes,1999,,Not Certified,No,12709,75,100,,Water Cooled Chilled Water Plant,18,1.55,2012,0,N,189.7,195.3,183,Improved,2nd Quartile,Y,19,2325747
+,,Healthcare Facility,,,,,,Yes,,,,,,,,,,,382.1,408,376.8,Improved,,,,
+YEN SAN BUILDING,"268 ORCHARD ROAD, SINGAPORE 238856",Retail Building,Large,No,2014,,Not Certified,No,16971,95,30,,Water Cooled Chilled Water Plant,3,0.79,2016,20,N,92.7,127.3,117.2,Improved,Top Quartile,Y,4,1989001.2
+THE METROPOLIS,"9 NORTH BUONA VISTA DRIVE, SINGAPORE 138588",Office Building,Large,No,2013,2013,Platinum,Yes,100096,100,100,,Water Cooled Chilled Water Plant,4,0.57,2017,20,Y,205.1,213.6,211.1,Improved,3rd Quartile,Y,5,21130265.599999998
+,,Office Building,Large,,,,,Yes,,,,,,,,,,,201.1,201.9,195.4,Improved,3rd Quartile,N,,
+,,Office Building,Large,,,,,Yes,,,,,,,,,,,2.2,25.9,119.5,Worsened,Top Quartile,N,,
+COMCENTRE,"31 EXETER ROAD, SINGAPORE 239732",Office Building,Large,No,1981,,Not Certified,No,119552,69,100,,Water Cooled Chilled Water Plant,6,0.72,2014,20,N,373.8,375.8,346.5,Improved,Bottom Quartile,Y,37,41424768
+,,Healthcare Facility,,,,,,No,,,,,,,,,,,49.8,55.7,54.8,Improved,,,,
+HOTEL ROYAL,"36 NEWTON ROAD, SINGAPORE 307964",Hotel,Large,No,1970,,Not Certified,No,23500,31,87,359,Water Cooled Chilled Water Plant,20,,,72,N,230,218.7,220.7,Worsened,Top Quartile,Y,48,5186450
+,"142 NEIL ROAD, SINGAPORE 088871",Office Building,Small,No,1945,,Not Certified,No,532,94,95,,"Others (Split Units, Unitary Systems)",12,,,0,N,147.4,122.4,105.9,Improved,Top Quartile,Y,73,56338.8
+MARRISON HOTEL,"103 BEACH ROAD, SINGAPORE 189704",Hotel,Small,No,1999,,Not Certified,No,1998,97,86,96,"Others (Split Units, Unitary Systems)",5,,,0,N,402.7,416.9,391.1,Improved,Bottom Quartile,Y,19,781417.8
+,,Office Building,Small,,,,,No,,,,,,,,,,,200.5,205.3,187,Improved,2nd Quartile,N,,
+,,Office Building,Small,,,,,No,,,,,,,,,,,240,255.3,151.5,Improved,2nd Quartile,N,,
+MYP CENTRE,"9 BATTERY ROAD, SINGAPORE 049910",Office Building,Large,No,2009,2016,Gold,Yes,18565,80,100,,"Others (Split Units, Unitary Systems)",9,,,0,N,215.5,217.8,200.8,Improved,3rd Quartile,Y,9,3727852
+MYP PLAZA,"135 CECIL STREET, SINGAPORE 069536",Office Building,Small,No,2007,,Not Certified,No,9374,81,92,,"Others (Split Units, Unitary Systems)",9,,,0,N,172.3,183.7,168.4,Improved,2nd Quartile,Y,11,1578581.6
+ERH BUILDING,"110 ROBINSON ROAD, SINGAPORE 068901",Office Building,Small,No,1990,,Not Certified,No,2066,65,92,,Water Cooled Chilled Water Plant,2,,,0,N,101.8,100.9,107.1,Worsened,Top Quartile,Y,28,221268.59999999998
+,"18 ATTAP VALLEY ROAD, SINGAPORE 759910",Office Building,Small,Yes,2001,,Not Certified,No,3062,90,100,,"Others (Split Units, Unitary Systems)",5,,,0,N,105.8,101.2,101.9,Worsened,Top Quartile,Y,17,312017.8
+WAVELINK BUILDING,"75 JELLICOE ROAD, SINGAPORE 208738",Office Building,Small,No,1996,,Not Certified,No,1331,85,80,,"Others (Split Units, Unitary Systems)",16,,,40,N,241.4,259.3,246,Improved,3rd Quartile,Y,22,327426
+CERTIS CISCO CENTRE,"20 JALAN AFIFI, SINGAPORE 409179",Office Building,Large,No,1986,,Not Certified,No,27810,69,95,,Water Cooled Chilled Water Plant,11,0.8,2015,0,N,365.9,367,362.7,Improved,Bottom Quartile,Y,32,10086687
+AMARA SINGAPORE,"165 TANJONG PAGAR ROAD, SINGAPORE 088539",Mixed Development,,No,1998,,Not Certified,No,49949,86,90,384,Water Cooled Chilled Water Plant,0,0.65,2016,50,N,413.4,416.2,361.7,Improved,Bottom Quartile,Y,20,18066553.3
+INTERNATIONAL PLAZA,"10 ANSON ROAD, SINGAPORE 079903",Office Building,Large,No,1976,2012,GoldPlus,Yes,107758,95,85,,Water Cooled Chilled Water Plant,1,0.66,2016,16,N,187.8,187.7,172.4,Improved,2nd Quartile,Y,42,18577479.2
+"LOT ONE, SHOPPERS MALL","21 CHOA CHU KANG AVENUE 4, SINGAPORE 689812",Retail Building,Large,No,1996,2012,Gold,Yes,30405,100,99,,Water Cooled Chilled Water Plant,1,0.71,2015,60,N,591.4,598.9,573.5,Improved,Bottom Quartile,Y,22,17437267.5
+,,Healthcare Facility,,,,,,No,,,,,,,,,,,201.6,231.7,234.1,Worsened,,,,
+THE PLAZA,"7500A BEACH ROAD, SINGAPORE 199591",Mixed Development,,No,1983,,Not Certified,No,72925,93,80,872,Water Cooled Chilled Water Plant,0,0.57,2017,85,N,279.9,283,243.7,Improved,2nd Quartile,Y,35,17771822.5
+KATONG POINT,"451 JOO CHIAT ROAD, SINGAPORE 427664",Retail Building,Small,No,2016,2013,Certified,Yes,4247,100,29,,"Others (Split Units, Unitary Systems)",1,,,43,N,47.8,78.7,143.7,Worsened,Top Quartile,Y,2,610293.8999999999
+MING ARCADE,"21 CUSCADEN ROAD, SINGAPORE 249720",Retail Building,Small,No,1983,,Not Certified,No,5338,94,85,,Air Cooled Chilled Water Plant,7,,,0,N,256.8,244.7,238,Improved,2nd Quartile,Y,35,1270444
+TRAVELLERS LOFT @ JALAN BESAR,"290 JALAN BESAR, SINGAPORE 208953",Hotel,Small,No,1924,,Not Certified,No,557,100,50,13,"Others (Split Units, Unitary Systems)",5,,,80,N,328.1,431.1,492.1,Worsened,Bottom Quartile,Y,94,274099.7
+SEAGATE SINGAPORE DESIGN CENTER - THE SHUGART,"26 AYER RAJAH CRESCENT, SINGAPORE 139944",Office Building,Large,No,2014,2015,Platinum,Yes,40880,86,99,,District Cooling Plant,2,,,3,Y,375.4,478,472.6,Improved,Bottom Quartile,Y,4,19319888
+PAN PACIFIC ORCHARD,"10 CLAYMORE ROAD, SINGAPORE 229540",Hotel,Large,No,1992,,Not Certified,No,16599,97,82,206,Water Cooled Chilled Water Plant,8,0.55,2017,70,N,301.3,289.7,302.7,Worsened,3rd Quartile,Y,26,5024517.3
+YORK HOTEL,"21 MOUNT ELIZABETH, SINGAPORE 228516",Hotel,Large,No,1971,2016,Gold,Yes,31184,87,85,407,Water Cooled Chilled Water Plant,1,,,55,N,161.8,142.1,139.6,Improved,Top Quartile,Y,47,4353286.399999999
+,,Educational Institution,,,,,,No,,,,,,,,,,,224.5,51.9,24.9,Improved,,,,
+,,Hotel,Small,,,,,No,,,,,,,,,,,271.2,269.1,245.5,Improved,2nd Quartile,N,,
+,,Hotel,Small,,,,,No,,,,,,,,,,,58.3,251,239.9,Improved,2nd Quartile,N,,
+,"50 NORTH CANAL ROAD, SINGAPORE 059304",Office Building,Small,No,2011,2011,Certified,Yes,4625,80,100,,Water Cooled Packaged Unit,,,,0,N,506.6,477.2,478.9,Worsened,Bottom Quartile,Y,7,2214912.5
+LIBERTY HOUSE,"51 CLUB STREET, SINGAPORE 069428",Office Building,Small,No,2011,,Not Certified,No,2093,100,100,,"Others (Split Units, Unitary Systems)",5,,,3,N,286.6,319.6,302.6,Improved,Bottom Quartile,Y,7,633341.8
+CARLTON HOTEL,"76 BRAS BASAH ROAD, SINGAPORE 189558",Hotel,Large,No,1987,,Not Certified,No,59329,97,90,940,Water Cooled Chilled Water Plant,15,,,70,N,311.8,312.3,295.1,Improved,3rd Quartile,Y,31,17507987.900000002
+THE STAR,"1 VISTA EXCHANGE GREEN, SINGAPORE 138617",Retail Building,Large,No,2012,2009,Gold,Yes,62000,65,90,,Water Cooled Chilled Water Plant,5,0.74,,40,N,364.7,347.7,350.8,Worsened,2nd Quartile,Y,6,21749600
+,,Mixed Development,,,,,,No,,,,,,,,,,,530.2,538.1,531.4,Improved,Bottom Quartile,N,,
+,,Retail Building,Large,,,,,No,,,,,,,,,,,154.9,155.9,147.4,Improved,Top Quartile,N,,
+,,Hotel,Large,,,,,No,,,,,,,,,,,316.3,335.7,343.8,Worsened,Bottom Quartile,N,,
+,"22 CAVENAGH ROAD, SINGAPORE 229617",Hotel,Large,No,2015,2015,Certified,Yes,8140,96,75,263,"Others (Split Units, Unitary Systems)",2,,,20,N,64.5,355.7,308.4,Improved,3rd Quartile,Y,3,2510376
+PARKROYAL ON PICKERING,"3 UPPER PICKERING STREET, SINGAPORE 058289",Hotel,Large,No,2012,2012,Platinum,Yes,29227,77,80,367,Water Cooled Chilled Water Plant,3,0.65,,60,N,293.5,307.6,302.3,Improved,3rd Quartile,Y,6,8835322.1
+,,Educational Institution,,,,,,No,,,,,,,,,,,190.7,205.2,197.4,Improved,,,,
+,,Office Building,Small,,,,,No,,,,,,,,,,,190.7,198.9,149.6,Improved,2nd Quartile,N,,
+TAMAN JURONG SHOPPING CENTRE,"399 YUNG SHENG ROAD, SINGAPORE 610399",Retail Building,Small,Yes,1996,2013,Gold,Yes,11820,66,100,,"Others (Split Units, Unitary Systems)",5,,,3,N,400.9,412.3,402.4,Improved,3rd Quartile,Y,22,4756368
+NEW BRIDGE CENTRE,"336 SMITH STREET, SINGAPORE 050336",Office Building,Small,Yes,1987,,Not Certified,No,10678,84,100,,Water Cooled Chilled Water Plant,11,,,70,N,257.2,264.9,248.4,Improved,3rd Quartile,Y,31,2652415.2
+KITCHENER COMPLEX,"809 FRENCH ROAD, SINGAPORE 200809",Mixed Development,,Yes,1986,,Not Certified,No,26881,37,60,,"Others (Split Units, Unitary Systems)",2,,,40,N,102.6,115.4,129.4,Worsened,Top Quartile,Y,32,3478401.4000000004
+SHAW TOWERS,"100 BEACH ROAD, SINGAPORE 189702",Office Building,Large,No,1975,,Not Certified,No,43367,70,94,,Water Cooled Chilled Water Plant,18,,,20,N,230.3,234.2,248.6,Worsened,3rd Quartile,Y,43,10781036.2
+ANN SIANG 47,"47 ANN SIANG ROAD, SINGAPORE 069720",Office Building,Small,No,1978,,Not Certified,No,980,78,100,,Water Cooled Packaged Unit,,,,0,N,432,423.3,420.2,Improved,Bottom Quartile,Y,40,411796
+,,Office Building,Small,,,,,Yes,,,,,,,,,,,195.2,207.6,197.8,Improved,3rd Quartile,N,,
+,,Office Building,Large,,,,,Yes,,,,,,,,,,,159.1,162.1,169.2,Worsened,2nd Quartile,N,,
+,,Retail Building,Large,,,,,Yes,,,,,,,,,,,310.4,347.6,352,Worsened,2nd Quartile,N,,
+,,Office Building,Small,,,,,No,,,,,,,,,,,159.6,162.9,164.6,Worsened,2nd Quartile,N,,
+,,Educational Institution,,,,,,No,,,,,,,,,,,2882.5,2676.6,2602.4,Improved,,,,
+,,Hotel,Small,,,,,No,,,,,,,,,,,25.4,43.6,37.9,Improved,Top Quartile,N,,
+BENDEMEER VILLE,"27 BENDEMEER ROAD, SINGAPORE 330027",Retail Building,Small,No,1971,,Not Certified,No,2070,48,100,,"Others (Split Units, Unitary Systems)",10,,,0,N,712.2,727.5,719.8,Improved,Bottom Quartile,Y,47,1489986
+WOH HUP BUILDING,"217 UPPER BUKIT TIMAH ROAD, SINGAPORE 588185",Office Building,Small,No,2011,2017,Platinum,Yes,1980,80,95,,"Others (Split Units, Unitary Systems)",6,0.75,2017,0,Y,157.4,162.3,158.7,Improved,2nd Quartile,Y,7,314226
+,,Educational Institution,,,,,,Yes,,,,,,,,,,,192.4,209.3,199.3,Improved,,,,
+,,Healthcare Facility,,,,,,No,,,,,,,,,,,234.8,231.8,223.9,Improved,,,,
+,,Healthcare Facility,,,,,,No,,,,,,,,,,,160.1,146,170.4,Worsened,,,,
+,,Healthcare Facility,,,,,,No,,,,,,,,,,,135.7,150.1,150.4,Worsened,,,,
+,,Healthcare Facility,,,,,,No,,,,,,,,,,,102.7,91.7,89.5,Improved,,,,
+,,Healthcare Facility,,,,,,No,,,,,,,,,,,74.2,76.3,83,Worsened,,,,
+,,Retail Building,Small,,,,,No,,,,,,,,,,,1601.7,1604.1,1537.3,Improved,Bottom Quartile,N,,
+,,Hotel,Small,,,,,No,,,,,,,,,,,303.3,249.7,381.8,Worsened,Bottom Quartile,N,,
+,,Hotel,Small,,,,,No,,,,,,,,,,,406.1,428.3,455.6,Worsened,Bottom Quartile,N,,
+,,Hotel,Small,,,,,No,,,,,,,,,,,423.9,379.3,327.7,Improved,3rd Quartile,N,,
+,,Hotel,Small,,,,,No,,,,,,,,,,,449.9,436.2,425.8,Improved,Bottom Quartile,N,,
+,,Hotel,Small,,,,,No,,,,,,,,,,,237.4,234.7,258.1,Worsened,3rd Quartile,N,,
+,,Hotel,Small,,,,,Yes,,,,,,,,,,,224.3,272.5,258.8,Improved,3rd Quartile,N,,
+,,Hotel,Small,,,,,No,,,,,,,,,,,343.9,415.8,397.2,Improved,Bottom Quartile,N,,
+,,Hotel,Small,,,,,No,,,,,,,,,,,309.1,244.6,310.2,Worsened,3rd Quartile,N,,
+,,Hotel,Small,,,,,No,,,,,,,,,,,339.3,364.8,394,Worsened,Bottom Quartile,N,,
+,,Hotel,Small,,,,,No,,,,,,,,,,,367.7,365.8,359.8,Improved,Bottom Quartile,N,,
+,,Hotel,Small,,,,,No,,,,,,,,,,,238.6,216.1,219.4,Worsened,2nd Quartile,N,,
+,,Hotel,Small,,,,,No,,,,,,,,,,,280.6,291.2,288.3,Improved,3rd Quartile,N,,
+,,Hotel,Small,,,,,No,,,,,,,,,,,511.8,512.5,512.1,Improved,Bottom Quartile,N,,
+,,Hotel,Small,,,,,No,,,,,,,,,,,338.5,322.8,348.2,Worsened,Bottom Quartile,N,,
+,,Hotel,Small,,,,,No,,,,,,,,,,,417.5,430,384.9,Improved,Bottom Quartile,N,,
+,,Hotel,Small,,,,,No,,,,,,,,,,,350,368.9,365.1,Improved,Bottom Quartile,N,,
+,,Hotel,Small,,,,,No,,,,,,,,,,,488.8,462.5,444.9,Improved,Bottom Quartile,N,,
+,,Hotel,Small,,,,,No,,,,,,,,,,,501,493.1,466.6,Improved,Bottom Quartile,N,,
+,,Hotel,Small,,,,,No,,,,,,,,,,,201.9,196.2,185.9,Improved,2nd Quartile,N,,
+,,Hotel,Small,,,,,No,,,,,,,,,,,322.9,308.9,294.3,Improved,3rd Quartile,N,,
+,,Hotel,Small,,,,,No,,,,,,,,,,,284.2,275.1,277.3,Worsened,3rd Quartile,N,,
+,,Hotel,Small,,,,,No,,,,,,,,,,,367.2,355.1,320.8,Improved,3rd Quartile,N,,
+,,Hotel,Small,,,,,No,,,,,,,,,,,351.1,372.4,373.9,Worsened,Bottom Quartile,N,,
+,,Hotel,Small,,,,,No,,,,,,,,,,,552.7,519.6,509.7,Improved,Bottom Quartile,N,,
+,,Hotel,Small,,,,,No,,,,,,,,,,,393.7,409.8,419.6,Worsened,Bottom Quartile,N,,
+,,Hotel,Small,,,,,No,,,,,,,,,,,383.7,404.2,375.2,Improved,Bottom Quartile,N,,
+,,Hotel,Small,,,,,No,,,,,,,,,,,395.9,391.9,431.6,Worsened,Bottom Quartile,N,,
+,,Hotel,Small,,,,,No,,,,,,,,,,,407.5,406.4,448.9,Worsened,Bottom Quartile,N,,
+,,Hotel,Small,,,,,No,,,,,,,,,,,251.1,208.9,199.9,Improved,2nd Quartile,N,,
+REVENUE HOUSE,"55 NEWTON ROAD, SINGAPORE 307987",Office Building,Large,Yes,1996,2014,Platinum,Yes,86492,96,100,,Water Cooled Chilled Water Plant,4,0.61,2016,5,N,175.7,173.2,165.7,Improved,2nd Quartile,Y,22,14331724.399999999
+,"219 JOO CHIAT ROAD, SINGAPORE 427485",Hotel,Small,No,2001,,Not Certified,No,2105,71,85,90,"Others (Split Units, Unitary Systems)",0,,,0,N,231.7,170.1,177.4,Worsened,Top Quartile,Y,17,373427
+,"75 WISHART ROAD, SINGAPORE 098721",Hotel,Small,No,2007,,Not Certified,No,668,75,73,33,"Others (Split Units, Unitary Systems)",0,,,0,N,246.4,232.9,232.8,Improved,2nd Quartile,Y,11,155510.4
+,"20 LORONG 6 GEYLANG, SINGAPORE 399174",Hotel,Small,No,1998,,Not Certified,No,2677,67,85,126,"Others (Split Units, Unitary Systems)",0,,,0,N,274.5,262.4,199.8,Improved,2nd Quartile,Y,20,534864.6
+,"760 UPPER SERANGOON ROAD, SINGAPORE 534629",Hotel,Small,No,2006,,Not Certified,No,850,76,90,43,"Others (Split Units, Unitary Systems)",0,,,0,N,344,305.7,311.1,Worsened,3rd Quartile,Y,12,264435
+,"418 PASIR PANJANG ROAD, SINGAPORE 118759",Hotel,Small,No,2008,,Not Certified,No,1024,78,94,57,"Others (Split Units, Unitary Systems)",0,,,0,N,280.3,291.3,243.8,Improved,2nd Quartile,Y,10,249651.2
+,"432 PASIR PANJANG ROAD, SINGAPORE 118773",Hotel,Small,No,2008,,Not Certified,No,875,80,90,47,"Others (Split Units, Unitary Systems)",0,,,0,N,313.8,357,313.6,Improved,3rd Quartile,Y,10,274400
+FRAGRANCE HOTEL - RIVERSIDE,"20 HONGKONG STREET, SINGAPORE 059663",Hotel,Small,No,2011,,Not Certified,No,2156,79,91,101,"Others (Split Units, Unitary Systems)",0,,,0,N,369.7,379.7,385.2,Worsened,Bottom Quartile,Y,7,830491.2
+,"183 SELEGIE ROAD, SINGAPORE 188329",Hotel,Small,No,2005,,Not Certified,No,2128,77,85,95,"Others (Split Units, Unitary Systems)",0,,,0,N,281.9,249.4,113.2,Improved,Top Quartile,Y,13,240889.6
+,"255 BALESTIER ROAD, SINGAPORE 329710",Hotel,Small,No,2004,,Not Certified,No,890,76,85,48,"Others (Split Units, Unitary Systems)",0,,,0,N,199.3,188.8,185.6,Improved,2nd Quartile,Y,14,165184
+,"10 LORONG 20 GEYLANG, SINGAPORE 398730",Hotel,Small,No,1998,,Not Certified,No,2919,86,85,168,"Others (Split Units, Unitary Systems)",0,,,85,N,246.8,260.8,235.3,Improved,2nd Quartile,Y,20,686840.7000000001
+,"10 LORONG 10 GEYLANG, SINGAPORE 399043",Hotel,Small,No,2005,,Not Certified,No,733,61,85,27,"Others (Split Units, Unitary Systems)",0,,,0,N,188.5,176,156.7,Improved,Top Quartile,Y,13,114861.09999999999
+FRAGRANCE HOTEL - ROYAL,"400 TELOK BLANGAH ROAD, SINGAPORE 098838",Hotel,Small,No,2009,,Not Certified,No,656,68,85,32,"Others (Split Units, Unitary Systems)",0,,,0,N,392.8,365.8,349.2,Improved,Bottom Quartile,Y,9,229075.19999999998
+,"28 PENHAS ROAD, SINGAPORE 208187",Hotel,Small,No,2007,,Not Certified,No,1714,60,85,74,"Others (Split Units, Unitary Systems)",0,,,0,N,300.8,310,267.2,Improved,3rd Quartile,Y,11,457980.8
+,"435 BALESTIER ROAD, SINGAPORE 329816",Hotel,Small,No,2007,,Not Certified,No,687,73,85,36,"Others (Split Units, Unitary Systems)",0,,,0,N,352.6,301.7,302.9,Worsened,3rd Quartile,Y,11,208092.3
+,"21 LORONG 14 GEYLANG, SINGAPORE 398961",Hotel,Small,No,2002,,Not Certified,No,2582,77,85,129,"Others (Split Units, Unitary Systems)",0,,,0,N,207.2,224.1,219.2,Improved,2nd Quartile,Y,16,565974.4
+,"3 LORONG 10 GEYLANG, SINGAPORE 399037",Hotel,Small,No,1997,,Not Certified,No,1524,52,85,50,"Others (Split Units, Unitary Systems)",0,,,0,N,220.9,224.1,237.4,Worsened,2nd Quartile,Y,21,361797.60000000003
+FRAGRANCE HOTEL - BUGIS,"33 MIDDLE ROAD, SINGAPORE 188942",Hotel,Small,No,2010,,Not Certified,No,1575,71,85,84,"Others (Split Units, Unitary Systems)",0,,,0,N,336,324.2,351.8,Worsened,Bottom Quartile,Y,8,554085
+PARC SOVEREIGN HOTEL,"175 ALBERT STREET, SINGAPORE 189970",Hotel,Small,No,2011,,Not Certified,No,3675,82,85,172,"Others (Split Units, Unitary Systems)",0,,,0,N,315.6,322.3,326.8,Worsened,3rd Quartile,Y,7,1200990
+,"263 BALESTIER ROAD, SINGAPORE 329715",Hotel,Small,No,2005,,Not Certified,No,1179,81,85,68,"Others (Split Units, Unitary Systems)",0,,,0,N,243.2,193,169.2,Improved,Top Quartile,Y,13,199486.8
+,"418 BALESTIER ROAD, SINGAPORE 329808",Hotel,Small,No,2004,,Not Certified,No,841,80,85,48,"Others (Split Units, Unitary Systems)",0,,,0,N,410.5,420.7,420.8,Worsened,Bottom Quartile,Y,14,353892.8
+,"51 LAVENDER STREET, SINGAPORE 338710",Hotel,Small,No,2007,,Not Certified,No,658,74,90,35,"Others (Split Units, Unitary Systems)",0,,,0,N,279.8,268,288.6,Worsened,3rd Quartile,Y,11,189898.80000000002
+,"50 LORONG 18 GEYLANG, SINGAPORE 398824",Hotel,Small,No,2002,,Not Certified,No,3360,52,85,125,"Others (Split Units, Unitary Systems)",0,,,0,N,138.5,149.7,155.4,Worsened,Top Quartile,Y,16,522144
+,,Office Building,Large,,,,,Yes,,,,,,,,,,,26.3,25.6,25.1,Improved,Top Quartile,N,,
+CINTECH II BUILDING,"75 SCIENCE PARK DRIVE, SINGAPORE 118255",Mixed Development,,No,1990,,Not Certified,No,54211,86,80,,District Cooling Plant,2,,,80,N,854.5,851.6,829,Improved,Bottom Quartile,Y,28,44940919
+OASIS,"87 SCIENCE PARK DRIVE, SINGAPORE 118260",Retail Building,Small,No,1996,,Not Certified,No,6100,100,90,,Water Cooled Chilled Water Plant,2,0.65,2017,100,N,44.8,66,62.3,Improved,Top Quartile,Y,22,380030
+THE RUTHERFORD,"89 SCIENCE PARK DRIVE, SINGAPORE 118261",Office Building,Large,No,1995,,Not Certified,No,20143,80,75,,Water Cooled Packaged Unit,28,0.65,2017,50,N,289.8,276.8,242.8,Improved,3rd Quartile,Y,23,4890720.4
+THE MENDEL,"12 SCIENCE PARK DRIVE, SINGAPORE 118225",Office Building,Large,No,2013,2013,GoldPlus,Yes,75269,69,100,,Water Cooled Chilled Water Plant,4,0.65,,100,N,91.8,156.3,246.3,Worsened,3rd Quartile,Y,5,18538754.7
+NEUROS,"8 BIOMEDICAL GROVE, SINGAPORE 138665",Mixed Development,,No,2006,,Not Certified,No,48424,82,100,,District Cooling Plant,7,,,0,N,334.9,343.9,327.7,Improved,3rd Quartile,Y,12,15868544.799999999
+,,Office Building,Small,,,,,No,,,,,,,,,,,258.4,257,255.3,Improved,3rd Quartile,N,,
+THOMSON PLAZA,"301 UPPER THOMSON ROAD, SINGAPORE 574408",Retail Building,Large,No,1981,,Not Certified,No,29413,100,98,,Water Cooled Chilled Water Plant,1,,,20,N,463.3,464.2,459.9,Improved,3rd Quartile,Y,37,13527038.7
+JCUBE,"2 JURONG EAST CENTRAL 1, SINGAPORE 609731",Retail Building,Large,No,2012,2016,Platinum,Yes,29433,67,95,,Water Cooled Chilled Water Plant,3,0.63,2015,90,Y,623,643.4,654,Worsened,Bottom Quartile,Y,6,19249182
+,"182 CLEMENCEAU AVENUE, SINGAPORE 239923",Office Building,Small,No,1993,,Not Certified,No,4880,92,5,,Air Cooled Chilled Water Plant,20,,,0,N,200.7,192.6,62,Improved,Top Quartile,Y,25,302560
+RIVERVALE MALL,"11 RIVERVALE CRESCENT, SINGAPORE 545082",Retail Building,Small,No,2000,,Not Certified,No,10149,74,95,,Water Cooled Chilled Water Plant,2,0.6,,70,N,796.2,738,764.3,Worsened,Bottom Quartile,Y,18,7756880.699999999
+,,Educational Institution,,,,,,Yes,,,,,,,,,,,147.3,154.9,164.5,Worsened,,,,
+,,Office Building,Small,,,,,No,,,,,,,,,,,160.1,141.7,135.4,Improved,2nd Quartile,N,,
+MAS BUILDING,"10 SHENTON WAY, SINGAPORE 079117",Office Building,Large,Yes,1985,2015,Platinum,Yes,55206,74,100,,Water Cooled Chilled Water Plant,0,1.13,2014,35,N,162.1,162.9,139.3,Improved,Top Quartile,Y,33,7690195.800000001
+CURRENCY HOUSE,"109 PASIR PANJANG ROAD, SINGAPORE 118536",Office Building,Large,Yes,2001,,Not Certified,No,15423,57,100,,Water Cooled Chilled Water Plant,14,,,1,N,199.3,199.8,188.6,Improved,2nd Quartile,Y,17,2908777.8
+,,Office Building,Small,,,,,No,,,,,,,,,,,233.2,208.1,186.9,Improved,2nd Quartile,N,,
+COMO HOUSE,"6B ORANGE GROVE ROAD, SINGAPORE 258332",Office Building,Small,No,1989,,Not Certified,No,2099,98,85,,"Others (Split Units, Unitary Systems)",6,,,0,N,319.3,331.7,329.5,Improved,Bottom Quartile,Y,29,691620.5
+,,Office Building,Large,,,,,No,,,,,,,,,,,215.7,218.5,209.7,Improved,3rd Quartile,N,,
+ONE MARINA BOULEVARD,"1 MARINA BOULEVARD, SINGAPORE 018989",Office Building,Large,No,2003,,Not Certified,No,48302,85,99,,"Others (Split Units, Unitary Systems)",0,,,17,N,182.2,179.1,174.3,Improved,2nd Quartile,Y,15,8419038.6
+,"11 MACKENZIE ROAD, SINGAPORE 228675",Hotel,Small,No,1958,,Not Certified,No,518,69,47,25,"Others (Split Units, Unitary Systems)",7,,,0,N,209.3,255.3,244.3,Improved,2nd Quartile,Y,60,126547.40000000001
+51 CUPPAGE ROAD,"51 CUPPAGE ROAD, SINGAPORE 229469",Office Building,Large,No,1997,2014,Gold,Yes,30915,83,88,,Water Cooled Chilled Water Plant,20,0.85,,99,N,165,169.1,171.9,Worsened,2nd Quartile,Y,21,5314288.5
+GUTHRIE HOUSE,"1 FIFTH AVENUE, SINGAPORE 268802",Office Building,Small,No,1998,,Not Certified,No,8908,100,100,,Water Cooled Chilled Water Plant,1,0.58,,10,N,382.7,325.5,305.4,Improved,Bottom Quartile,Y,20,2720503.1999999997
+,,Office Building,Small,,,,,No,,,,,,,,,,,277.7,277.3,251.4,Improved,3rd Quartile,N,,
+,,Office Building,Small,,,,,No,,,,,,,,,,,287.3,283.6,258.6,Improved,3rd Quartile,N,,
+,,Hotel,Large,,,,,No,,,,,,,,,,,246.2,256.2,294.4,Worsened,3rd Quartile,N,,
+HEALTH SCIENCES AUTHORITY BUILDING,"11 OUTRAM ROAD, SINGAPORE 169078",Office Building,Large,Yes,2001,2016,GoldPlus,Yes,17226,91,95,,Water Cooled Chilled Water Plant,4,0.62,2016,56,N,482.9,475.5,449.1,Improved,Bottom Quartile,Y,17,7736196.600000001
+TEN MILE JUNCTION,"1 WOODLANDS ROAD, SINGAPORE 677899",Retail Building,Small,No,2011,,Not Certified,No,10967,73,89,,"Others (Split Units, Unitary Systems)",5,,,35,N,475.5,498,481.8,Improved,3rd Quartile,Y,7,5283900.600000001
+CENTRAL SQUARE,"20 HAVELOCK ROAD, SINGAPORE 059765",Hotel,Large,No,1998,,Not Certified,No,17068,32,70,127,"Others (Split Units, Unitary Systems)",0,,,1,N,188.3,185.1,180.9,Improved,Top Quartile,Y,20,3087601.2
+SKY LINE BUILDING,"192 WATERLOO STREET, SINGAPORE 187966",Office Building,Small,No,1991,,Not Certified,No,3000,83,85,,"Others (Split Units, Unitary Systems)",5,,,0,N,184.8,197.2,172,Improved,2nd Quartile,Y,27,516e3
+,"37 CARPENTER STREET, SINGAPORE 059916",Office Building,Small,No,1990,,Not Certified,No,1405,77,100,,"Others (Split Units, Unitary Systems)",,,,70,N,-13,21,84,Worsened,Top Quartile,Y,28,118020
+CAPITAL SQUARE,"23 CHURCH STREET, SINGAPORE 049481",Office Building,Large,No,1998,2015,GoldPlus,Yes,55092,57,100,,Water Cooled Chilled Water Plant,0,0.81,2012,20,N,234.3,234.8,212.1,Improved,3rd Quartile,Y,20,11685013.2
+ATLAND HOUSE,"200 BUKIT TIMAH ROAD, SINGAPORE 229862",Office Building,Small,No,1998,,Not Certified,No,815,100,100,,"Others (Split Units, Unitary Systems)",10,,,60,N,155.8,186.5,150.2,Improved,2nd Quartile,Y,20,122412.99999999999
+RUBIKON,"3501 JALAN BUKIT MERAH, SINGAPORE 159460",Retail Building,Small,No,2015,,Not Certified,No,5003,96,80,,Water Cooled Packaged Unit,40,,,10,N,188.4,215.8,202.3,Improved,2nd Quartile,Y,3,1012106.9
+,,Office Building,Large,,,,,No,,,,,,,,,,,165.6,152.2,174.8,Worsened,2nd Quartile,N,,
+CLAYMORE PLAZA,"6 CLAYMORE HILL, SINGAPORE 229571",Office Building,Small,No,1983,,Not Certified,No,3086,100,100,,Water Cooled Chilled Water Plant,12,,,0,N,404.4,425,388.1,Improved,Bottom Quartile,Y,35,1197676.6
+,,Educational Institution,,,,,,No,,,,,,,,,,,26.4,71.9,60.6,Improved,,,,
+MYVILLAGE AT SERANGOON GARDEN,"1 MAJU AVENUE, SINGAPORE 556679",Retail Building,Small,No,2010,,Not Certified,No,5312,46,90,,"Others (Split Units, Unitary Systems)",7,0.85,,0,N,750.4,717.3,706.6,Improved,Bottom Quartile,Y,8,3753459.2
+8 ON CLAYMORE,"8 CLAYMORE HILL, SINGAPORE 229572",Hotel,Large,No,2011,2012,Gold,Yes,13539,97,85,85,Water Cooled Chilled Water Plant,5,0.87,2012,50,N,204.9,206.2,203.9,Improved,Top Quartile,Y,7,2760602.1
+LUCKY PLAZA,"304 ORCHARD ROAD, SINGAPORE 238863",Retail Building,Large,No,1979,2015,Platinum,Yes,46816,94,97,,Water Cooled Chilled Water Plant,1,0.57,2016,23,N,365.8,368.8,361.5,Improved,2nd Quartile,Y,39,16923984
+NATIONAL ARCHIVES OF SINGAPORE,"1 CANNING RISE, SINGAPORE 179868",Office Building,Small,Yes,1997,,Not Certified,No,8214,69,70,,Water Cooled Chilled Water Plant,19,,,4,N,370.1,386.3,362.6,Improved,Bottom Quartile,Y,21,2978396.4000000004
+NATIONAL LIBRARY BUILDING,"100 VICTORIA STREET, SINGAPORE 188064",Office Building,Large,Yes,2005,2015,Platinum,Yes,58783,100,85,,Water Cooled Chilled Water Plant,8,0.81,2016,48,N,233.4,232,221.3,Improved,3rd Quartile,Y,13,13008677.9
+7 WONDERS HOSTEL,"257 JALAN BESAR, SINGAPORE 208930",Hotel,Small,No,1986,,Not Certified,No,493,76,65,6,"Others (Split Units, Unitary Systems)",1,,,100,N,226.8,153.1,192.7,Worsened,2nd Quartile,Y,32,95001.09999999999
+,,Retail Building,Small,,,,,No,,,,,,,,,,,224.9,268.3,291.7,Worsened,2nd Quartile,N,,
+KATONG SQUARE,"86 EAST COAST ROAD, SINGAPORE 428788",Hotel,Large,No,2016,2015,Platinum,Yes,25200,94,100,582,Water Cooled Chilled Water Plant,1,0.65,,95,N,11.3,162.5,258.2,Worsened,2nd Quartile,Y,2,6506640
+,,Retail Building,Large,,,,,No,,,,,,,,,,,549.3,539.1,521.9,Improved,Bottom Quartile,N,,
+,"71 ROBINSON ROAD, SINGAPORE 068895",Office Building,Large,No,2009,2015,Gold,Yes,24089,98,100,,Water Cooled Chilled Water Plant,7,0.65,2015,0,N,239.4,249,228.5,Improved,3rd Quartile,Y,9,5504336.5
+,,Office Building,Large,,,,,Yes,,,,,,,,,,,145.7,147.3,141.5,Improved,Top Quartile,N,,
+HDB HUB,"490 LORONG 6 TOA PAYOH, SINGAPORE 310490",Office Building,Large,Yes,2000,2014,Platinum,Yes,187345,65,100,,Water Cooled Chilled Water Plant,1,0.63,2015,40,Y,239.2,231.5,218.6,Improved,3rd Quartile,Y,18,40953617
+,,Office Building,Small,,,,,No,,,,,,,,,,,121.1,136.7,155.3,Worsened,2nd Quartile,N,,
+,,Office Building,Small,,,,,No,,,,,,,,,,,206.3,187.4,209.4,Worsened,3rd Quartile,N,,
+ANCHORPOINT SHOPPING CENTRE,"370 ALEXANDRA ROAD, SINGAPORE 159953",Retail Building,Small,No,1997,,Not Certified,No,9544,94,96,,Water Cooled Chilled Water Plant,10,,,80,N,652.2,642.5,622.6,Improved,Bottom Quartile,Y,21,5942094.4
+ROBINSON SQUARE,"144 ROBINSON ROAD, SINGAPORE 068908",Office Building,Small,No,2014,2014,Certified,Yes,4164,96,60,,"Others (Split Units, Unitary Systems)",2,,,0,N,72.9,93.6,127.5,Worsened,Top Quartile,Y,4,530910
+,"77 GEYLANG ROAD, SINGAPORE 389197",Hotel,Small,No,1995,,Not Certified,No,115,52,80,5,"Others (Split Units, Unitary Systems)",2,,,30,N,367.5,401.3,360.3,Improved,Bottom Quartile,Y,23,41434.5
+,,Hotel,Small,,,,,No,,,,,,,,,,,137,351.9,361.2,Worsened,Bottom Quartile,N,,
+,,Healthcare Facility,,,,,,Yes,,,,,,,,,,,17.4,154,159.7,Worsened,,,,
+,,Office Building,Large,,,,,Yes,,,,,,,,,,,15.6,32.2,29.2,Improved,Top Quartile,N,,
+DELFI ORCHARD,"402 ORCHARD ROAD, SINGAPORE 238876",Retail Building,Small,No,1984,,Not Certified,No,11608,100,85,,Water Cooled Chilled Water Plant,14,,,80,N,176.6,175.2,167.3,Improved,2nd Quartile,Y,34,1942018.4000000001
+UNION BUILDING,"171 TRAS STREET, SINGAPORE 079025",Office Building,Small,No,1987,,Not Certified,No,680,100,90,,"Others (Split Units, Unitary Systems)",10,,,0,N,797.4,815.6,796.6,Improved,Bottom Quartile,Y,31,541688
+,,Office Building,Small,,,,,No,,,,,,,,,,,72.9,72.4,70.6,Improved,Top Quartile,N,,
+NEA SOUTH WEST REGIONAL OFFICE,"5 ALBERT WINSEMIUS LANE, SINGAPORE 126787",Office Building,Small,Yes,2012,,Not Certified,No,1314,91,100,,"Others (Split Units, Unitary Systems)",5,,,0,N,164.3,159.9,156,Improved,2nd Quartile,Y,6,204984
+,,Retail Building,Large,,,,,Yes,,,,,,,,,,,7.3,496.4,548.8,Worsened,Bottom Quartile,N,,
+CHIJMES,"30 VICTORIA STREET, SINGAPORE 187996",Retail Building,Small,No,1999,2015,Certified,Yes,14790,47,90,,Air Cooled Chilled Water Plant,15,,,5,N,483.7,535.3,510.7,Improved,Bottom Quartile,Y,19,7553253
+HELIOS,"11 BIOPOLIS WAY, SINGAPORE 138667",Office Building,Large,Yes,2008,2016,GoldPlus,Yes,170856,84,93,,District Cooling Plant,15,,,10,N,776.2,676.7,686.4,Worsened,Bottom Quartile,Y,10,117275558.39999999
+IBM PLACE,"9 CHANGI BUSINESS PARK CENTRAL 1, SINGAPORE 486048",Office Building,Large,Yes,2003,,Not Certified,No,16262,95,75,,District Cooling Plant,20,,,85,N,161.9,145,102,Improved,Top Quartile,Y,15,1658724
+IBM PLACE,"7 CHANGI BUSINESS PARK CENTRAL 1, SINGAPORE 486072",Office Building,Large,Yes,2000,,Not Certified,No,15996,88,100,,District Cooling Plant,20,,,85,N,173.1,147.5,133.8,Improved,Top Quartile,Y,18,2140264.8000000003
+CONNEXIS,"1 FUSIONOPOLIS WAY, SINGAPORE 138632",Office Building,Large,Yes,2008,2016,Platinum,Yes,120384,72,90,,District Cooling Plant,14,,,15,N,247.5,249.4,225.8,Improved,3rd Quartile,Y,10,27182707.200000003
+,"15 CHANGI BUSINESS PARK CENTRAL 1, SINGAPORE 486057",Office Building,Large,Yes,2001,2012,Gold,Yes,19040,74,80,,District Cooling Plant,0,,,85,N,115.9,124,102.3,Improved,Top Quartile,Y,17,1947792
+AYER RAJAH AMENITY CENTRE,"69 AYER RAJAH CRESCENT, SINGAPORE 139961",Mixed Development,,Yes,1996,,Not Certified,No,2749,65,54,,"Others (Split Units, Unitary Systems)",20,,,0,N,201.8,198.5,134.9,Improved,Top Quartile,Y,22,370840.10000000003
+INNOVIS,"2 FUSIONOPOLIS WAY, SINGAPORE 138634",Office Building,Large,Yes,2015,2012,Platinum,Yes,41193,74,85,,Water Cooled Chilled Water Plant,3,,,0,N,251.1,447.1,545.9,Worsened,Bottom Quartile,Y,3,22487258.7
+KINESIS,"4 FUSIONOPOLIS WAY, SINGAPORE 138635",Office Building,Large,Yes,2015,2012,Platinum,Yes,33123,79,100,,Water Cooled Chilled Water Plant,4,,,0,N,84.5,289.7,286.7,Improved,Bottom Quartile,Y,3,9496364.1
+SYNTHESIS,"6 FUSIONOPOLIS WAY, SINGAPORE 138636",Office Building,Large,Yes,2015,2012,Platinum,Yes,19173,100,100,,Water Cooled Chilled Water Plant,4,,,0,N,206.1,913.9,1040.5,Worsened,Bottom Quartile,Y,3,19949506.5
+CLEANTECH ONE,"1 CLEANTECH LOOP, SINGAPORE 637141",Office Building,Large,Yes,2012,2011,Platinum,Yes,28800,73,84,,Water Cooled Chilled Water Plant,4,0.65,,75,Y,291.8,297.5,303,Worsened,Bottom Quartile,Y,6,8726400
+JTC CLEANTECH TWO @CLEANTECH PARK,"3 CLEANTECH LOOP, SINGAPORE 637143",Office Building,Large,Yes,2014,2013,Platinum,Yes,22485,52,65,,Water Cooled Chilled Water Plant,1,0.6,,32,Y,94,133.4,157,Worsened,2nd Quartile,Y,4,3530145
+THE JTC SUMMIT,"8 JURONG TOWN HALL ROAD, SINGAPORE 609434",Office Building,Large,Yes,2000,2013,Platinum,Yes,56527,96,85,,Water Cooled Chilled Water Plant,14,0.9,2009,0,N,158.1,156.2,141.9,Improved,Top Quartile,Y,18,8021181.300000001
+JURONG TOWN HALL,"9 JURONG TOWN HALL ROAD, SINGAPORE 609431",Office Building,Large,Yes,1975,,Not Certified,No,26248,37,40,,"Others (Split Units, Unitary Systems)",4,,,0,N,67.3,33.1,67.7,Worsened,Top Quartile,Y,43,1776989.6
+UOB TAMPINES CENTRE,"1 TAMPINES CENTRAL 1, SINGAPORE 529539",Office Building,Small,No,1997,,Not Certified,No,8905,100,100,,Water Cooled Chilled Water Plant,20,,,0,N,1363.1,1411.9,1394.1,Improved,Bottom Quartile,Y,21,12414460.5
+,,Hotel,Small,,,,,No,,,,,,,,,,,133,134.4,117.7,Improved,Top Quartile,N,,
+TRIPLEONE SOMERSET,"111 SOMERSET ROAD, SINGAPORE 238164",Office Building,Large,No,1977,2012,GoldPlus,Yes,68836,87,80,,Water Cooled Chilled Water Plant,11,0.66,2017,20,N,212.1,147.1,104.4,Improved,Top Quartile,Y,41,7186478.4
+LEW BUILDING,"45 NORTH CANAL ROAD, SINGAPORE 059301",Office Building,Small,No,2001,,Not Certified,No,654,70,100,,"Others (Split Units, Unitary Systems)",1,,,10,N,160.8,131.7,134.2,Worsened,2nd Quartile,Y,17,87766.79999999999
+,"16 UPPER CROSS STREET, SINGAPORE 058331",Hotel,Small,No,1904,,Not Certified,No,315,19,100,20,"Others (Split Units, Unitary Systems)",5,,,0,N,386.4,369,313.8,Improved,3rd Quartile,Y,114,98847
+QUAYSIDE ISLE,"31 OCEAN WAY, SINGAPORE 098375",Retail Building,Small,No,2012,2017,Platinum,Yes,5729,67,90,,"Others (Split Units, Unitary Systems)",4,,,68,Y,582,592.5,594.8,Worsened,Bottom Quartile,Y,6,3407609.1999999997
+THE GALEN,"61 SCIENCE PARK ROAD, SINGAPORE 117525",Retail Building,Large,No,2002,,Not Certified,No,30545,75,80,,Water Cooled Chilled Water Plant,5,,,0,N,306.9,242.7,209.1,Improved,Top Quartile,Y,16,6386959.5
+THE KENDALL,"50 SCIENCE PARK ROAD, SINGAPORE 117406",Office Building,Large,No,2009,,Not Certified,No,20190,85,95,,Water Cooled Chilled Water Plant,3,,,10,N,599.4,649,688.6,Worsened,Bottom Quartile,Y,9,13902834
+,,Office Building,Large,,,,,No,,,,,,,,,,,509.7,466.1,408.2,Improved,Bottom Quartile,N,,
+,,Office Building,Small,,,,,No,,,,,,,,,,,1004.6,946.2,820.6,Improved,Bottom Quartile,N,,
+THE CAPRICORN,"1 SCIENCE PARK ROAD, SINGAPORE 117528",Office Building,Large,No,2001,,Not Certified,No,28602,76,80,,Water Cooled Chilled Water Plant,6,0.61,,0,N,225.1,197.5,163.3,Improved,2nd Quartile,Y,17,4670706.600000001
+SPARKLE,"45 SCIENCE PARK ROAD, SINGAPORE 117407",Retail Building,Small,No,2015,,Not Certified,No,2347,77,61,,"Others (Split Units, Unitary Systems)",1,,,100,N,0,72.1,368,Worsened,2nd Quartile,Y,3,863696
+THE ALPHA,"10 SCIENCE PARK ROAD, SINGAPORE 117684",Office Building,Large,No,1995,,Not Certified,No,28533,91,75,,Water Cooled Chilled Water Plant,1,0.55,2016,80,N,249.3,223.5,161.3,Improved,2nd Quartile,Y,23,4602372.9
+,,Healthcare Facility,,,,,,No,,,,,,,,,,,533.7,504,531.2,Worsened,,,,
+,,Hotel,Large,,,,,Yes,,,,,,,,,,,18.7,254.5,447.7,Worsened,Bottom Quartile,N,,
+,,Office Building,Large,,,,,Yes,,,,,,,,,,,311.2,294,274.8,Improved,Bottom Quartile,N,,
+CHOON KIM HOUSE,"780 UPPER SERANGOON ROAD, SINGAPORE 534649",Retail Building,Small,No,2002,,Not Certified,No,729,100,100,,"Others (Split Units, Unitary Systems)",0,,,0,N,565.4,555.2,447.4,Improved,3rd Quartile,Y,16,326154.6
+VIVA VISTA,"3 SOUTH BUONA VISTA ROAD, SINGAPORE 118136",Office Building,Small,No,2014,,Not Certified,No,9014,22,10,,"Others (Split Units, Unitary Systems)",2,,,0,N,92.6,98.9,101.7,Worsened,Top Quartile,Y,4,916723.8
+,"711 EAST COAST ROAD, SINGAPORE 459065",Retail Building,Small,No,2014,,Not Certified,No,713,70,60,23,"Others (Split Units, Unitary Systems)",0,,,100,N,212,197.7,197.3,Improved,2nd Quartile,Y,4,140674.9
+SANTA GRAND HOTEL BUGIS,"8 JALAN KUBOR, SINGAPORE 199207",Hotel,Small,No,2009,,Not Certified,No,2022,93,80,74,"Others (Split Units, Unitary Systems)",7,,,100,N,234,244.6,263.9,Worsened,3rd Quartile,Y,9,533605.7999999999
+LEMON GRASS HOTEL,"34 LORONG 22 GEYLANG, SINGAPORE 398691",Hotel,Small,No,2008,,Not Certified,No,1278,59,80,42,"Others (Split Units, Unitary Systems)",10,,,100,N,180.1,189.4,166.9,Improved,Top Quartile,Y,10,213298.2
+SANTA GRAND HOTEL LITTLE INDIA,"3 VEERASAMY ROAD, SINGAPORE 207309",Hotel,Small,No,2009,,Not Certified,No,714,58,80,20,"Others (Split Units, Unitary Systems)",9,,,0,N,157.8,160,153.1,Improved,Top Quartile,Y,9,109313.4
+SANTA GRAND HOTEL WEST COAST,"428 PASIR PANJANG ROAD, SINGAPORE 118769",Hotel,Small,No,2011,,Not Certified,No,1015,88,80,42,"Others (Split Units, Unitary Systems)",6,,,100,N,183,188.5,183.6,Improved,2nd Quartile,Y,7,186354
+ORCHARD GATEWAY,"277 ORCHARD ROAD, SINGAPORE 238858",Mixed Development,,No,2014,2012,Platinum,Yes,48324,100,99,499,Water Cooled Chilled Water Plant,3,,,80,N,396.9,400.1,370.8,Improved,Bottom Quartile,Y,4,17918539.2
+,"125 LAVENDER STREET, SINGAPORE 338734",Hotel,Small,No,1933,,Not Certified,No,2500,8,100,8,"Others (Split Units, Unitary Systems)",6,,,100,N,28.6,28.1,30.5,Worsened,Top Quartile,Y,85,76250
+REALTY CENTRE,"15 ENGGOR STREET, SINGAPORE 079716",Office Building,Small,No,1980,,Not Certified,No,5447,37,100,,Water Cooled Packaged Unit,,,,0,N,214.6,220.9,212.9,Improved,3rd Quartile,Y,38,1159666.3
+BOON LIEW BUILDING,"204 BUKIT TIMAH ROAD, SINGAPORE 229863",Office Building,Small,No,1971,,Not Certified,No,2500,80,100,,"Others (Split Units, Unitary Systems)",10,,,0,N,68.4,63.3,38.1,Improved,Top Quartile,Y,47,95250
+AKZONOBEL HOUSE,"3 CHANGI BUSINESS PARK VISTA, SINGAPORE 486051",Office Building,Large,No,2002,,Not Certified,No,19225,80,60,,District Cooling Plant,16,,,0,N,79,89.5,93.6,Worsened,Top Quartile,Y,16,1799460
+HONEYWELL BUILDING,"17 CHANGI BUSINESS PARK CENTRAL 1, SINGAPORE 486073",Office Building,Large,No,2000,,Not Certified,No,18122,77,80,,District Cooling Plant,16,,,45,N,131.4,126,114.4,Improved,Top Quartile,Y,18,2073156.8
+PLAZA 8 @ CBP,"1 CHANGI BUSINESS PARK CRESCENT, SINGAPORE 486025",Office Building,Large,No,2009,,Not Certified,No,32504,77,97,,District Cooling Plant,7,,,70,N,167.4,147.5,168.8,Worsened,2nd Quartile,Y,9,5486675.2
+CHANGI CITY,"1 CHANGI BUSINESS PARK CENTRAL 1, SINGAPORE 486036",Office Building,Large,No,2012,2011,GoldPlus,Yes,71158,74,95,,Water Cooled Chilled Water Plant,4,0.59,2015,15,N,261.8,253.7,235.1,Improved,3rd Quartile,Y,6,16729245.799999999
+,"3 CHANGI BUSINESS PARK CRESCENT, SINGAPORE 486026",Office Building,Large,No,2009,2009,Platinum,Yes,21167,85,100,,District Cooling Plant,9,,,30,N,359.1,363.4,381.8,Worsened,Bottom Quartile,Y,9,8081560.600000001
+,,Office Building,Large,,,,,Yes,,,,,,,,,,,340.5,360.5,352,Improved,Bottom Quartile,N,,
+,,Office Building,Small,,,,,No,,,,,,,,,,,120.4,139.9,171.2,Worsened,2nd Quartile,N,,
+,,Office Building,Large,,,,,No,,,,,,,,,,,207,226.7,211.9,Improved,3rd Quartile,N,,
+MANHATTAN HOUSE,"151 CHIN SWEE ROAD, SINGAPORE 169876",Office Building,Large,No,1969,,Not Certified,No,16450,99,95,,Water Cooled Chilled Water Plant,40,,,0,N,180.3,171.1,185.3,Worsened,2nd Quartile,Y,49,3048185
+LAND TRANSPORT AUTHORITY,"1 HAMPSHIRE ROAD, SINGAPORE 219428",Office Building,Large,Yes,1997,,Not Certified,No,37923,79,100,,"Others (Split Units, Unitary Systems)",4,,,0,N,256.7,251.5,226.5,Improved,3rd Quartile,Y,21,8589559.5
+,,Office Building,Small,,,,,Yes,,,,,,,,,,,279.8,298.8,297.1,Improved,Bottom Quartile,N,,
+ITS CENTRE,"181 RIVER VALLEY ROAD, SINGAPORE 179034",Office Building,Small,Yes,1990,,Not Certified,No,4551,37,100,,"Others (Split Units, Unitary Systems)",8,,,0,N,317,312.7,309.1,Improved,Bottom Quartile,Y,28,1406714.1
+MRTC HEADQUARTERS,"251 NORTH BRIDGE ROAD, SINGAPORE 179102",Office Building,Small,Yes,1991,,Not Certified,No,9938,55,100,,Water Cooled Chilled Water Plant,7,0.63,2016,0,N,220.7,224.4,210.9,Improved,3rd Quartile,Y,27,2095924.2
+MND BUILDING,"5 MAXWELL ROAD, SINGAPORE 069110",Office Building,Large,Yes,1970,,Not Certified,No,84229,42,100,,Water Cooled Chilled Water Plant,13,,,0,N,154.1,140.2,159,Worsened,2nd Quartile,Y,48,13392411
+VICTORIA HOTEL,"87 VICTORIA STREET, SINGAPORE 188016",Hotel,Small,No,2007,,Not Certified,No,2845,87,60,89,Air Cooled Chilled Water Plant,7,,,0,N,119,88.8,98.2,Worsened,Top Quartile,Y,11,279379
+,,Healthcare Facility,,,,,,No,,,,,,,,,,,366.2,374.6,370.8,Improved,,,,
+GALAXIS,"1 FUSIONOPOLIS PLACE, SINGAPORE 138522",Office Building,Large,No,2017,2014,Platinum,Yes,68839,85,98,,Water Cooled Chilled Water Plant,2,0.65,2016,25,N,94.3,182.9,184.4,Worsened,2nd Quartile,Y,1,12693911.6
+,,Healthcare Facility,,,,,,No,,,,,,,,,,,106.2,118,126,Worsened,,,,
+,,Office Building,Small,,,,,Yes,,,,,,,,,,,22.6,66.8,154.8,Worsened,2nd Quartile,N,,
+SEMBAWANG MART,"511 CANBERRA ROAD, SINGAPORE 750511",Retail Building,Small,Yes,2005,,Not Certified,No,5345,64,100,,"Others (Split Units, Unitary Systems)",7,,,0,N,482.6,494.5,459,Improved,3rd Quartile,Y,13,2453355
+ICON@CHANGI,"228 CHANGI ROAD, SINGAPORE 419741",Office Building,Small,No,2013,,Not Certified,No,5295,100,78,,"Others (Split Units, Unitary Systems)",4,,,60,N,43.2,38.2,37.7,Improved,Top Quartile,Y,5,199621.50000000003
+BALESTIER 288,"288 BALESTIER ROAD, SINGAPORE 329731",Retail Building,Small,No,2003,,Not Certified,No,2002,15,100,,"Others (Split Units, Unitary Systems)",1,,,0,N,154,153.2,145.3,Improved,Top Quartile,Y,15,290890.60000000003
+,,Educational Institution,,,,,,Yes,,,,,,,,,,,117.2,116.3,104.2,Improved,,,,
+,,Educational Institution,,,,,,No,,,,,,,,,,,76.3,78.3,78.4,Worsened,,,,
+,,Hotel,Small,,,,,No,,,,,,,,,,,71.6,206.2,212.8,Worsened,2nd Quartile,N,,
+GOLDEN MILE COMPLEX,"5001 BEACH ROAD, SINGAPORE 199588",Retail Building,Large,No,1973,,Not Certified,No,66479,45,70,,Water Cooled Chilled Water Plant,16,,,0,N,160.2,166,162.9,Improved,Top Quartile,Y,45,10829429.1
+TELETECH PARK,"20 SCIENCE PARK ROAD, SINGAPORE 117674",Office Building,Large,No,1996,,Not Certified,No,23977,89,90,,Water Cooled Chilled Water Plant,1,,,90,N,356.3,315.1,307.2,Improved,Bottom Quartile,Y,22,7365734.399999999
+THE CHADWICK,"81 SCIENCE PARK DRIVE, SINGAPORE 118257",Office Building,Small,No,1994,,Not Certified,No,7816,61,87,,"Others (Split Units, Unitary Systems)",0,,,0,N,312.9,317.1,304,Improved,Bottom Quartile,Y,24,2376064
+THE CAVENDISH,"85 SCIENCE PARK DRIVE, SINGAPORE 118259",Office Building,Small,No,1994,,Not Certified,No,8760,54,86,,"Others (Split Units, Unitary Systems)",0,,,0,N,879.8,926.3,885.1,Improved,Bottom Quartile,Y,24,7753476
+THE CURIE,"83 SCIENCE PARK DRIVE, SINGAPORE 118258",Office Building,Small,No,1994,,Not Certified,No,7816,61,68,,"Others (Split Units, Unitary Systems)",0,,,0,N,257.1,194.8,167.8,Improved,2nd Quartile,Y,24,1311524.8
+THE FRANKLIN,"3 SCIENCE PARK DRIVE, SINGAPORE 118223",Office Building,Small,No,2005,,Not Certified,No,8900,100,71,,Water Cooled Chilled Water Plant,4,,,0,N,326,294.5,289.4,Improved,Bottom Quartile,Y,13,2575660
+CENTENNIAL TOWER,"3 TEMASEK AVENUE, SINGAPORE 039190",Office Building,Large,No,1997,2011,GoldPlus,Yes,64846,80,100,,Water Cooled Chilled Water Plant,4,0.65,2013,0,N,218.9,200.3,193.1,Improved,3rd Quartile,Y,21,12521762.6
+MILLENIA WALK,"9 RAFFLES BOULEVARD, SINGAPORE 039596",Mixed Development,,No,1996,2011,Platinum,Yes,228435,88,85,1115,District Cooling Plant,20,0.67,2013,0,N,292,306.5,303.6,Improved,3rd Quartile,Y,22,69352866
+THE SOUTHBRIDGE HOTEL,"210 SOUTH BRIDGE ROAD, SINGAPORE 058759",Hotel,Small,No,2014,,Not Certified,No,1906,84,90,47,"Others (Split Units, Unitary Systems)",3,,,20,N,201.8,212.8,216.8,Worsened,2nd Quartile,Y,4,413220.80000000005
+,"333 JALAN BESAR, SINGAPORE 209018",Office Building,Small,No,1990,,Not Certified,No,1600,25,100,,"Others (Split Units, Unitary Systems)",6,,,100,N,75,74.2,71.8,Improved,Top Quartile,Y,28,114880
+,"137 TELOK AYER STREET, SINGAPORE 068602",Office Building,Small,No,2003,,Not Certified,No,9233,100,100,,"Others (Split Units, Unitary Systems)",0,,,0,N,236.3,250.3,233.1,Improved,3rd Quartile,Y,15,2152212.3
+,"1A INTERNATIONAL BUSINESS PARK, SINGAPORE 609933",Office Building,Large,No,2009,2013,Gold,Yes,19967,84,100,,Water Cooled Chilled Water Plant,6,,,5,N,154,133.2,118.1,Improved,Top Quartile,Y,9,2358102.6999999997
+,,Educational Institution,,,,,,Yes,,,,,,,,,,,158.7,162.3,158.4,Improved,,,,
+ORCHARD HOTEL SINGAPORE,"442 ORCHARD ROAD, SINGAPORE 238879",Hotel,Large,No,1980,2015,Gold,Yes,44097,80,88,656,Water Cooled Chilled Water Plant,8,0.78,2015,50,N,376.4,388.4,388.1,Improved,Bottom Quartile,Y,38,17114045.7
+GRAND COPTHORNE WATERFRONT,"392 HAVELOCK ROAD, SINGAPORE 169663",Hotel,Large,No,1999,2015,Platinum,Yes,51726,75,82,574,Water Cooled Chilled Water Plant,3,0.6,2015,8,N,275.1,261.6,260.6,Improved,2nd Quartile,Y,19,13479795.600000001
+THE CATHAY,"2 HANDY ROAD, SINGAPORE 229233",Retail Building,Large,No,2006,,Not Certified,No,24434,100,71,,Water Cooled Chilled Water Plant,10,1,,5,N,379.3,347.3,352.5,Worsened,2nd Quartile,Y,12,8612985
+CATHAY CINELEISURE ORCHARD,"8 GRANGE ROAD, SINGAPORE 239695",Retail Building,Large,No,1997,,Not Certified,No,24646,77,88,,Water Cooled Chilled Water Plant,2,,,75,N,470.6,421.7,421.9,Worsened,2nd Quartile,Y,21,10398147.399999999
+HOTEL GRAND PACIFIC,"101 VICTORIA STREET, SINGAPORE 188018",Hotel,Large,No,1971,,Not Certified,No,14950,87,80,240,Water Cooled Chilled Water Plant,4,0.83,2017,35,N,246.1,242.7,239,Improved,2nd Quartile,Y,47,3573050
+,,Retail Building,Small,,,,,No,,,,,,,,,,,485.7,494.7,474.9,Improved,3rd Quartile,N,,
+,,Retail Building,Small,,,,,No,,,,,,,,,,,740.8,678.2,514,Improved,Bottom Quartile,N,,
+MONI GALLERY HOSTEL,"263 LAVENDER STREET, SINGAPORE 338795",Hotel,Small,No,1926,,Not Certified,No,462,100,60,9,"Others (Split Units, Unitary Systems)",1,,,20,N,152,157.7,143.1,Improved,Top Quartile,Y,92,66112.2
+THE HIVE,"624 SERANGOON ROAD, SINGAPORE 218223",Hotel,Small,No,2000,,Not Certified,No,690,70,65,10,"Others (Split Units, Unitary Systems)",7,,,75,N,87.5,118,112.1,Improved,Top Quartile,Y,18,77349
+,"322 LAVENDER STREET, SINGAPORE 338821",Hotel,Small,No,2000,,Not Certified,No,268,75,100,5,"Others (Split Units, Unitary Systems)",2,,,100,N,162.1,156.1,175.6,Worsened,Top Quartile,Y,18,47060.799999999996
+,,Hotel,Small,,,,,No,,,,,,,,,,,572.1,511.7,640.3,Worsened,Bottom Quartile,N,,
+D KRANJI FARM RESORT,"10 NEO TIEW LANE 2, SINGAPORE 718813",Mixed Development,,No,2008,,Not Certified,No,3057,51,50,35,"Others (Split Units, Unitary Systems)",2,,,70,N,179.3,219.1,213.3,Improved,2nd Quartile,Y,10,652058.1
+,"387 BALESTIER ROAD, SINGAPORE 329795",Hotel,Small,No,2009,,Not Certified,No,892,99,75,45,"Others (Split Units, Unitary Systems)",8,,,0,N,330.9,400,349.9,Improved,Bottom Quartile,Y,9,312110.8
+AQUEEN HOTEL - PAYA LEBAR,"33 JALAN AFIFI, SINGAPORE 409180",Hotel,Small,No,2015,,Not Certified,No,4929,64,65,162,"Others (Split Units, Unitary Systems)",2,,,80,N,176.2,300.3,315.5,Worsened,3rd Quartile,Y,3,1555099.5
+AQUEEN HOTEL - LAVENDER,"139 LAVENDER STREET, SINGAPORE 338739",Hotel,Small,No,2010,,Not Certified,No,2230,97,65,105,"Others (Split Units, Unitary Systems)",7,,,0,N,418.5,412,435.9,Worsened,Bottom Quartile,Y,8,972057
+AQUEEN - JALAN BESAR HOTEL,"230 JALAN BESAR, SINGAPORE 208906",Hotel,Small,No,2014,,Not Certified,No,1948,62,65,76,"Others (Split Units, Unitary Systems)",3,,,70,N,274,293.1,322.4,Worsened,3rd Quartile,Y,4,628035.2
+,"44 ROWELL ROAD, SINGAPORE 207995",Hotel,Small,No,2003,,Not Certified,No,107,100,80,14,"Others (Split Units, Unitary Systems)",6,,,0,N,347.6,303.8,284.9,Improved,3rd Quartile,Y,15,30484.3
+GUTHRIE BUILDING,"150 CHANGI ROAD, SINGAPORE 419973",Office Building,Small,No,1997,,Not Certified,No,3904,29,100,,"Others (Split Units, Unitary Systems)",15,,,0,N,220.9,219.4,195.3,Improved,3rd Quartile,Y,21,762451.2000000001
+THE ADELPHI,"1 COLEMAN STREET, SINGAPORE 179803",Mixed Development,,No,1990,,Not Certified,No,41158,97,100,,Water Cooled Chilled Water Plant,6,1.3,2016,0,N,218.5,215.5,230.1,Worsened,2nd Quartile,Y,28,9470455.799999999
+PAGODA VIEW,"32 PAGODA STREET, SINGAPORE 059191",Retail Building,Small,No,1997,,Not Certified,No,162,100,100,,"Others (Split Units, Unitary Systems)",4,,,18,N,701.1,708.9,667.8,Improved,Bottom Quartile,Y,21,108183.59999999999
+JEAN YIP LOFT,"307 NEW BRIDGE ROAD, SINGAPORE 088757",Retail Building,Small,No,2011,,Not Certified,No,1505,70,100,,"Others (Split Units, Unitary Systems)",4,,,90,N,274.1,245.3,181.6,Improved,2nd Quartile,Y,7,273308
+CHERN SENG BUILDING,"7 HINDOO ROAD, SINGAPORE 209108",Office Building,Small,No,2004,,Not Certified,No,2048,93,90,,"Others (Split Units, Unitary Systems)",1,,,0,N,69.9,72,64.5,Improved,Top Quartile,Y,14,132096
+TANJONG KATONG COMPLEX,"845 GEYLANG ROAD, SINGAPORE 400845",Retail Building,Large,No,1983,,Not Certified,No,19000,100,95,,Water Cooled Chilled Water Plant,15,,,25,N,263.4,249.7,231.8,Improved,Top Quartile,Y,35,4404200
+THE NOBLE HOTEL,"407 JALAN BESAR, SINGAPORE 209012",Hotel,Small,No,1996,,Not Certified,No,1022,86,75,30,"Others (Split Units, Unitary Systems)",3,,,90,N,153.3,191.3,238.2,Worsened,2nd Quartile,Y,22,243440.4
+,"985 UPPER SERANGOON ROAD, SINGAPORE 534731",Retail Building,Small,No,1993,,Not Certified,No,580,100,100,,"Others (Split Units, Unitary Systems)",5,,,0,N,215.8,183.7,151.5,Improved,Top Quartile,Y,25,87870
+JOYFOR SINGAPORE,"135 GEYLANG ROAD, SINGAPORE 389226",Hotel,Small,No,2012,,Not Certified,No,642,100,50,19,"Others (Split Units, Unitary Systems)",3,,,100,N,203.4,240,221.5,Improved,2nd Quartile,Y,6,142203
+,,Office Building,Small,,,,,No,,,,,,,,,,,198.1,211.6,203.3,Improved,3rd Quartile,N,,
+112 KATONG,"112 EAST COAST ROAD, SINGAPORE 428802",Retail Building,Large,No,2011,,Not Certified,No,26208,100,84,,Water Cooled Chilled Water Plant,4,,,10,N,492.7,481.1,466.7,Improved,3rd Quartile,Y,7,12231273.6
+BUKIT PASOH BUILDING,"3 BUKIT PASOH ROAD, SINGAPORE 089817",Office Building,Small,No,2006,,Not Certified,No,863,93,90,,"Others (Split Units, Unitary Systems)",10,,,0,N,212.2,224.8,218.7,Improved,3rd Quartile,Y,12,188738.09999999998
+,,Retail Building,Large,,,,,Yes,,,,,,,,,,,556.4,474.7,667,Worsened,Bottom Quartile,N,,
+CENTURY SQUARE,"2 TAMPINES CENTRAL 5, SINGAPORE 529509",Retail Building,Large,No,1995,2016,Gold,Yes,29600,84,99,,Water Cooled Chilled Water Plant,5,0.78,2015,20,N,544.6,527.8,368.4,Improved,2nd Quartile,Y,23,10904640
+,,Retail Building,Large,,,,,Yes,,,,,,,,,,,322.4,572.9,565.2,Improved,Bottom Quartile,N,,
+TAMPINES ONE,"10 TAMPINES CENTRAL 1, SINGAPORE 529536",Retail Building,Large,No,2009,2013,GoldPlus,Yes,35386,100,100,,Water Cooled Chilled Water Plant,8,0.68,2015,10,N,480.6,473.5,456.8,Improved,3rd Quartile,Y,9,16164324.8
+LIANG COURT,"177 RIVER VALLEY ROAD, SINGAPORE 179030",Retail Building,Large,No,1980,,Not Certified,No,49164,84,98,,Water Cooled Chilled Water Plant,10,,,20,N,377.1,365.4,352.6,Improved,2nd Quartile,Y,38,17335226.400000002
+,,Retail Building,Large,,,,,No,,,,,,,,,,,599.4,611,593,Improved,Bottom Quartile,N,,
+MERCHANTS BUILDING,"76 SOUTH BRIDGE ROAD, SINGAPORE 058706",Office Building,Small,No,1980,,Not Certified,No,307,100,100,,"Others (Split Units, Unitary Systems)",30,,,0,N,143.8,175.5,177,Worsened,2nd Quartile,Y,38,54339
+KEPPEL BAY TOWER,"1 HARBOURFRONT AVENUE, SINGAPORE 098632",Office Building,Large,No,2002,2014,Platinum,Yes,41840,92,98,,Water Cooled Chilled Water Plant,3,0.6,2015,30,N,184.2,162.7,164.9,Worsened,2nd Quartile,Y,16,6899416
+,"97 TANK ROAD, SINGAPORE 238066",Mixed Development,,No,1963,,Not Certified,No,9161,66,40,,Air Cooled Chilled Water Plant,20,3.34,2017,0,N,123.8,126,119.3,Improved,Top Quartile,Y,55,1092907.3
+ONE RAFFLES PLACE,"1 RAFFLES PLACE, SINGAPORE 048616",Office Building,Large,No,1988,2017,Platinum,Yes,117542,71,95,,Water Cooled Chilled Water Plant,5,0.7,,10,Y,244.7,259.1,238.5,Improved,3rd Quartile,Y,30,28033767
+,,Healthcare Facility,,,,,,No,,,,,,,,,,,89.2,83.7,84.4,Worsened,,,,
+,,Healthcare Facility,,,,,,Yes,,,,,,,,,,,30.6,113.9,118.2,Worsened,,,,
+,,Retail Building,Large,,,,,No,,,,,,,,,,,212.2,211.5,174.8,Improved,Top Quartile,N,,
+,,Healthcare Facility,,,,,,No,,,,,,,,,,,51.6,138.8,135.9,Improved,,,,
+,,Healthcare Facility,,,,,,No,,,,,,,,,,,122.5,122.9,114.2,Improved,,,,
+,,Healthcare Facility,,,,,,No,,,,,,,,,,,35.2,61.6,66.7,Worsened,,,,
+,,Healthcare Facility,,,,,,No,,,,,,,,,,,111.3,120.9,123,Worsened,,,,
+,,Healthcare Facility,,,,,,No,,,,,,,,,,,262.8,301.9,293.5,Improved,,,,
+NORTH-EASTERN ENVIRONMENTAL HEALTH OFFICE,"174 SIN MING DRIVE, SINGAPORE 575715",Office Building,Small,Yes,1985,,Not Certified,No,1715,90,95,,"Others (Split Units, Unitary Systems)",0,,,0,N,145.6,144.4,138.7,Improved,2nd Quartile,Y,33,237870.49999999997
+THE CLUB,"28 ANN SIANG ROAD, SINGAPORE 069708",Hotel,Small,No,1928,,Not Certified,No,1940,13,78,20,"Others (Split Units, Unitary Systems)",1,,,0,N,223.5,428.4,345.8,Improved,3rd Quartile,Y,90,670852
+ASIA SQUARE TOWER 1,"8 MARINA VIEW, SINGAPORE 018960",Office Building,Large,No,2011,2015,Platinum,Yes,145650,85,89,,District Cooling Plant,10,,,10,Y,183.8,180.2,169.6,Improved,2nd Quartile,Y,7,24702240
+ASIA SQUARE TOWER 2,"12 MARINA VIEW, SINGAPORE 018961",Office Building,Large,No,2013,2017,Platinum,Yes,99576,83,77,305,District Cooling Plant,10,,,10,Y,187.9,199.5,207.4,Worsened,3rd Quartile,Y,5,20652062.400000002
+,,Healthcare Facility,,,,,,No,,,,,,,,,,,35,104.4,96.7,Improved,,,,
+,,Office Building,Small,,,,,No,,,,,,,,,,,167.2,151,149.9,Improved,2nd Quartile,N,,
+,"70 BIOPOLIS STREET, SINGAPORE 138547",Office Building,Large,No,2013,2013,Gold,Yes,33363,83,75,,District Cooling Plant,3,,,0,Y,324.6,321.7,312.2,Improved,Bottom Quartile,Y,5,10415928.6
+,,Educational Institution,,,,,,Yes,,,,,,,,,,,146.7,177.6,168.4,Improved,,,,
+PARK AVENUE CHANGI,"2 CHANGI BUSINESS PARK AVENUE 1, SINGAPORE 486015",Office Building,Large,No,2012,2010,GoldPlus,Yes,72782,83,90,251,District Cooling Plant,6,,,0,N,190.4,200.1,194.1,Improved,3rd Quartile,Y,6,14126986.2
+VIVA BUSINESS PARK,"750 CHAI CHEE ROAD, SINGAPORE 469000",Office Building,Large,No,2017,,Not Certified,No,141841,74,78,,Water Cooled Chilled Water Plant,1,0.65,,0,N,795,791.5,760.2,Improved,Bottom Quartile,Y,1,107827528.2
+,,Healthcare Facility,,,,,,No,,,,,,,,,,,134.4,141.2,141.5,Worsened,,,,
+POLICE CANTONMENT COMPLEX,"391 NEW BRIDGE ROAD, SINGAPORE 088762",Office Building,Large,Yes,2001,,Not Certified,No,106793,26,70,,Water Cooled Chilled Water Plant,16,,,1,N,222.5,230.1,229.6,Improved,3rd Quartile,Y,17,24519672.8
+,"18 NAPIER ROAD, SINGAPORE 258510",Office Building,Large,Yes,2015,,Not Certified,No,15200,80,90,,Water Cooled Chilled Water Plant,3,,,75,Y,35.3,107.7,113.5,Worsened,Top Quartile,Y,3,1725200
+,"8 LORONG 10 GEYLANG, SINGAPORE 399041",Hotel,Small,No,2004,,Not Certified,No,957,58,80,42,"Others (Split Units, Unitary Systems)",4,,,0,N,166.4,152.7,146.9,Improved,Top Quartile,Y,14,140583.30000000002
+TPI BUILDING,"62 CECIL STREET, SINGAPORE 049710",Office Building,Small,No,1982,,Not Certified,No,2974,18,70,,"Others (Split Units, Unitary Systems)",1,,,0,N,116.8,105.1,116.8,Worsened,Top Quartile,Y,36,347363.2
+GRAND PARK ORCHARD,"270 ORCHARD ROAD, SINGAPORE 238857",Hotel,Large,No,2010,,Not Certified,No,22606,98,88,308,Water Cooled Chilled Water Plant,31,,,30,N,358.2,276.2,284.2,Worsened,3rd Quartile,Y,8,6424625.2
+BANGKOK BANK BUILDING,"180 CECIL STREET, SINGAPORE 069546",Office Building,Large,No,1978,,Not Certified,No,15590,83,75,,Water Cooled Chilled Water Plant,31,,,0,N,125.8,127,121.1,Improved,Top Quartile,Y,40,1887949
+,,Retail Building,Small,,,,,No,,,,,,,,,,,262.4,271.1,246.7,Improved,2nd Quartile,N,,
+,,Healthcare Facility,,,,,,No,,,,,,,,,,,212.8,192.9,178.6,Improved,,,,
+MAYBANK TOWER,"2 BATTERY ROAD, SINGAPORE 049907",Office Building,Small,No,2001,,Not Certified,No,14989,99,100,,Water Cooled Chilled Water Plant,15,,,50,N,374.1,359,337,Improved,Bottom Quartile,Y,17,5051293
+LAVENDER PLACE,"161 LAVENDER STREET, SINGAPORE 338750",Office Building,Small,No,1996,,Not Certified,No,3853,85,70,,"Others (Split Units, Unitary Systems)",20,,,0,N,142.6,146,124.7,Improved,Top Quartile,Y,22,480469.10000000003
+,,Hotel,Large,,,,,No,,,,,,,,,,,70.4,66.7,64.4,Improved,Top Quartile,N,,
+,"1200 WOODLANDS ROAD, SINGAPORE 738700",Office Building,Large,Yes,2013,,Not Certified,No,32860,13,60,,"Others (Split Units, Unitary Systems)",4,,,12,N,678.4,542.1,199.3,Improved,3rd Quartile,Y,5,6548998
+BANK OF AMERICA MERRILL LYNCH HARBOURFRONT,"2 HARBOURFRONT PLACE, SINGAPORE 098499",Office Building,Large,No,2008,2013,Gold,Yes,22722,93,100,,Water Cooled Chilled Water Plant,9,0.8,2014,30,N,402.7,401.5,386,Improved,Bottom Quartile,Y,10,8770692
+,,Hotel,Small,,,,,No,,,,,,,,,,,148.5,142.5,165.9,Worsened,Top Quartile,N,,
+MANULIFE CENTRE,"51 BRAS BASAH ROAD, SINGAPORE 189554",Office Building,Large,No,1989,2017,Platinum,Yes,27850,73,100,,Water Cooled Chilled Water Plant,9,0.56,2017,10,N,309,334.1,243.5,Improved,3rd Quartile,Y,29,6781475
+MALAYSN HGH COMN RESDL COMPLX,"301 JERVOIS ROAD, SINGAPORE 249077",Office Building,Small,No,2005,,Not Certified,No,810,100,100,,"Others (Split Units, Unitary Systems)",10,,,0,N,664.3,675.2,599,Improved,Bottom Quartile,Y,13,485190
+,,Healthcare Facility,,,,,,No,,,,,,,,,,,321.7,321,312.6,Improved,,,,
+M HOTEL,"81 ANSON ROAD, SINGAPORE 079908",Hotel,Large,No,1985,2015,GoldPlus,Yes,31033,73,87,413,Water Cooled Chilled Water Plant,13,0.67,2017,60,N,237.1,232,225.1,Improved,Top Quartile,Y,33,6985528.3
+,,Healthcare Facility,,,,,,No,,,,,,,,,,,108.7,110.1,106.9,Improved,,,,
+,"170 BENCOOLEN STREET, SINGAPORE 189657",Hotel,Large,No,2017,,Not Certified,No,15022,84,90,538,Air Cooled Chilled Water Plant,8,,,55,N,341.6,336,317.5,Improved,3rd Quartile,Y,1,4769485
+CRU CENTRE,"18 VERDUN ROAD, SINGAPORE 207280",Office Building,Small,No,1990,,Not Certified,No,1082,87,100,,"Others (Split Units, Unitary Systems)",2,,,0,N,240.1,226.2,204.1,Improved,3rd Quartile,Y,28,220836.19999999998
+,"5 KADAYANALLUR STREET, SINGAPORE 069183",Office Building,Small,No,1923,,Not Certified,No,2281,77,97,,"Others (Split Units, Unitary Systems)",4,,,5,N,101.8,92.8,60.6,Improved,Top Quartile,Y,95,138228.6
+,,Hotel,Small,,,,,No,,,,,,,,,,,405.2,392,373,Improved,Bottom Quartile,N,,
+THE NOVELTY HOUSE,"15 HONGKONG STREET, SINGAPORE 059658",Office Building,Small,No,2004,,Not Certified,No,2154,84,66,,"Others (Split Units, Unitary Systems)",3,,,0,N,140.1,131.8,111.6,Improved,Top Quartile,Y,14,240386.4
+TRISTAR COMPLEX,"970 GEYLANG ROAD, SINGAPORE 423492",Retail Building,Small,No,1998,,Not Certified,No,2775,77,90,117,"Others (Split Units, Unitary Systems)",19,,,50,N,474.2,514.6,525.2,Worsened,Bottom Quartile,Y,20,1457430.0000000002
+,,Office Building,Large,,,,,Yes,,,,,,,,,,,319.9,329.2,322.2,Improved,Bottom Quartile,N,,
+,,Healthcare Facility,,,,,,No,,,,,,,,,,,133.5,155.9,150.5,Improved,,,,
+ROBINSON POINT,"39 ROBINSON ROAD, SINGAPORE 068911",Office Building,Large,No,1997,2008,Certified,Yes,15724,82,83,,Water Cooled Chilled Water Plant,18,0.82,2013,4,N,197.7,206.6,210.2,Worsened,3rd Quartile,Y,21,3305184.8
+SIME DARBY CENTRE,"896 DUNEARN ROAD, SINGAPORE 589472",Office Building,Large,No,1988,,Not Certified,No,23533,90,95,,Water Cooled Chilled Water Plant,19,,,100,N,173.7,202.3,202.1,Improved,3rd Quartile,Y,30,4756019.3
+HEARTLAND MALL- KOVAN,"205 HOUGANG STREET 21, SINGAPORE 530205",Retail Building,Small,No,1984,,Not Certified,No,13568,100,100,,Water Cooled Chilled Water Plant,14,,,70,N,602.4,584,572.9,Improved,Bottom Quartile,Y,34,7773107.199999999
+CLEMENTI SPORTS HALL,"518 CLEMENTI AVENUE 3, SINGAPORE 129907",Office Building,Small,Yes,1990,,Not Certified,No,5091,6,85,,"Others (Split Units, Unitary Systems)",5,,,75,N,137.3,126.5,129.4,Worsened,Top Quartile,Y,28,658775.4
+,,Mixed Development,,,,,,No,,,,,,,,,,,296.3,314.7,294.6,Improved,3rd Quartile,N,,
+,"21 JURONG EAST STREET 31, SINGAPORE 609517",Office Building,Large,Yes,1973,,Not Certified,No,91069,0,50,,"Others (Split Units, Unitary Systems)",17,,,0,N,45.5,47,45.2,Improved,Top Quartile,Y,45,4116318.8000000003
+JURONG STADIUM,"10 FOURTH CHIN BEE ROAD, SINGAPORE 619707",Office Building,Small,Yes,1973,,Not Certified,No,5998,0,50,,"Others (Split Units, Unitary Systems)",17,,,0,N,7.8,10.7,9.3,Improved,Top Quartile,Y,45,55781.4
+THE CENTRAL,"6 EU TONG SEN STREET, SINGAPORE 059817",Mixed Development,,No,2009,,Not Certified,No,66474,92,90,,Water Cooled Chilled Water Plant,7,0.73,2012,0,N,356.3,354,346.1,Improved,Bottom Quartile,Y,9,23006651.400000002
+RENDEZVOUS HOTEL SINGAPORE,"9 BRAS BASAH ROAD, SINGAPORE 189559",Hotel,Large,No,1998,2017,GoldPlus,Yes,19720,64,86,298,Water Cooled Chilled Water Plant,19,,,80,N,339.3,328.7,290.8,Improved,3rd Quartile,Y,20,5734576
+ESPLANADE MALL,"8 RAFFLES AVENUE, SINGAPORE 039802",Mixed Development,,No,2002,,Not Certified,No,106584,99,70,,Water Cooled Chilled Water Plant,15,0.94,2015,30,N,321.7,312.1,309.3,Improved,3rd Quartile,Y,16,32966431.200000003
+TANJONG PAGAR CENTRE,"7 WALLICH STREET, SINGAPORE 078884",Office Building,Large,No,2016,2013,Platinum,Yes,129726,80,80,222,Water Cooled Chilled Water Plant,1,0.62,2017,30,Y,8.8,66.3,200.4,Worsened,3rd Quartile,Y,2,25997090.400000002
+PENINSULA SHOPPING COMPLEX,"3 COLEMAN STREET, SINGAPORE 179804",Hotel,Large,No,1990,,Not Certified,No,51487,99,100,591,Water Cooled Chilled Water Plant,26,,,40,N,396.5,367.9,423.3,Worsened,Bottom Quartile,Y,28,21794447.1
+,,Office Building,Large,,,,,No,,,,,,,,,,,220,213.2,206.2,Improved,3rd Quartile,N,,
+BALESTIER POINT,"279 BALESTIER ROAD, SINGAPORE 329727",Retail Building,Small,No,1988,,Not Certified,No,6154,70,88,,Air Cooled Chilled Water Plant,11,,,5,N,331.4,340.4,327.1,Improved,2nd Quartile,Y,30,2012973.4000000001
+CHOA CHU KANG CENTRE,"309 CHOA CHU KANG AVENUE 4, SINGAPORE 680309",Office Building,Small,Yes,2001,,Not Certified,No,11015,71,100,,"Others (Split Units, Unitary Systems)",16,,,50,N,220.4,209.4,182.1,Improved,2nd Quartile,Y,17,2005831.5
+,,Office Building,Large,,,,,Yes,,,,,,,,,,,259.1,270.3,241.7,Improved,3rd Quartile,N,,
+,,Educational Institution,,,,,,No,,,,,,,,,,,149,154.1,143.6,Improved,,,,
+,"101 DUNLOP STREET, SINGAPORE 209420",Hotel,Small,No,1996,,Not Certified,No,216,80,70,1,"Others (Split Units, Unitary Systems)",3,,,0,N,550.1,519.1,472.6,Improved,Bottom Quartile,Y,22,102081.6
+,"14 INTERNATIONAL BUSINESS PARK, SINGAPORE 609922",Office Building,Small,No,1998,,Not Certified,No,8838,100,100,,Air Cooled Chilled Water Plant,5,1.33,2013,0,N,215.4,217.5,213.2,Improved,3rd Quartile,Y,20,1884261.5999999999
+OCEAN FINANCIAL CENTRE,"10 COLLYER QUAY, SINGAPORE 049315",Office Building,Large,No,2011,2016,Platinum,Yes,95992,89,97,,District Cooling Plant,6.75,0.59,2015,90,Y,209.7,210.6,208,Improved,3rd Quartile,Y,7,19966336
+,,Office Building,Large,,,,,No,,,,,,,,,,,137.8,138.7,132.8,Improved,Top Quartile,N,,
+GRANDLINK SQUARE,"511 GUILLEMARD ROAD, SINGAPORE 399849",Retail Building,Small,No,2000,,Not Certified,No,10110,68,70,,"Others (Split Units, Unitary Systems)",15,,,30,N,429.1,418.1,374.6,Improved,3rd Quartile,Y,18,3787206
+SERENE CENTRE,"10 JALAN SERENE, SINGAPORE 258748",Retail Building,Small,No,1983,,Not Certified,No,3838,84,90,,Water Cooled Packaged Unit,,,,10,N,373.4,394.9,431.9,Worsened,3rd Quartile,Y,35,1657632.2
+MARINA SQUARE,"6 RAFFLES BOULEVARD, SINGAPORE 039594",Retail Building,Large,No,1987,,Not Certified,No,452045,45,84,1317,Water Cooled Chilled Water Plant,14,0.68,2017,30,N,213,213.8,205.5,Improved,Top Quartile,Y,31,92895247.5
+,,Educational Institution,,,,,,No,,,,,,,,,,,26.2,26.7,26,Improved,,,,
+HOTEL G SINGAPORE,"200 MIDDLE ROAD, SINGAPORE 188980",Hotel,Large,No,2013,,Not Certified,No,8785,93,80,308,"Others (Split Units, Unitary Systems)",5,,,100,N,334,313.9,378.1,Worsened,Bottom Quartile,Y,5,3321608.5
+VISIONCREST,"103 PENANG ROAD, SINGAPORE 238467",Office Building,Large,No,2008,,Not Certified,No,15847,89,90,,"Others (Split Units, Unitary Systems)",10,,,50,N,194,180.3,166.3,Improved,2nd Quartile,Y,10,2635356.1
+CONCORDE HOTEL AND SHOPPING MALL,"100 ORCHARD ROAD, SINGAPORE 238840",Mixed Development,,No,1984,,Not Certified,No,62543,96,90,421,Water Cooled Chilled Water Plant,0,,,5,N,184.5,178.6,172.4,Improved,Top Quartile,Y,34,10782413.200000001
+COPTHORNE KINGS HOTEL,"403 HAVELOCK ROAD, SINGAPORE 169632",Hotel,Large,No,1970,2014,Platinum,Yes,17598,94,85,310,Water Cooled Chilled Water Plant,3,0.63,2017,100,N,284.4,257.8,238.9,Improved,2nd Quartile,Y,48,4204162.2
+SLOANE COURT HOTEL,"17 BALMORAL ROAD, SINGAPORE 259803",Hotel,Small,No,1960,,Not Certified,No,1768,85,38,32,"Others (Split Units, Unitary Systems)",1,,,0,N,40.3,43.9,36.7,Improved,Top Quartile,Y,58,64885.600000000006
+W SINGAPORE SENTOSA COVE HOTEL,"21 OCEAN WAY, SINGAPORE 098374",Hotel,Large,No,2012,2010,Platinum,Yes,23800,56,70,240,Water Cooled Chilled Water Plant,5,,,60,N,406.9,399.5,402.5,Worsened,Bottom Quartile,Y,6,9579500
+KEPPEL TOWERS,"10 HOE CHIANG ROAD, SINGAPORE 089315",Office Building,Large,No,1991,2010,Gold,Yes,52945,78,84,,Water Cooled Chilled Water Plant,6,0.88,2010,0,N,147.5,159.4,165.5,Worsened,2nd Quartile,Y,27,8762397.5
+FOUR SEASONS HOTEL,"190 ORCHARD BOULEVARD, SINGAPORE 248646",Hotel,Large,No,1994,,Not Certified,No,34630,98,78,255,Water Cooled Chilled Water Plant,2,,,15,N,331.5,328.8,313.1,Improved,3rd Quartile,Y,24,10842653
+PRUDENTIAL TOWER,"30 CECIL STREET, SINGAPORE 049712",Office Building,Large,No,1998,2013,GoldPlus,Yes,27699,100,95,,Water Cooled Chilled Water Plant,1,0.65,2017,0,N,208,183.3,174.6,Improved,2nd Quartile,Y,20,4836245.399999999
+GRAND IMPERIAL HOTEL,"3 BELILIOS ROAD, SINGAPORE 219924",Hotel,Large,No,2015,,Not Certified,No,10803,83,35,328,"Others (Split Units, Unitary Systems)",7,,,90,N,349.2,273.8,290.1,Worsened,3rd Quartile,Y,3,3133950.3000000003
+,,Retail Building,Large,,,,,No,,,,,,,,,,,699,644.9,651,Worsened,Bottom Quartile,N,,
+,,Office Building,Small,,,,,No,,,,,,,,,,,166.5,163.2,137.1,Improved,2nd Quartile,N,,
+,,Office Building,Small,,,,,No,,,,,,,,,,,109.2,110.7,67.9,Improved,Top Quartile,N,,
+,,Office Building,Small,,,,,No,,,,,,,,,,,178.8,135.9,117.5,Improved,Top Quartile,N,,
+,,Office Building,Large,,,,,No,,,,,,,,,,,158.1,153.2,141,Improved,Top Quartile,N,,
+BULKHAUL HOUSE,"67 BEACH ROAD, SINGAPORE 189688",Office Building,Small,No,2009,,Not Certified,No,2118,90,100,,"Others (Split Units, Unitary Systems)",6,,,0,N,237.8,240.3,233.4,Improved,3rd Quartile,Y,9,494341.2
+THE PROSPEX,"108 MIDDLE ROAD, SINGAPORE 188967",Office Building,Small,No,2015,,Not Certified,No,3883,73,70,,Water Cooled Chilled Water Plant,20,,,0,N,29.5,91.8,148.6,Worsened,2nd Quartile,Y,3,577013.7999999999
+,"3 HAVELOCK SQUARE, SINGAPORE 059725",Office Building,Small,Yes,2001,,Not Certified,No,10700,85,100,,"Others (Split Units, Unitary Systems)",1,,,31,N,165.7,153.1,142.5,Improved,2nd Quartile,Y,17,1524750
+MSF BUILDING,"512 THOMSON ROAD, SINGAPORE 298136",Office Building,Large,Yes,1986,,Not Certified,No,19761,55,100,,Water Cooled Chilled Water Plant,10,0.91,2010,80,N,188.3,186.5,145.6,Improved,Top Quartile,Y,32,2877201.6
+SLF BUILDING,"510 THOMSON ROAD, SINGAPORE 298135",Office Building,Large,No,1986,,Not Certified,No,21090,81,90,,Water Cooled Chilled Water Plant,10,0.88,2010,80,N,166.6,159.3,148.8,Improved,Top Quartile,Y,32,3138192.0000000005
+SLF PODIUM,"512A THOMSON ROAD, SINGAPORE 298137",Office Building,Small,No,1986,,Not Certified,No,1882,100,100,,Water Cooled Chilled Water Plant,10,0.91,2010,0,N,58.2,40.4,35.4,Improved,Top Quartile,Y,32,66622.8
+,"514 THOMSON ROAD, SINGAPORE 298179",Office Building,Small,No,1986,,Not Certified,No,1882,100,100,,Water Cooled Chilled Water Plant,10,0.88,2010,90,N,1867.4,1785.5,1667.7,Improved,Bottom Quartile,Y,32,3138611.4
+BURLINGTON SQUARE,"175 BENCOOLEN STREET, SINGAPORE 189649",Office Building,Small,No,1998,,Not Certified,No,11080,100,95,,"Others (Split Units, Unitary Systems)",17,,,0,N,266.8,255.7,268.1,Worsened,Bottom Quartile,Y,20,2970548.0000000005
+SIA COMPUTER CENTRE,"722 UPPER CHANGI ROAD EAST, SINGAPORE 486854",Office Building,Small,No,1983,,Not Certified,No,12135,72,100,,Water Cooled Chilled Water Plant,15,,,0,N,1217.8,1083.7,1014.7,Improved,Bottom Quartile,Y,35,12313384.5
+FAR EAST SHOPPING CENTRE,"545 ORCHARD ROAD, SINGAPORE 238882",Mixed Development,,No,1970,,Not Certified,No,17592,85,90,,Water Cooled Chilled Water Plant,17,1.18,2015,90,N,325.7,314.5,303.9,Improved,3rd Quartile,Y,48,5346208.8
+JEM,"50 JURONG GATEWAY ROAD, SINGAPORE 608549",Retail Building,Large,No,2013,2016,Platinum,Yes,108169,96,80,,Water Cooled Chilled Water Plant,4,0.55,2016,10,N,350.1,347.2,341.1,Improved,2nd Quartile,Y,5,36896445.900000006
+HAVELOCK2,"2 HAVELOCK ROAD, SINGAPORE 059763",Retail Building,Large,No,2016,,Not Certified,No,19970,83,27,,"Others (Split Units, Unitary Systems)",1,,,55,N,26.7,49.5,188.7,Worsened,Top Quartile,Y,2,3768339
+JURONG POINT,"1 JURONG WEST CENTRAL 2, SINGAPORE 648886",Retail Building,Large,No,2002,2016,Gold,Yes,51095,90,99,,Water Cooled Chilled Water Plant,1,0.63,2014,20,N,514.4,509.7,519.8,Worsened,Bottom Quartile,Y,16,26559180.999999996
+LEISURE PARK KALLANG,"5 STADIUM WALK, SINGAPORE 397693",Retail Building,Large,No,2009,,Not Certified,No,25642,71,95,,Water Cooled Chilled Water Plant,8,,,20,N,452,449.1,458.6,Worsened,3rd Quartile,Y,9,11759421.200000001
+RUCKSACK INN @ MACKENZIE,"15 MACKENZIE ROAD, SINGAPORE 228677",Hotel,Small,No,2012,,Not Certified,No,1117,87,80,40,Water Cooled Packaged Unit,,,,25,N,341,345.7,354.4,Worsened,Bottom Quartile,Y,6,395864.8
+JURONG SPRING COMMUNITY CLUB,"8 JURONG WEST STREET 52, SINGAPORE 649296",Office Building,Small,Yes,2002,,Not Certified,No,4549,11,50,,"Others (Split Units, Unitary Systems)",12,,,0,N,203.5,200.1,201.8,Worsened,3rd Quartile,Y,16,917988.2000000001
+,,Healthcare Facility,,,,,,No,,,,,,,,,,,229.3,231.8,224.7,Improved,,,,
+THE SCARLET HOTEL,"33 ERSKINE ROAD, SINGAPORE 069333",Hotel,Small,No,2004,,Not Certified,No,3038,100,80,80,"Others (Split Units, Unitary Systems)",3,,,20,N,490.3,445.2,430.9,Improved,Bottom Quartile,Y,14,1309074.2
+,,Healthcare Facility,,,,,,No,,,,,,,,,,,385.3,394.5,381.3,Improved,,,,
+YUHUA COMMUNITY CLUB,"90 BOON LAY WAY, SINGAPORE 609958",Office Building,Small,Yes,2002,,Not Certified,No,5834,12,50,,"Others (Split Units, Unitary Systems)",1,,,0,N,0,38.7,56.8,Worsened,Top Quartile,Y,16,331371.2
+KEMBANGAN PLAZA,"18 JALAN MASJID, SINGAPORE 418944",Office Building,Small,No,1993,,Not Certified,No,3661,100,100,,"Others (Split Units, Unitary Systems)",7,,,0,N,289.5,299.5,276,Improved,Bottom Quartile,Y,25,1010436
+,,Retail Building,Large,,,,,Yes,,,,,,,,,,,486,475.7,465.6,Improved,3rd Quartile,N,,
+HDB CENTRE OF BUILDING RESEARCH,"10 WOODLANDS AVENUE 8, SINGAPORE 738973",Office Building,Large,Yes,2000,2014,Platinum,Yes,20175,15,80,,"Others (Split Units, Unitary Systems)",5,,,90,Y,41.2,42.5,38.8,Improved,Top Quartile,Y,18,782790
+,,Retail Building,Small,,,,,Yes,,,,,,,,,,,428.5,378,317.6,Improved,2nd Quartile,N,,
+,,Office Building,Large,,,,,No,,,,,,,,,,,356.8,358,361.6,Worsened,Bottom Quartile,N,,
+,,Educational Institution,,,,,,No,,,,,,,,,,,250,262.4,255.3,Improved,,,,
+,,Educational Institution,,,,,,Yes,,,,,,,,,,,539.4,517.8,503.2,Improved,,,,
+,,Educational Institution,,,,,,Yes,,,,,,,,,,,770.6,807.8,635.2,Improved,,,,
+CHANGI CITY,"5 CHANGI BUSINESS PARK CENTRAL 1, SINGAPORE 486038",Retail Building,Large,No,2011,2011,GoldPlus,Yes,28463,98,100,,Water Cooled Chilled Water Plant,6,0.65,2011,15,N,522.1,490.4,459.4,Improved,3rd Quartile,Y,7,13075902.2
+,,Healthcare Facility,,,,,,No,,,,,,,,,,,76.8,81.8,75,Improved,,,,
+,,Healthcare Facility,,,,,,No,,,,,,,,,,,89.9,98.9,96.2,Improved,,,,
+VALLEY POINT,"491 RIVER VALLEY ROAD, SINGAPORE 248371",Office Building,Large,No,1998,2016,Gold,Yes,27291,99,80,,"Others (Split Units, Unitary Systems)",19,0.92,2015,100,N,478.6,474.7,456.1,Improved,Bottom Quartile,Y,20,12447425.100000001
+POSB REGIONAL CENTRE,"42 UPPER EAST COAST ROAD, SINGAPORE 455213",Retail Building,Small,No,1987,,Not Certified,No,1829,84,90,,"Others (Split Units, Unitary Systems)",12,,,60,N,280.2,287.7,232.4,Improved,2nd Quartile,Y,31,425059.60000000003
+,"135 BUKIT TIMAH ROAD, SINGAPORE 229837",Office Building,Small,No,1993,,Not Certified,No,3811,84,75,,"Others (Split Units, Unitary Systems)",6,,,0,N,233.6,230.8,206.4,Improved,3rd Quartile,Y,25,786590.4
+SPRINGLEAF TOWER,"3 ANSON ROAD, SINGAPORE 079909",Office Building,Large,No,2003,,Not Certified,No,33846,100,88,,"Others (Split Units, Unitary Systems)",14,,,0,N,263.7,241.6,224.8,Improved,3rd Quartile,Y,15,7608580.800000001
+THE ODEON KATONG,"11 EAST COAST ROAD, SINGAPORE 428722",Retail Building,Small,No,1983,,Not Certified,No,3717,100,100,,Water Cooled Chilled Water Plant,8,,,0,N,433.6,425.2,428.8,Worsened,3rd Quartile,Y,35,1593849.6
+VISTA POINT,"548 WOODLANDS DRIVE 44, SINGAPORE 730548",Retail Building,Small,Yes,1999,2011,Gold,Yes,11260,43,100,,"Others (Split Units, Unitary Systems)",10,,,0,N,470.8,467.4,471.4,Worsened,3rd Quartile,Y,19,5307964
+JOO CHIAT COMPLEX,"1 JOO CHIAT ROAD, SINGAPORE 420001",Retail Building,Large,Yes,1982,2017,Platinum,Yes,25347,91,100,,Water Cooled Chilled Water Plant,1,0.77,,100,N,287.1,268.1,214.4,Improved,Top Quartile,Y,36,5434396.8
+DEPOT HEIGHTS SHOPPING CENTRE,"108 DEPOT ROAD, SINGAPORE 100108",Retail Building,Small,Yes,2004,2015,Gold,Yes,10700,37,100,,"Others (Split Units, Unitary Systems)",10,,,0,N,167.2,164.2,154.5,Improved,2nd Quartile,Y,14,1653150
+CRASCO BUILDING,"11 BEACH ROAD, SINGAPORE 189675",Office Building,Small,No,1984,,Not Certified,No,3880,82,84,,"Others (Split Units, Unitary Systems)",12,,,0,N,156.5,187.6,185.1,Improved,2nd Quartile,Y,34,718188
+NEW PHOENIX PARK,"28 IRRAWADDY ROAD, SINGAPORE 329560",Office Building,Large,Yes,2001,,Not Certified,No,99091,78,100,,Water Cooled Chilled Water Plant,16,1.11,2013,0,N,374.4,378.3,348.7,Improved,Bottom Quartile,Y,17,34553031.699999996
+EASTGATE,"46 EAST COAST ROAD, SINGAPORE 428766",Office Building,Small,No,1999,,Not Certified,No,7386,94,100,,Air Cooled Chilled Water Plant,3,,,0,N,78.4,81.8,75.7,Improved,Top Quartile,Y,19,559120.2000000001
+,"3 TAMPINES GRANDE, SINGAPORE 528799",Office Building,Large,No,2002,,Not Certified,No,15345,88,100,,"Others (Split Units, Unitary Systems)",5,0.87,,25,N,277.3,303.9,287.6,Improved,Bottom Quartile,Y,16,4413222
+,"120 ROBINSON ROAD, SINGAPORE 068913",Office Building,Small,No,2007,,Not Certified,No,7428,91,100,,"Others (Split Units, Unitary Systems)",10,,,0,N,225.5,236.7,206.5,Improved,3rd Quartile,Y,11,1533882
+,"22 MARTIN ROAD, SINGAPORE 239058",Office Building,Small,No,2012,,Not Certified,No,3465,90,90,,"Others (Split Units, Unitary Systems)",5,,,0,N,317.2,296.2,292.2,Improved,Bottom Quartile,Y,6,1012473
+MOUNT EMILY HOTEL,"10A UPPER WILKIE ROAD, SINGAPORE 228119",Hotel,Small,No,1994,,Not Certified,No,2652,99,75,64,"Others (Split Units, Unitary Systems)",2,,,0,N,205.9,208.8,203,Improved,2nd Quartile,Y,24,538356
+THE REGENT SINGAPORE,"1 CUSCADEN ROAD, SINGAPORE 249715",Hotel,Large,No,1982,2008,GoldPlus,Yes,42483,65,80,440,Water Cooled Chilled Water Plant,16,1.13,2015,35,N,297.9,301,294.8,Improved,3rd Quartile,Y,36,12523988.4
+,,Hotel,Large,,,,,Yes,,,,,,,,,,,180.3,171,162.3,Improved,Top Quartile,N,,
+,"4545 JALAN BUKIT MERAH, SINGAPORE 159466",Office Building,Small,Yes,1975,,Not Certified,No,2289,87,100,,"Others (Split Units, Unitary Systems)",11,,,0,N,139,126.3,121.9,Improved,Top Quartile,Y,43,279029.10000000003
+,"75 AIRPORT BOULEVARD, SINGAPORE 819664",Hotel,Large,No,2008,2008,Certified,Yes,41099,100,80,563,Water Cooled Chilled Water Plant,8,,,50,N,278.7,278.6,220.6,Improved,Top Quartile,Y,10,9066439.4
+FAR EASTERN BANK BUILDING,"156 CECIL STREET, SINGAPORE 069544",Office Building,Small,No,1991,,Not Certified,No,11315,78,97,,Water Cooled Chilled Water Plant,1,,,5,N,194.2,201.9,177.6,Improved,2nd Quartile,Y,27,2009544
+,,Educational Institution,,,,,,Yes,,,,,,,,,,,196.5,211,231.9,Worsened,,,,
+,,Educational Institution,,,,,,No,,,,,,,,,,,114.6,128.6,120.4,Improved,,,,
+,,Educational Institution,,,,,,Yes,,,,,,,,,,,138.1,131.5,115.5,Improved,,,,
+,,Educational Institution,,,,,,No,,,,,,,,,,,90.3,94.5,53,Improved,,,,
+THE 101,"101 BEACH ROAD, SINGAPORE 189703",Office Building,Small,No,1970,,Not Certified,No,3546,28,100,,Water Cooled Packaged Unit,9,,,100,N,257.5,224.5,194.9,Improved,3rd Quartile,Y,48,691115.4
+NAUMI LIORA,"55 KEONG SAIK ROAD, SINGAPORE 089158",Hotel,Small,No,2012,,Not Certified,No,2436,98,68,79,"Others (Split Units, Unitary Systems)",3,,,20,N,337.8,317.7,274,Improved,3rd Quartile,Y,6,667464
+NAUMI,"41 SEAH STREET, SINGAPORE 188396",Hotel,Small,No,1990,2012,Gold,Yes,3560,100,80,73,"Others (Split Units, Unitary Systems)",5,,,95,N,321.5,339.4,368.9,Worsened,Bottom Quartile,Y,28,1313284
+,,Hotel,Small,,,,,No,,,,,,,,,,,161.3,178.2,187.1,Worsened,2nd Quartile,N,,
+,,Educational Institution,,,,,,No,,,,,,,,,,,113.4,118,114.2,Improved,,,,
+,,Hotel,Small,,,,,No,,,,,,,,,,,62.5,104.5,99,Improved,Top Quartile,N,,
+THE GRANDSTAND,"200 TURF CLUB ROAD, SINGAPORE 287994",Retail Building,Large,No,1994,,Not Certified,No,90517,58,90,,"Others (Split Units, Unitary Systems)",5,,,15,N,211,210.3,200.2,Improved,Top Quartile,Y,24,18121503.4
+LE PERANAKAN HOTEL,"400 EAST COAST ROAD, SINGAPORE 428996",Hotel,Small,No,2009,,Not Certified,No,1005,85,70,65,"Others (Split Units, Unitary Systems)",0,,,0,N,152.2,143.4,131.5,Improved,Top Quartile,Y,9,132157.5
+LAI NGUANG BUILDING,"36 SOUTH BRIDGE ROAD, SINGAPORE 058670",Hotel,Small,No,2013,,Not Certified,No,513,83,70,17,"Others (Split Units, Unitary Systems)",1,,,0,N,274.5,182,107.8,Improved,Top Quartile,Y,5,55301.4
+INCOME AT TAMPINES POINT,"2 TAMPINES CENTRAL 6, SINGAPORE 529483",Office Building,Small,No,1999,,Not Certified,No,10950,80,90,,"Others (Split Units, Unitary Systems)",17,,,0,N,249,251.9,237.5,Improved,3rd Quartile,Y,19,2600625
+,,Office Building,Large,,,,,Yes,,,,,,,,,,,314.6,293.2,186.5,Improved,2nd Quartile,N,,
+INCOME CENTRE,"75 BRAS BASAH ROAD, SINGAPORE 189557",Office Building,Small,No,1990,,Not Certified,No,8975,73,100,,"Others (Split Units, Unitary Systems)",11,,,0,N,352.2,339.7,329.7,Improved,Bottom Quartile,Y,28,2959057.5
+EASTPOINT MALL,"3 SIMEI STREET 6, SINGAPORE 528833",Retail Building,Large,No,2014,,Not Certified,No,29002,86,90,,Water Cooled Chilled Water Plant,2,0.66,2016,87,N,450.3,474.4,466,Improved,3rd Quartile,Y,4,13514932
+INCOME AT PRINSEP,"30 PRINSEP STREET, SINGAPORE 188647",Mixed Development,,No,2013,2016,Gold,Yes,6256,69,100,,"Others (Split Units, Unitary Systems)",3,0.73,2017,33,N,258.6,253.5,240.7,Improved,2nd Quartile,Y,5,1505819.2
+BEDOK POINT,"799 NEW UPPER CHANGI ROAD, SINGAPORE 467351",Retail Building,Small,No,2010,2014,Gold,Yes,12412,68,82,,Water Cooled Chilled Water Plant,7,0.7,,20,N,385.1,376,312.6,Improved,2nd Quartile,Y,8,3879991.2
+ORCHARD BUILDING,"1 GRANGE ROAD, SINGAPORE 239693",Office Building,Small,No,1998,,Not Certified,No,11380,100,100,,Water Cooled Chilled Water Plant,19,,,55,N,417.4,433.1,410.8,Improved,Bottom Quartile,Y,20,4674904
+PENINSULA PLAZA,"111 NORTH BRIDGE ROAD, SINGAPORE 179098",Mixed Development,,No,1985,,Not Certified,No,50051,88,95,,Water Cooled Chilled Water Plant,5,1.14,2016,0,N,250.5,267.1,253.9,Improved,2nd Quartile,Y,33,12707948.9
+,,Office Building,Large,,,,,Yes,,,,,,,,,,,140.9,143.8,147.2,Worsened,Top Quartile,N,,
+,,Healthcare Facility,,,,,,No,,,,,,,,,,,53.5,68.7,88.3,Worsened,,,,
+BEDOK MALL,"311 NEW UPPER CHANGI ROAD, SINGAPORE 467360",Retail Building,Large,No,2013,2013,Platinum,Yes,31356,97,100,,Water Cooled Chilled Water Plant,4,0.57,2017,70,Y,593.4,610.7,607.1,Improved,Bottom Quartile,Y,5,19036227.6
+LIAT TOWERS,"541 ORCHARD ROAD, SINGAPORE 238881",Mixed Development,,No,1979,,Not Certified,No,19209,74,100,,Water Cooled Chilled Water Plant,21,,,30,N,295.7,307.5,283.7,Improved,3rd Quartile,Y,39,5449593.3
+UNITED HOUSE,"20 KRAMAT LANE, SINGAPORE 228773",Office Building,Small,No,1976,,Not Certified,No,5099,70,95,,Water Cooled Chilled Water Plant,39,,,0,N,136.3,108.4,107,Improved,Top Quartile,Y,42,545593
+,,Healthcare Facility,,,,,,No,,,,,,,,,,,101.4,96.9,88.8,Improved,,,,
+,,Healthcare Facility,,,,,,No,,,,,,,,,,,121.2,119.1,110.9,Improved,,,,
+,,Healthcare Facility,,,,,,No,,,,,,,,,,,358,316.2,324.7,Worsened,,,,
+MAJLIS UGAMA ISLAM SINGAPURA,"273 BRADDELL ROAD, SINGAPORE 579702",Office Building,Large,Yes,2009,,Not Certified,No,20211,35,100,,"Others (Split Units, Unitary Systems)",8,,,0,N,57.6,66.9,65,Improved,Top Quartile,Y,9,1313715
+,,Healthcare Facility,,,,,,No,,,,,,,,,,,86.1,92.7,90.8,Improved,,,,
+,,Office Building,Small,,,,,No,,,,,,,,,,,177.7,156.5,218.5,Worsened,3rd Quartile,N,,
+SHANGRI-LAS RASA SENTOSA RESORT & SPA,"101 SILOSO ROAD, SINGAPORE 098970",Hotel,Large,No,1993,,Not Certified,No,42009,86,90,454,Water Cooled Chilled Water Plant,10,0.73,2017,30,N,265.2,267.1,268.1,Worsened,3rd Quartile,Y,25,11262612.9
+SHAW HOUSE,"350 ORCHARD ROAD, SINGAPORE 238868",Office Building,Large,No,1993,2012,Gold,Yes,49048,53,90,,Water Cooled Chilled Water Plant,1,0.65,2016,8,N,292.3,280.4,267.5,Improved,Bottom Quartile,Y,25,13120340
+THE ORIENTAL PLAZA,"291 NEW BRIDGE ROAD, SINGAPORE 088756",Retail Building,Small,No,1993,,Not Certified,No,5992,59,94,,Air Cooled Chilled Water Plant,20,,,0,N,403,384.8,401.7,Worsened,3rd Quartile,Y,25,2406986.4
+SHAW CENTRE,"1 SCOTTS ROAD, SINGAPORE 228208",Office Building,Large,No,1975,2012,Gold,Yes,40939,88,85,,Water Cooled Chilled Water Plant,2,0.65,2016,27,N,365,379.9,366.9,Improved,Bottom Quartile,Y,43,15020519.1
+MARITIME HOUSE,"120 CANTONMENT ROAD, SINGAPORE 089760",Office Building,Small,Yes,1973,,Not Certified,No,7428,49,90,46,"Others (Split Units, Unitary Systems)",4,,,10,Y,127.7,124.3,121.3,Improved,Top Quartile,Y,45,901016.4
+TAMPINES MALL,"4 TAMPINES CENTRAL 5, SINGAPORE 529510",Retail Building,Large,No,1995,2013,Gold,Yes,47065,75,100,,Water Cooled Chilled Water Plant,8,0.85,2017,85,N,563.1,569.9,536.8,Improved,Bottom Quartile,Y,23,25264491.999999996
+,"2 BUKIT MERAH CENTRAL, SINGAPORE 159835",Office Building,Large,Yes,1988,,Not Certified,No,23278,95,83,,Water Cooled Chilled Water Plant,13,,,5,N,257.6,269.9,264.3,Improved,Bottom Quartile,Y,30,6152375.4
+,"1 KAY SIANG ROAD, SINGAPORE 248922",Office Building,Large,Yes,1960,,Not Certified,No,15091,63,83,,"Others (Split Units, Unitary Systems)",13,,,10,N,153.1,150.8,123.9,Improved,Top Quartile,Y,58,1869774.9000000001
+PARKROYAL ON KITCHENER ROAD,"181 KITCHENER ROAD, SINGAPORE 208533",Hotel,Large,No,1981,2014,Platinum,Yes,37721,84,80,534,Water Cooled Chilled Water Plant,1,0.64,2014,74,N,187,182.4,180.3,Improved,Top Quartile,Y,37,6801096.300000001
+CHANGI CITY,"3 CHANGI BUSINESS PARK CENTRAL 1, SINGAPORE 486037",Hotel,Large,No,2016,2012,GoldPlus,Yes,18975,86,84,313,Water Cooled Chilled Water Plant,5,0.64,2014,93,N,246,243.7,245,Worsened,2nd Quartile,Y,2,4648875
+GOODWOOD PARK HOTEL,"16 SCOTTS ROAD, SINGAPORE 228221",Hotel,Large,No,1900,,Not Certified,No,29616,90,90,233,Water Cooled Chilled Water Plant,1,0.67,2016,70,N,326.9,305.7,279.2,Improved,3rd Quartile,Y,118,8268787.199999999
+MASONIC HALL,"23A COLEMAN STREET, SINGAPORE 179806",Retail Building,Small,No,2013,,Not Certified,No,2789,65,60,,"Others (Split Units, Unitary Systems)",3,,,0,N,139.1,147,135.2,Improved,Top Quartile,Y,5,377072.8
+HOTEL SNOW,"26 CAVAN ROAD, SINGAPORE 209854",Hotel,Small,No,2008,,Not Certified,No,630,87,60,32,"Others (Split Units, Unitary Systems)",11,,,100,N,142.4,138.8,152.7,Worsened,Top Quartile,Y,10,96201
+ALEXANDRA CENTRAL,"321 ALEXANDRA ROAD, SINGAPORE 159971",Retail Building,Small,No,2014,2014,Certified,Yes,8677,20,45,,Water Cooled Chilled Water Plant,2,0.53,2016,0,N,438.3,550.9,585.2,Worsened,Bottom Quartile,Y,4,5077780.4
+,,Office Building,Large,,,,,No,,,,,,,,,,,47,65.5,70.4,Worsened,Top Quartile,N,,
+,,Healthcare Facility,,,,,,Yes,,,,,,,,,,,278.1,295.1,289.1,Improved,,,,
+,,Hotel,Small,,,,,No,,,,,,,,,,,188.1,169.7,201,Worsened,2nd Quartile,N,,
+CHINATOWN PLAZA,"34 CRAIG ROAD, SINGAPORE 089673",Retail Building,Small,No,1984,,Not Certified,No,4828,47,100,,Water Cooled Chilled Water Plant,30,,,0,N,330.6,334.3,325.4,Improved,2nd Quartile,Y,34,1571031.2
+HERITAGE PLACE,"21 TAN QUEE LAN STREET, SINGAPORE 188108",Office Building,Small,No,1998,,Not Certified,No,1858,85,100,,"Others (Split Units, Unitary Systems)",10,,,0,N,374.2,342.6,347.1,Worsened,Bottom Quartile,Y,20,644911.8
+TEMBELING CENTRE,"252 TEMBELING ROAD, SINGAPORE 423731",Office Building,Small,No,1987,,Not Certified,No,2044,91,100,,"Others (Split Units, Unitary Systems)",0,,,0,N,205.3,207,177.9,Improved,2nd Quartile,Y,31,363627.60000000003
+BRIGHT CENTRE,"212 TELOK KURAU ROAD, SINGAPORE 423835",Office Building,Small,No,1974,,Not Certified,No,3406,91,100,,"Others (Split Units, Unitary Systems)",8,,,0,N,48.3,58,62.1,Worsened,Top Quartile,Y,44,211512.6
+GRAND BUILDING,"17 PHILLIP STREET, SINGAPORE 048695",Office Building,Small,No,1970,,Not Certified,No,2500,93,100,,"Others (Split Units, Unitary Systems)",3,,,0,N,252.9,262.4,196.2,Improved,3rd Quartile,Y,48,490500
+CES CENTRE,"171 CHIN SWEE ROAD, SINGAPORE 169877",Office Building,Small,No,2015,2016,Certified,Yes,12253,82,65,,Water Cooled Chilled Water Plant,2,,,0,N,77.9,105.2,120,Worsened,Top Quartile,Y,3,1470360
+,"115 GEYLANG ROAD, SINGAPORE 389218",Hotel,Small,No,1992,,Not Certified,No,898,67,100,27,"Others (Split Units, Unitary Systems)",0,,,0,N,346.9,328.2,325.2,Improved,3rd Quartile,Y,26,292029.6
+,"15 STAMFORD ROAD, SINGAPORE 178906",Hotel,Large,No,2015,,Not Certified,No,12621,97,1,157,Water Cooled Chilled Water Plant,2,,,95,N,259.7,474.3,397.8,Improved,Bottom Quartile,Y,3,5020633.8
+CUSTOMS HOUSE,"70 COLLYER QUAY, SINGAPORE 049323",Mixed Development,,No,2010,,Not Certified,No,63748,95,100,497,"Others (Split Units, Unitary Systems)",0,,,30,N,519.7,524.7,499.9,Improved,Bottom Quartile,Y,8,31867625.2
+SCAPE,"2 ORCHARD LINK, SINGAPORE 237978",Mixed Development,,No,2010,2017,Gold,Yes,13102,57,80,,"Others (Split Units, Unitary Systems)",7,,,30,N,369.4,363.1,369.7,Worsened,Bottom Quartile,Y,8,4843809.399999999
+CITYVIBE,"3151 COMMONWEALTH AVENUE WEST, SINGAPORE 129581",Retail Building,Small,No,2009,,Not Certified,No,4325,60,95,,"Others (Split Units, Unitary Systems)",9,,,0,N,480.4,420.1,374.7,Improved,3rd Quartile,Y,9,1620577.5
+THE WOODGROVE,"30 WOODLANDS AVENUE 1, SINGAPORE 739065",Retail Building,Small,No,2000,,Not Certified,No,10000,60,90,,"Others (Split Units, Unitary Systems)",2,,,0,N,305.8,300,270.5,Improved,2nd Quartile,Y,18,2705e3
+,"260 TANJONG PAGAR ROAD, SINGAPORE 088542",Office Building,Small,No,1989,,Not Certified,No,4024,92,85,,"Others (Split Units, Unitary Systems)",5,,,25,N,162.5,165.7,155.1,Improved,2nd Quartile,Y,29,624122.4
+BANK OF SINGAPORE CENTRE,"63 MARKET STREET, SINGAPORE 048942",Office Building,Large,No,2000,,Not Certified,No,18275,99,60,,"Others (Split Units, Unitary Systems)",10,,,10,N,423,442.4,455.5,Worsened,Bottom Quartile,Y,18,8324262.5
+,"427 RACE COURSE ROAD, SINGAPORE 218673",Hotel,Small,No,2007,,Not Certified,No,317,100,60,15,"Others (Split Units, Unitary Systems)",19,,,100,N,214.3,234.1,19.2,Improved,Top Quartile,Y,11,6086.4
+,"181 UPPER THOMSON ROAD, SINGAPORE 574331",Retail Building,Small,No,2013,2014,Gold,Yes,578,95,80,,Water Cooled Packaged Unit,1,,,40,Y,296.8,289.3,277,Improved,2nd Quartile,Y,5,160106
+FIVE/6 HOTEL SPLENDOUR,"5 LORONG 6 GEYLANG, SINGAPORE 399167",Hotel,Small,No,1995,,Not Certified,No,2380,64,41,70,"Others (Split Units, Unitary Systems)",11,,,90,N,131.4,22.9,123.7,Worsened,Top Quartile,Y,23,294406
+,"51 IMBIAH WALK, SINGAPORE 099538",Hotel,Large,No,2006,,Not Certified,No,8651,78,68,196,Water Cooled Chilled Water Plant,3,0.86,2014,20,N,252,260.6,261.5,Worsened,2nd Quartile,Y,12,2262236.5
+,,Educational Institution,,,,,,Yes,,,,,,,,,,,90.9,76.9,73.2,Improved,,,,
+,,Educational Institution,,,,,,Yes,,,,,,,,,,,70.4,75.1,74.4,Improved,,,,
+"OASIA HOTEL NOVENA, SINGAPORE","8 SINARAN DRIVE, SINGAPORE 307470",Hotel,Large,No,2011,,Not Certified,No,22765,85,85,428,Water Cooled Chilled Water Plant,5,,,80,N,375.2,379.8,376.3,Improved,Bottom Quartile,Y,7,8566469.5
+PHIL INN,"43 DICKSON ROAD, SINGAPORE 209518",Hotel,Small,No,2011,,Not Certified,No,715,84,52,24,"Others (Split Units, Unitary Systems)",5,,,100,N,234.7,377.1,352.7,Improved,Bottom Quartile,Y,7,252180.5
+,"5 SPORTS DRIVE 2, SINGAPORE 117508",Office Building,Small,No,2009,,Not Certified,No,4480,55,80,,Water Cooled Packaged Unit,,,,0,N,0,603.1,383.3,Improved,Bottom Quartile,Y,9,1717184
+NUCLEOS,"21 BIOPOLIS ROAD, SINGAPORE 138567",Office Building,Large,No,2014,2012,Gold,Yes,39649,91,75,,District Cooling Plant,5,,,0,N,87,118.8,128.5,Worsened,Top Quartile,Y,4,5094896.5
+TELOK BLANGAH HOUSE,"52 TELOK BLANGAH ROAD, SINGAPORE 098829",Retail Building,Small,No,1985,,Not Certified,No,5555,58,100,,Water Cooled Packaged Unit,1,,,100,N,82,82.4,82,Improved,Top Quartile,Y,33,455510
+ROBERTSON WALK,"11 UNITY STREET, SINGAPORE 237995",Hotel,Large,No,1998,,Not Certified,No,30784,72,85,164,Water Cooled Chilled Water Plant,19,1.59,2012,100,N,294.6,284,274.9,Improved,3rd Quartile,Y,20,8462521.6
+WAI WING CENTRE,"501 BALESTIER ROAD, SINGAPORE 329844",Office Building,Small,No,1992,,Not Certified,No,2636,58,100,,"Others (Split Units, Unitary Systems)",8,,,0,N,82.2,77.7,83.1,Worsened,Top Quartile,Y,26,219051.59999999998
+,"6A STEVENS ROAD, SINGAPORE 257815",Office Building,Small,No,1930,,Not Certified,No,272,92,100,,"Others (Split Units, Unitary Systems)",1,,,100,N,72.8,84.2,69.1,Improved,Top Quartile,Y,88,18795.199999999997
+,"8 STEVENS ROAD, SINGAPORE 257819",Office Building,Small,No,1930,,Not Certified,No,799,85,100,,"Others (Split Units, Unitary Systems)",4,,,100,N,114.7,143.9,107,Improved,Top Quartile,Y,88,85493
+BISHAN SPORTS HALL,"5 BISHAN STREET 14, SINGAPORE 579783",Office Building,Small,Yes,1998,,Not Certified,No,2375,17,80,,"Others (Split Units, Unitary Systems)",7,,,0,N,581.5,539.8,552.1,Worsened,Bottom Quartile,Y,20,1311237.5
+,,Office Building,Small,,,,,No,,,,,,,,,,,182.3,215.6,239.2,Worsened,3rd Quartile,N,,
+,,Educational Institution,,,,,,Yes,,,,,,,,,,,147.8,154.9,149.9,Improved,,,,
+VANGUARD BUILDING,"71 STAMFORD ROAD, SINGAPORE 178895",Office Building,Small,No,1901,,Not Certified,No,2900,79,100,,Water Cooled Chilled Water Plant,5,,,0,N,289.3,323.9,263.1,Improved,Bottom Quartile,Y,117,762990.0000000001
+,,Educational Institution,,,,,,No,,,,,,,,,,,171.7,150,148.7,Improved,,,,
+WILKIE EDGE,"8 WILKIE ROAD, SINGAPORE 228095",Office Building,Large,No,2008,2016,Gold,Yes,29812,66,99,154,Water Cooled Chilled Water Plant,9,0.87,2015,20,N,271.6,268,261.6,Improved,Bottom Quartile,Y,10,7798819.200000001
+,,Retail Building,Large,,,,,No,,,,,,,,,,,124.5,128.5,112.2,Improved,Top Quartile,N,,
+SWIBER@IBP,"12 INTERNATIONAL BUSINESS PARK, SINGAPORE 609920",Office Building,Small,No,1992,,Not Certified,No,10841,81,100,,Water Cooled Packaged Unit,,,,0,N,195.2,189.7,137.8,Improved,2nd Quartile,Y,26,1493889.8
